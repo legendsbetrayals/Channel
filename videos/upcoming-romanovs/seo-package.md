@@ -1,6 +1,6 @@
 # The Last Night of the Romanovs
 
-Status: not yet uploaded. Package written 25 Oct 2026.
+Status: not yet uploaded. Package written 25 Oct 2026; thumbnail text and prompt updated to v3 on 26 Oct 2026.
 
 ```text
 KEYWORD REASON
@@ -23,18 +23,22 @@ Thumbnail: romanov-execution-they-never-came-back-up-thumbnail.jpg
 
 ```text
 THUMBNAIL TEXT
-Title says "their last night" and "betrayed". The text tells viewers how that night ended, without saying how.
+Title says it was their last night and that they were betrayed. The text tells viewers how the night ended, without saying how, and makes them ask: what happened down there?
 1. THEY NEVER
    CAME BACK UP
-2. NO TRIAL.
+2. "YOU'RE SAFE."
+   THEY LIED.
+3. ANASTASIA
+   NEVER LEFT
+4. NO TRIAL.
    NO MERCY.
-3. 300 YEARS
-   ONE NIGHT
-4. "A SAFER
-   PLACE"?
+5. 7 ROYALS
+   1 BASEMENT
+6. GO DOWN
+   STAIRS.
 FINAL: THEY NEVER
        CAME BACK UP
-Test & Compare variant: NO TRIAL. / NO MERCY.
+Test & Compare variant: "YOU'RE SAFE." / THEY LIED.  (true: the guards woke the family and told them they were being moved for their safety)
 ```
 
 ```text
@@ -139,62 +143,63 @@ Aspect: 16:9
 Resolution: 4K
 Reference images: 2 of my face + 1 of my outfit + 1 of Tsar Nicholas II + 1 of Tsarina Alexandra
 
-Create a jaw-dropping 16:9 YouTube thumbnail designed like an official Netflix historical-drama movie poster. Photorealistic, cinematic, emotionally intense, layered storytelling, with a huge designed title. The whole story must read at a glance on a phone. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No boxes, no frames, no grid collage: every layer melts into the next through smoke, frost and shadow, like a real film poster.
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical tragedy. Photorealistic, cinematic, emotionally devastating: the kind of poster that makes a viewer stop scrolling and feel dread. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No boxes, no frames, no grid: every layer melts into the next through dust, haze and darkness.
 
 REFERENCE IMAGES:
 - Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
 - Use the Nicholas II and Alexandra references for their exact faces.
-If my face, my clothes, or either identity change, the image is a fail.
+If my face, my clothes, or either historical identity changes, the image is a fail.
 
-COMPOSITION, 5 LAYERS (back to front):
-
-LAYER 1, THE WORLD (full background):
-Imperial Russia fading into darkness: the glittering golden domes and lit windows of a royal palace in the snow, slowly dissolving into black smoke, as if the empire is disappearing. Snowflakes and ash drift through the sky.
-
-LAYER 2, THE MAIN MOMENT (left two-thirds, upper area, the biggest story element):
-A bare stone basement at night, lit by one bare light bulb swinging on a cord, throwing hard shadows.
-Tsar Nicholas II, face exactly as the reference, in a plain military tunic, stands in front of his family with one arm stretched out protectively, his face pale with sudden understanding. Tsarina Alexandra, face exactly as the reference, stands beside him clutching his sleeve, eyes wide with fear. Behind them, three young women in long white dresses (his adult daughters) huddle together, frightened.
-In the open doorway on the right edge of the scene: the dark silhouettes of armed guards, rifles held upright at their chests, faces hidden in shadow. No weapon is aimed or fired.
-Looming in the smoke above the whole scene like a ghost: a giant golden imperial crown, cracked down the middle, slowly falling into darkness.
-
-LAYER 3, THE TITLE (center-left, across the lower half of Layer 2, never covering a face):
-See TEXT DESIGN.
-
-LAYER 4, THE STORY STRIP (bottom-left, below the title):
-Three smaller cinematic scenes fading into each other through smoke and frost. Darker and smaller than Layer 2:
-(a) Nicholas II signing his abdication at a desk inside a train carriage, head bowed
-(b) the family walking under armed guard across a snowy courtyard toward a plain house with whitewashed windows
-(c) an empty palace ballroom with dark chandeliers, a single white dress lying on the floor
-
-LAYER 5, ME (right ~35%, front layer):
-- Head and shoulders, razor-sharp, 85mm portrait look, emerging from darkness.
-- A jagged torn edge glowing red-gold separates me from the story.
-- Expression: grief held back by anger. Closed mouth, jaw tight, eyes glassy but locked on the camera, as if I already know how the night ends.
-- LIGHTING: hot red rim light on the LEFT side of my face, cold white key light from the front-right, faint imperial-gold backlight on my hair edge. Deep shadows, bright catchlights. Natural skin texture with real pores.
+LAYOUT:
+- Story LEFT ~65%, me RIGHT ~35%.
+- A jagged torn-paper edge with a bright white torn fibre edge and a thin red glow separates the two sides. Organic tear, never a straight line.
 - Bottom-right corner empty (YouTube timestamp).
 
-TEXT DESIGN:
+THE STORY (LEFT), ONE UNFORGETTABLE MOMENT:
+Night, July 1918, a bare whitewashed basement in the Ipatiev House. Peeling plaster walls, a small barred window high on the wall with a thin blade of moonlight. The only other light is ONE bare light bulb hanging on a cord, swinging, throwing hard moving shadows.
+TSAR NICHOLAS II, face exactly as the reference, is the hero figure of the poster: low-angle, larger than life, in a plain khaki military tunic. He stands in front of his family with one arm stretched out sideways to shield them. The bulb lights his face from above: eyes glassy and red-rimmed, tears held back, jaw trembling, the face of a father who has just understood that no one is coming to save them.
+Behind his outstretched arm: TSARINA ALEXANDRA, face exactly as the reference, clutching his sleeve with both hands, eyes wide, lips parted in a silent prayer. Behind her, three young women in their twenties in long white dresses hold each other tightly, faces turned toward the door, one with a single tear on her cheek. A dropped string of pearls lies scattered on the stone floor in the bulb light.
+On the far left edge: an open doorway flooded with cold white light, the black silhouettes of armed guards standing in it, rifles held upright against their chests, faces completely hidden. No weapon is aimed.
+Looming huge in the haze above the family like a ghost: the giant golden double-headed Romanov eagle crest, cracked straight down the middle, its gold flaking away into black dust as it fades.
+Bottom edge of the story, small and dark, fading into haze: the golden onion domes of an imperial palace dissolving into black smoke.
+
+ME (RIGHT ~35%, front layer):
+- Head and shoulders, razor-sharp 85mm portrait look, emerging from pure black.
+- Expression: grief held back by anger. Mouth closed, jaw tight, eyes glassy but locked on the camera, as if I already know how this night ends.
+- LIGHTING: hot red rim light on the LEFT side of my face, from the story side; cold white key light from the front-right; faint imperial-gold backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
+
+TEXT DESIGN (a designed movie-poster title, not plain text):
 Line 1: THEY NEVER
 Line 2: CAME BACK UP
-- Massive movie-poster title lettering filling about 45% of the image width. Heavy condensed font (Anton or Druk Wide Heavy style).
-- "CAME BACK UP" is twice as big, bright warning yellow (#FFE600) with a hot inner glow and a cracked, frosted imperial-gold-leaf texture, ice crystals on the edges.
-- "THEY NEVER" is bright white with a subtle gold bevel.
-- Slight 3D extrusion, deep black drop shadow, letters tilted 3 to 5 degrees. A red brush-stroke slash sits behind "NEVER". Snow and ash drift across the letters.
-- Spelling must be exact. Readable at phone size.
+- POSITION: TOP-LEFT of the image, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- SIZE: huge. Line 1 spans about half the image width. Line 2 "CAME BACK UP" is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
+- FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
+- "THEY NEVER" in bright white with a cold, chipped whitewashed-plaster texture, like the basement walls, with fine cracks and a faint dusty edge.
+- "CAME BACK UP" in bright yellow (#FFE600) made of imperial gold leaf that is cracking and flaking off at the edges, small gold flakes falling away from the letters into the darkness below.
+- The cord of the bare light bulb hangs straight down from the bottom of the letter "U" in "UP" into the basement scene, and the swinging bulb at its end is the same bulb that lights the family, so the title and the story are physically connected.
+- Under the last word, a short flight of dark stone stairs fades down from the text into the basement, as if the words themselves lead down.
+- Above line 1, a small red rubber-stamp style tag at a slight angle: "IPATIEV HOUSE · 17 JULY 1918", small, like a classified file stamp.
+- Finish: a thin dark bevel and soft deep shadow so the letters have weight and pop from the darkness; dust and tiny gold flakes drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
+- DEPTH: the text sits BEHIND the foreground: the top of Nicholas II's head slightly overlaps the bottom of "CAME BACK UP", like a film poster title. Never covering a face.
+- Exact spelling. Readable on a phone at a glance.
 
 COLOR GRADE:
-Icy blue-grey and black with imperial gold, and red only on the slash and my rim light. The swinging bulb gives a warm sickly yellow pool of light. Film grain, crushed blacks, high contrast. No logos. No watermark.
+Cold blue-grey shadows and black, sickly warm yellow from the bulb, imperial gold on the eagle and the text, white of the dresses glowing in the dark, red only in my rim light and the stamp. Volumetric haze and dust in the bulb light, crushed blacks, very high contrast, subtle film grain. Like a Netflix tragedy poster. No logos. No watermark.
 
 SAFETY:
-No shooting, no muzzle flashes, no weapons aimed at anyone, no blood, no wounds, no bodies. The young son Alexei does not appear in the main moment. No flags, no religious icons.
+No shooting, no muzzle flashes, no weapon aimed at anyone, no blood, no wounds, no bodies. No children: the son Alexei and the youngest daughter do not appear; the three daughters shown are clearly adult women. No flags, no religious icons.
 
 FAIL IF:
 - my face or clothes change, or Nicholas II's or Alexandra's identity changes
 - the family facing the guards' silhouettes under the swinging bulb is not clear in one second
-- any weapon is fired or aimed, or any blood appears
-- the cracked falling crown is missing
-- the story strip looks like boxes or a grid instead of blending through smoke
-- the title is small, thin, misspelled, or covers a face
+- Nicholas's protective arm and tearful realisation are not obvious
+- the text is not in the top-left, is a condensed or thin font, or is misspelled
+- "CAME BACK UP" is not bright yellow or not the largest text
+- the bulb cord hanging from "UP", the flaking gold or the cracked eagle is missing
+- the effects make any letter hard to read
+- the text covers a face or crosses onto my side
+- the torn edge is a straight line, or the red rim light on my face is missing
+- any weapon is fired or aimed, any blood appears, or any child appears
 - the image is so crowded that the main moment does not read in one second
 ```
 
@@ -202,7 +207,7 @@ FAIL IF:
 UPLOAD CHECK
 □ Video file renamed before upload
 □ Title, description and tags pasted
-□ Thumbnail uploaded (file renamed) + Test & Compare variant: "NO TRIAL. / NO MERCY."
+□ Thumbnail uploaded (file renamed) + Test & Compare variant: "\"YOU'RE SAFE.\" / THEY LIED."
 □ Playlists added (full links pasted)
 □ Category: Education · Type: Documentary · Made for kids: No
 □ Language + caption language: English, with English subtitles uploaded
