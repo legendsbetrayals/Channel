@@ -38,9 +38,13 @@ Every thumbnail is a Netflix/HBO-style film poster in 5 layers that blend throug
 
 1. The world (background, place and time at epic scale)
 2. The main moment (left two-thirds, the most dramatic beat with strong emotion)
-3. The title text (huge, designed, never covering a face)
-4. The story strip (3 smaller scenes below the text, darker than the main moment)
-5. The creator (right ~35%, red rim light on the left side of the face, warm-gold or cold-white key light)
+3. The title text (see Text v3 below)
+4. Story details (small scenes fading into the smoke at the bottom, darker than the main moment)
+5. The creator (right ~35%, behind a jagged torn edge with a white fibre edge and red glow; red rim light on the left side of the face, cold-white or warm-gold key light)
+
+**Story (v3, from 26 Oct 2026):** one unforgettable moment, Netflix key-art level: a larger-than-life low-angle hero figure, an extreme readable emotion (caught, betrayed, terrified, cold), volumetric god-rays, smoke and embers, and a giant ghostly face of the villain or victim looming in the smoke.
+
+**Text (v3, from 26 Oct 2026, based on the creator's Ottoman thumbnail):** top-left with a small margin, inside the story side. Line 1 bright white, about half the image width; line 2 bright yellow (#FFE600), about 1.5× taller. Ultra-heavy wide sans (Montserrat Black / Gotham Ultra / Druk Wide style), straight, no tilt, no 3D, no outline, no slash; subtle grunge texture and a soft shadow. The text sits behind the foreground figure (a hat or shoulder overlaps line 2), never covering a face.
 
 **Catchphrases:** 2–4 words that open a question the title answers, true to the video (e.g. KILL THEM ALL, WHO SOLD HIM?, DON'T OPEN IT, IT BACKFIRED, HE'D NEVER SEEN INDIA).
 
