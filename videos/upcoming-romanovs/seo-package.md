@@ -207,7 +207,7 @@ FAIL IF:
 UPLOAD CHECK
 □ Video file renamed before upload
 □ Title, description and tags pasted
-□ Thumbnail uploaded (file renamed) + Test & Compare variant: "\"YOU'RE SAFE.\" / THEY LIED."
+□ Thumbnail uploaded (file renamed) + Test & Compare variant: "YOU'RE SAFE." / THEY LIED.
 □ Playlists added (full links pasted)
 □ Category: Education · Type: Documentary · Made for kids: No
 □ Language + caption language: English, with English subtitles uploaded
