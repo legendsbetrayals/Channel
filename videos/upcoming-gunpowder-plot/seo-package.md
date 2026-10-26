@@ -19,24 +19,26 @@ Runner-up: The Gunpowder Plot: 36 Barrels, One Letter, and a King Who Almost Die
 ```text
 FILE NAMES
 Video: the-gunpowder-plot-36-barrels-under-parliament.mp4
-Thumbnail: the-gunpowder-plot-guy-fawkes-one-spark-away-thumbnail.jpg
+Thumbnail: the-gunpowder-plot-guy-fawkes-one-spark-no-king-thumbnail.jpg
 ```
 
 ```text
 THUMBNAIL TEXT
-Title says what they hid and where. The text makes viewers ask: did it go off? who stopped it?
-1. ONE SPARK
-   AWAY
-2. WHO SENT
+Title says what they hid and where. The text promises what would have happened, and makes viewers ask: why didn't it?
+1. ONE SPARK.
+   NO KING.
+2. 36 BARRELS
+   1 TRAITOR
+3. WHO SENT
    THE LETTER?
-3. LIGHT
-   IT
-4. HOURS
-   FROM HELL
-5. THE KING
-   MUST DIE
-FINAL: ONE SPARK
-       AWAY
+4. HE HELD
+   THE MATCH
+5. 12 HOURS
+   TOO LATE
+6. BURN IT
+   ALL DOWN
+FINAL: ONE SPARK.
+       NO KING.
 Test & Compare variant: WHO SENT / THE LETTER?  (true: the writer of the Monteagle letter has never been identified)
 ```
 
@@ -164,16 +166,18 @@ ME (RIGHT ~35%, front layer):
 - Expression: a dead-serious warning. Head tilted slightly down, eyes looking up straight into the camera, mouth closed, jaw tight, as if I am telling the viewer how close this came.
 - LIGHTING: hot red rim light on the LEFT side of my face, from the story side; cold white key light from the front-right; faint ember-orange backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
 
-TEXT DESIGN (copy this placement exactly):
-Line 1: ONE SPARK
-Line 2: AWAY
-- Position: TOP-LEFT corner of the image, a small clean margin from the top and left edges, inside the story side only, never crossing the torn edge.
-- Size: very big. Line 1 spans about half the image width. Line 2 "AWAY" is about 1.5x taller than line 1 and as wide as line 1.
-- Font: an ultra-heavy WIDE sans-serif, like Montserrat Black, Gotham Ultra or Druk Wide Super. Solid, thick, wide letters, NOT condensed, NOT a script, NOT a serif.
-- Colors: "ONE SPARK" bright white; "AWAY" bright yellow (#FFE600), not gold, not orange.
-- Style: perfectly straight and level, no tilt, no 3D extrusion, no outline, no slash behind it. A subtle grunge/scratched texture inside the letters only, and a soft dark shadow so it pops off the background.
-- Depth: the text sits BEHIND the foreground figures: the top of Guy Fawkes' hat slightly overlaps the bottom of "AWAY", like a film poster title. The text must never cover any face, the glowing match, or the barrels' outline.
-- Exact spelling. Readable on a phone.
+TEXT DESIGN (a designed movie-poster title, not plain text):
+Line 1: ONE SPARK.
+Line 2: NO KING.
+- POSITION: TOP-LEFT of the image, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- SIZE: huge. Line 1 spans about half the image width. Line 2 "NO KING." is about 1.5x taller than line 1 and the dominant word on the whole thumbnail.
+- FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
+- "ONE SPARK." in bright white with a scorched, smoke-stained texture. A real lit fuse runs along the bottom edge of the words like an underline, and its burning tip throws a burst of bright orange sparks off the letter "K", lighting the edges of the white letters warm orange.
+- "NO KING." in bright yellow (#FFE600) with a cracked, gunpowder-blasted surface: thin glowing orange-hot cracks run through the letters as if they are about to explode. The "O" in "NO" is replaced by a small golden royal crown seen from above, cracked in two, the same height as the letters. Fine black gunpowder grains pour from the bottom of the letters down into the barrels below, linking the title to the story.
+- Above line 1, a small red rubber-stamp style tag at a slight angle: "5 NOV 1605", small, like an evidence stamp.
+- Finish: a thin dark bevel and soft deep shadow so the letters have weight and pop from the smoke; embers and ash drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
+- DEPTH: the text sits BEHIND the foreground: the top of Guy Fawkes' hat slightly overlaps the bottom of "NO KING.", like a film poster title. Never covering a face or the glowing match.
+- Exact spelling. Readable on a phone at a glance.
 
 COLOR GRADE:
 Teal-black shadows, molten orange from the match, lantern and embers, harsh white torchlight from the door, red only in my rim light and the wax seal. Volumetric smoke and dust, crushed blacks, very high contrast, subtle film grain. Like a Netflix thriller poster. No logos. No watermark.
@@ -184,8 +188,10 @@ No explosion, no fire on any person, no blood, no wounds, no bodies, no weapon t
 FAIL IF:
 - my face or clothes change, or Guy Fawkes' or King James I's identity changes
 - the glowing match next to the gunpowder and Fawkes' caught expression are not clear in one second
-- the text is not in the top-left, is condensed or tilted, has 3D or a slash, or is misspelled
-- "AWAY" is not bright yellow or not larger than "ONE SPARK"
+- the text is not in the top-left, is a condensed or thin font, or is misspelled
+- "NO KING." is not bright yellow or not the largest text
+- the fuse with sparks, the cracked crown "O", or the pouring gunpowder is missing
+- the effects make any letter hard to read
 - the text covers a face or crosses onto my side
 - the torn edge is a straight line, or the red rim light on my face is missing
 - the image is so crowded that the main moment does not read in one second
