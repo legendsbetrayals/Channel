@@ -1134,11 +1134,13 @@ And the damage outlived him.
 
 If stories like this grip you, subscribe to Legends & Betrayals.
 
-Because next time, we cross the Atlantic.
+Because next time, we go to the Scottish Highlands.
 
-To a CIA officer who sold out his own agents for cash...
+To soldiers who were welcomed as guests for twelve days...
 
-and watched them disappear, one by one.
+and then murdered their hosts in the snow.
+
+The real Red Wedding.
 
 That's next. Don't miss it.
 
