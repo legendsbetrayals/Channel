@@ -110,7 +110,7 @@ Aspect: 16:9
 Resolution: 4K
 Reference images: 2 of my face + 1 of my outfit + 1 of Sultan Mehmed III (the same image used in my video)
 
-Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical thriller. Photorealistic, cinematic, chilling: above, a new sultan is crowned in gold; directly beneath his throne, his brothers' doors are going dark one by one. The viewer must click to know what happened. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No boxes, no frames, no grid: the layers melt into each other through incense smoke, candle haze and darkness.
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical thriller. Photorealistic, cinematic, heartbreaking and chilling: above, a new sultan stands in gold and points down; directly beneath his feet, his young brothers huddle in terror, looking up. The viewer must click to know what happened. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No boxes, no frames, no grid: the layers melt into each other through incense smoke, candle haze and darkness.
 
 REFERENCE IMAGES:
 - Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
@@ -126,11 +126,12 @@ THE STORY (LEFT): A CROSS-SECTION OF THE PALACE, ABOVE AND BELOW
 The story side is cut horizontally by a thick marble floor, like a cutaway film poster: Topkapi Palace, Istanbul, January 1595, night.
 
 ABOVE (upper part of the story):
-A blazing golden throne hall with tiled arches, gold lamps and incense smoke. SULTAN MEHMED III (face exactly as the reference), in a red and gold kaftan and white turban, sits on the golden throne in the centre, the hero figure of the poster, seen from a low angle, larger than life. Courtiers bow to the floor on both sides. He is not celebrating: his face is cold and still, eyes narrowed, chin raised, one hand resting on the arm of the throne, the other hand lifted with two fingers slightly raised, a silent order. A thin cruel smile at one corner of his mouth.
+A blazing golden throne hall with tiled arches, gold lamps and incense smoke. SULTAN MEHMED III (face exactly as the reference), in a red and gold kaftan and white turban, STANDS in front of the golden throne, the villain of the poster, seen from a low angle, larger than life. Courtiers bow to the floor on both sides. His right arm is fully extended, finger POINTING DOWN through the floor at his brothers below: a merciless command. His face is pure cold evil: lit from below by harsh candlelight that carves deep shadows under his eyes, eyes narrowed, chin raised, a thin cruel smile at one corner of his mouth.
 
-BELOW (lower part of the story, the biggest and most dramatic area):
-Directly beneath the throne: a long, dark palace corridor of tiled walls running deep into the distance, with a row of NINETEEN closed wooden doors along one side. A thin line of candlelight glows under each door. Nearest the viewer, the candlelight under the doors is still warm; further down the corridor, the lights under the doors have gone out one by one, until the far end is completely black.
-Walking slowly down the corridor, away from us, are two tall faceless figures, completely black silhouettes. The only visible detail: a long RED SILK CORD hanging loose from each of their hands, bright red against the darkness. The cords hang down and touch no one. No person is seen in the corridor except these two silhouettes.
+BELOW (lower part of the story, the biggest and most emotional area):
+Directly beneath his pointing finger: a dark palace corridor of tiled walls lit only by a few candles. Huddled together against the wall is a group of six or seven Ottoman princes, his young brothers, in fine silk robes and small turbans, of different ages from about seven to sixteen. They are all looking UP toward the ceiling, toward the Sultan above them, with faces full of terror and disbelief: wide wet eyes, tears on the cheeks of the youngest, the eldest boy pulling the smallest brother behind him and spreading his arm to protect the others, one boy clutching a younger one's hand. They are standing and completely unharmed. Warm candlelight on their faces, deep shadow all around.
+Behind them at the far end of the corridor, emerging from total darkness: two tall faceless executioner silhouettes, completely black shapes. The only visible detail: a long RED SILK CORD hanging loose from each of their hands, bright red against the black. The cords hang down and touch no one. The executioners are far from the boys.
+Along the corridor wall, a row of closed doors with candlelight under them fades into the darkness, the far lights already out.
 
 ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
 - Head, shoulders and one raised hand, razor-sharp 85mm portrait look, emerging from pure black.
@@ -147,22 +148,23 @@ Line 2: ALL
 - FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
 - "KILL THEM" in bright white with a cracked Iznik-tile texture: fine dark cracks through glazed white tile.
 - "ALL" in bright yellow (#FFE600) with a beaten-gold, Ottoman royal-seal texture and faint engraved patterns inside the letters, catching the throne-room light.
-- A red silk cord is wrapped once around the bottom of the second "L" in "ALL", and its loose end hangs down through a crack in the marble floor into the dark corridor below, linking the title to the doors.
+- A red silk cord is wrapped once around the bottom of the second "L" in "ALL", and its loose end hangs down through a crack in the marble floor into the dark corridor below, linking the title to the corridor where the brothers stand.
 - Above line 1, a small red wax-seal style stamp at a slight angle: "TOPKAPI · 1595".
 - Finish: a thin dark bevel and soft deep shadow for weight; incense smoke and gold dust drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
-- DEPTH: the top of the Sultan's turban slightly overlaps the bottom of "ALL", like a film poster title. Never covering a face, the raised fingers, the cord in my hand or the doors.
+- DEPTH: the top of the Sultan's turban slightly overlaps the bottom of "ALL", like a film poster title. Never covering a face, the pointing hand, the cord in my hand or the brothers.
 - Exact spelling. Readable on a phone at a glance.
 
 COLOR GRADE:
-Above: blazing gold and deep red. Below: black and cold teal with thin warm lines of candlelight under the doors. Red only in the silk cords, the Sultan's kaftan, my rim light and the stamp. Volumetric incense haze, crushed blacks, very high contrast, subtle film grain. Like a Netflix thriller poster. Do not tint my clothes red. No logos. No watermark.
+Above: blazing gold and deep red. Below: black and cold teal with warm candlelight on the brothers' faces. Red only in the silk cords, the Sultan's kaftan, my rim light and the stamp. Volumetric incense haze, crushed blacks, very high contrast, subtle film grain. Like a Netflix thriller poster. Do not tint my clothes red. No logos. No watermark.
 
 SAFETY:
-No blood, no violence shown, no one being touched or harmed, no bodies, no children. No princes are shown at all: only closed doors and the lights under them. The red cords touch no one. No religious text or symbols. No flags.
+No blood, no violence shown, no one being touched or harmed, no bodies. The princes are frightened but standing and unharmed; nobody touches them; the executioners stay far behind them and the red cords touch no one. No religious text or symbols. No flags.
 
 FAIL IF:
 - my face or clothes change, or the Sultan's identity changes
-- the cross-section is not clear in one second: the cold Sultan on the golden throne above, the corridor of doors with lights going out directly below
-- the 19 doors with candlelight under them, or the fading lights, are missing
+- the cross-section is not clear in one second: the Sultan above pointing down, his terrified young brothers directly below looking up at him
+- the Sultan is not clearly POINTING down at them, or his face does not look evil
+- the brothers' fear and tears are not visible, or anyone touches or harms them
 - I am not holding the red silk cord in the candlelight, or my hand has the wrong number of fingers
 - my expression is not ice-cold and emotionless
 - the cord from "ALL" down into the corridor is missing
@@ -171,7 +173,6 @@ FAIL IF:
 - the effects make any letter hard to read
 - the text covers a face or crosses onto my side
 - the torn edge is a straight line, or the red rim light on my face is missing
-- any person other than the Sultan, courtiers, the two silhouettes and me appears, or any child appears
 - the image is so crowded that the main moment does not read in one second
 ```
 
