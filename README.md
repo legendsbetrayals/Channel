@@ -32,23 +32,20 @@ videos/
 4. **File names:** `[primary-keyword]-[title-hook].mp4` and `[primary-keyword]-[thumbnail-text]-thumbnail.jpg`, lowercase, hyphens. Thumbnails exported as JPG, 1280×720, under 2 MB.
 5. **Accuracy:** recent events are checked against news sources; unconfirmed claims become questions.
 
-## Thumbnail system (movie poster)
+## Thumbnail system: the "Gunpowder" movie poster (v4, approved 28 Oct 2026)
 
-Every thumbnail is a Netflix/HBO-style film poster in 5 layers that blend through smoke, fire, mist or dust (never boxes or a grid):
+The model for every thumbnail is the Gunpowder Plot poster: King James walking in glory above ground, Guy Fawkes with a glowing match in the cellar directly beneath him, a fuse running from "ONE SPARK. / NO KING." into the gunpowder, and the creator holding a lit match with a "Should I light it?" half-smile.
 
-1. The world (background, place and time at epic scale)
-2. The main moment (left two-thirds, the most dramatic beat with strong emotion)
-3. The title text (see Text v3 below)
-4. Story details (small scenes fading into the smoke at the bottom, darker than the main moment)
-5. The creator (right ~35%, behind a jagged torn edge with a white fibre edge and red glow; red rim light on the left side of the face, cold-white or warm-gold key light)
+Every thumbnail needs 4 things, with a fresh idea for each story:
 
-**Story (v3, from 26 Oct 2026):** one unforgettable moment, Netflix key-art level: a larger-than-life low-angle hero figure, an extreme readable emotion (caught, betrayed, terrified, cold), volumetric god-rays, smoke and embers, and a giant ghostly face of the villain or victim looming in the smoke.
+1. **One high-concept image built on dramatic irony.** The viewer sees what the victim can't: glory above and doom below (a cutaway), or safety in front and the threat behind.
+2. **The creator in the story, holding its key prop** (match, lantern, silk cord, letter), lit by it, with an in-character expression.
+3. **The title physically linked to the scene** (a fuse, a bulb cord, a silk cord).
+4. **A catchphrase a stranger understands instantly.**
 
-**Text (v3, from 26 Oct 2026, based on the creator's Ottoman thumbnail):** top-left with a small margin, inside the story side. Line 1 bright white, about half the image width; line 2 bright yellow (#FFE600), about 1.5× taller. Ultra-heavy wide sans (Montserrat Black / Gotham Ultra / Druk Wide style), level. The text sits behind the foreground figure (a hat or shoulder overlaps line 2), never covering a face. Position and font are fixed; the design is creative every time: story textures on the letters, one letter replaced by a story object (e.g. a cracked crown as the "O"), a story element linking text and scene (a lit fuse, a silk cord, pouring gunpowder), a small date/evidence-stamp tag, embers or ash in front and behind. Catchphrases use contrast, numbers and wordplay (ONE SPARK. NO KING. / 36 BARRELS 1 TRAITOR).
+Layout: story left ~65%, creator right ~35%, torn white-edged divider with a red glow, bottom-right corner empty. Text top-left in an ultra-heavy wide sans (line 1 white, line 2 yellow #FFE600 and 1.5× taller), with story textures, one letter replaced by a story object, and a red date stamp.
 
-**Catchphrases:** 2–4 words that open a question the title answers, true to the video (e.g. KILL THEM ALL, WHO SOLD HIM?, DON'T OPEN IT, IT BACKFIRED, HE'D NEVER SEEN INDIA).
-
-**Safety:** no blood, wounds or bodies; no weapons touching anyone; no children in danger; no Nazi symbols; no real politicians' faces in invented scenes.
+**Safety:** no blood, bodies, explosions or weapons aimed; no children in danger; no Nazi symbols; no real politicians in invented scenes; no copyrighted masks or characters; historically accurate details.
 
 ## YouTube Studio settings (every video)
 
