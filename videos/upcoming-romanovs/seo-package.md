@@ -11,8 +11,8 @@ Secondary: romanov execution, anastasia romanov, tsar nicholas ii, russian revol
 
 ```text
 TITLE
-The Last Night of the Romanovs: How Russia's Royal Family Was Betrayed
-Score: 97 (best of 9 tested; the script title "How the Romanovs Were Betrayed and Executed" scored 85)
+Romanov Execution: What Really Happened to Russia's Last Royal Family
+Score: 98. Keyword-first (28 Oct 2026). Replaces "The Last Night of the Romanovs: How Russia's Royal Family Was Betrayed" (97), which had the keyword later in the title.
 ```
 
 ```text

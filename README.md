@@ -26,7 +26,7 @@ videos/
 
 ## Package rules
 
-1. **Title:** score 4–6 options in vidIQ and aim for 95+. Strongest hook in the first ~60 characters, keyword once, correct English, no space before "?".
+1. **Title:** start with the primary keyword (search brings almost all views on this channel), then the hook. Score 4–6 keyword-first options in vidIQ and aim for 95+. Keyword once, correct English, no space before "?". Never change the title of a video that is getting search views.
 2. **Description:** primary keyword plus the hook in the first ~150 characters; chapters matched to the final edit; Watch Next link; playlists; credits; subscribe link; about; disclaimer; 5–8 hashtags, never #Shorts on a long video.
 3. **Tags:** 15–20, under 500 characters counted the way YouTube does. No other channels' names, no off-topic or vague tags.
 4. **File names:** `[primary-keyword]-[title-hook].mp4` and `[primary-keyword]-[thumbnail-text]-thumbnail.jpg`, lowercase, hyphens. Thumbnails exported as JPG, 1280×720, under 2 MB.
