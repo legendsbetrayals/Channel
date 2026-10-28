@@ -18,27 +18,26 @@ Score: 98. Keyword-first (28 Oct 2026). Replaces "The Last Night of the Romanovs
 ```text
 FILE NAMES
 Video: romanovs-last-night-russias-royal-family-betrayed.mp4
-Thumbnail: romanov-execution-they-never-came-back-up-thumbnail.jpg
+Thumbnail: romanov-execution-youll-be-safe-they-lied-thumbnail.jpg
 ```
 
 ```text
 THUMBNAIL TEXT
-Title says it was their last night and that they were betrayed. The text tells viewers how the night ended, without saying how, and makes them ask: what happened down there?
-1. THEY NEVER
-   CAME BACK UP
-2. "YOU'RE SAFE."
+Title says it was an execution and promises what really happened. The text reveals the betrayal: they were promised safety. The viewer asks: who lied, and what was waiting at the bottom of the stairs?
+1. "YOU'LL BE SAFE."
    THEY LIED.
-3. ANASTASIA
-   NEVER LEFT
+2. 300 YEARS
+   ENDED HERE
+3. WOKEN AT NIGHT.
+   LED DOWNSTAIRS.
 4. NO TRIAL.
    NO MERCY.
-5. 7 ROYALS
-   1 BASEMENT
-6. GO DOWN
-   STAIRS.
-FINAL: THEY NEVER
-       CAME BACK UP
-Test & Compare variant: "YOU'RE SAFE." / THEY LIED.  (true: the guards woke the family and told them they were being moved for their safety)
+5. THE LAST
+   STAIRCASE
+FINAL: "YOU'LL BE SAFE."
+       THEY LIED.
+Test & Compare variant: 300 YEARS / ENDED HERE
+(Both true to the video: the family was woken and told they were being moved to a safer place, then led to the basement.)
 ```
 
 ```text
@@ -143,7 +142,7 @@ Aspect: 16:9
 Resolution: 4K
 Reference images: 2 of my face + 1 of my outfit + 1 of Tsar Nicholas II + 1 of Tsarina Alexandra
 
-Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical tragedy. Photorealistic, cinematic, emotionally devastating: the kind of poster that makes a viewer stop scrolling and feel dread. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No boxes, no frames, no grid: every layer melts into the next through dust, haze and darkness.
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical thriller. Photorealistic, cinematic, unbearably tense: the viewer must feel that something terrible waits at the bottom of the stairs, and need to click to find out what. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No boxes, no frames, no grid: every layer melts into the next through haze and darkness.
 
 REFERENCE IMAGES:
 - Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
@@ -155,47 +154,46 @@ LAYOUT:
 - A jagged torn-paper edge with a bright white torn fibre edge and a thin red glow separates the two sides. Organic tear, never a straight line.
 - Bottom-right corner empty (YouTube timestamp).
 
-THE STORY (LEFT), ONE UNFORGETTABLE MOMENT:
-Night, July 1918, a bare whitewashed basement in the Ipatiev House. Peeling plaster walls, a small barred window high on the wall with a thin blade of moonlight. The only other light is ONE bare light bulb hanging on a cord, swinging, throwing hard moving shadows.
-TSAR NICHOLAS II, face exactly as the reference, is the hero figure of the poster: low-angle, larger than life, in a plain khaki military tunic. He stands in front of his family with one arm stretched out sideways to shield them. The bulb lights his face from above: eyes glassy and red-rimmed, tears held back, jaw trembling, the face of a father who has just understood that no one is coming to save them.
-Behind his outstretched arm: TSARINA ALEXANDRA, face exactly as the reference, clutching his sleeve with both hands, eyes wide, lips parted in a silent prayer. Behind her, three young women in their twenties in long white dresses hold each other tightly, faces turned toward the door, one with a single tear on her cheek. A dropped string of pearls lies scattered on the stone floor in the bulb light.
-On the far left edge: an open doorway flooded with cold white light, the black silhouettes of armed guards standing in it, rifles held upright against their chests, faces completely hidden. No weapon is aimed.
-Looming huge in the haze above the family like a ghost: the giant golden double-headed Romanov eagle crest, cracked straight down the middle, its gold flaking away into black dust as it fades.
-Bottom edge of the story, small and dark, fading into haze: the golden onion domes of an imperial palace dissolving into black smoke.
+THE STORY (LEFT), ONE UNFORGETTABLE MOMENT: THE DESCENT
+Night, July 1918, inside the Ipatiev House. A narrow wooden staircase leads DOWN into a basement, seen from below, looking up the stairs, so the stairs rise toward the viewer like a poster composition.
+At the TOP of the stairs: warm golden lamplight, the last light of their old life.
+On the stairs, coming down in a line, lit from above: TSAR NICHOLAS II (face exactly as the reference) in a plain khaki tunic, leading the way, one hand on the railing; behind him TSARINA ALEXANDRA (face exactly as the reference) in a pale dress, clutching his shoulder; behind them two grown daughters in their early twenties in long white dresses, holding each other's hands. All of them have stopped on the stairs and are looking DOWN into the darkness with dawning fear: Nicholas's eyes narrowed, searching; Alexandra's lips parted; one daughter's eyes wet with tears. They have just realised this is not the way to a safer place.
+At the BOTTOM of the stairs, in the foreground and almost in total darkness: a bare whitewashed basement and a single bare light bulb on a cord. Under it stands the black silhouette of the guard commander, back half-turned to us, holding up an oil lantern toward the family. Its light shows only his jaw and a slight, cold smile. Behind him in the shadows, the dim shapes of more guards, rifles held upright against their chests, faces hidden. No weapon is aimed.
+Looming huge in the haze above the staircase like a ghost: a giant golden jewelled Fabergé imperial egg, cracking open down the middle, black smoke pouring from the crack like the end of an empire.
+A single string of pearls has snapped on the stairs, pearls bouncing down the steps toward the darkness, caught in the lantern light.
 
 ME (RIGHT ~35%, front layer):
 - Head and shoulders, razor-sharp 85mm portrait look, emerging from pure black.
-- Expression: grief held back by anger. Mouth closed, jaw tight, eyes glassy but locked on the camera, as if I already know how this night ends.
+- Expression: disbelief turning to dread. Eyes wide and locked on the camera, brows drawn together, mouth closed, as if I have just read what happened in that basement and cannot believe it.
 - LIGHTING: hot red rim light on the LEFT side of my face, from the story side; cold white key light from the front-right; faint imperial-gold backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
 
 TEXT DESIGN (a designed movie-poster title, not plain text):
-Line 1: THEY NEVER
-Line 2: CAME BACK UP
+Line 1: "YOU'LL BE SAFE."
+Line 2: THEY LIED.
 - POSITION: TOP-LEFT of the image, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
-- SIZE: huge. Line 1 spans about half the image width. Line 2 "CAME BACK UP" is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
+- SIZE: huge. Line 1 spans about half the image width. Line 2 "THEY LIED." is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
 - FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
-- "THEY NEVER" in bright white with a cold, chipped whitewashed-plaster texture, like the basement walls, with fine cracks and a faint dusty edge.
-- "CAME BACK UP" in bright yellow (#FFE600) made of imperial gold leaf that is cracking and flaking off at the edges, small gold flakes falling away from the letters into the darkness below.
-- The cord of the bare light bulb hangs straight down from the bottom of the letter "U" in "UP" into the basement scene, and the swinging bulb at its end is the same bulb that lights the family, so the title and the story are physically connected.
-- Under the last word, a short flight of dark stone stairs fades down from the text into the basement, as if the words themselves lead down.
-- Above line 1, a small red rubber-stamp style tag at a slight angle: "IPATIEV HOUSE · 17 JULY 1918", small, like a classified file stamp.
-- Finish: a thin dark bevel and soft deep shadow so the letters have weight and pop from the darkness; dust and tiny gold flakes drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
-- DEPTH: the text sits BEHIND the foreground: the top of Nicholas II's head slightly overlaps the bottom of "CAME BACK UP", like a film poster title. Never covering a face.
-- Exact spelling. Readable on a phone at a glance.
+- Line 1 in bright white, warm and soft like a calm promise, with the quotation marks in deep red, as if someone is speaking it.
+- Line 2 "THEY LIED." in bright yellow (#FFE600) made of cracked imperial enamel and gold leaf, like a broken Fabergé egg: thin dark fractures run through every letter and small gold flakes are falling away from the bottom edges. The full stop after "LIED" is a single white pearl, falling.
+- The cord of the basement light bulb hangs down from the bottom of the letter "Y" in "THEY" into the scene below, linking the title to the basement.
+- Above line 1, a small red rubber-stamp style tag at a slight angle: "IPATIEV HOUSE · 17.07.1918", like a classified file stamp.
+- Finish: a thin dark bevel and soft deep shadow so the letters have weight and pop from the darkness; dust and gold flakes drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
+- DEPTH: the text sits BEHIND the figures at the top of the stairs: Nicholas's shoulder slightly overlaps the bottom of "THEY LIED.", like a film poster title. Never covering a face.
+- Exact spelling, including the apostrophe in YOU'LL. Readable on a phone at a glance.
 
 COLOR GRADE:
-Cold blue-grey shadows and black, sickly warm yellow from the bulb, imperial gold on the eagle and the text, white of the dresses glowing in the dark, red only in my rim light and the stamp. Volumetric haze and dust in the bulb light, crushed blacks, very high contrast, subtle film grain. Like a Netflix tragedy poster. No logos. No watermark.
+Warm gold at the top of the stairs fading into cold blue-black at the bottom, so the image itself moves from safety into darkness. Imperial gold on the egg and text, white of the dresses glowing, the lantern a small hot orange point, red only in my rim light, the quotation marks and the stamp. Volumetric haze, crushed blacks, very high contrast, subtle film grain. Like a Netflix thriller poster. No logos. No watermark.
 
 SAFETY:
-No shooting, no muzzle flashes, no weapon aimed at anyone, no blood, no wounds, no bodies. No children: the son Alexei and the youngest daughter do not appear; the three daughters shown are clearly adult women. No flags, no religious icons.
+No shooting, no muzzle flashes, no weapon aimed at anyone, no blood, no wounds, no bodies. No children: only Nicholas, Alexandra and two clearly adult daughters appear. No flags, no religious icons.
 
 FAIL IF:
 - my face or clothes change, or Nicholas II's or Alexandra's identity changes
-- the family facing the guards' silhouettes under the swinging bulb is not clear in one second
-- Nicholas's protective arm and tearful realisation are not obvious
+- the family on the stairs looking down in fear at the dark basement and the waiting guard is not clear in one second
+- the stairs do not go from warm light at the top to darkness at the bottom
+- the cracking Fabergé egg, the falling pearls or the bulb cord hanging from "THEY" is missing
 - the text is not in the top-left, is a condensed or thin font, or is misspelled
-- "CAME BACK UP" is not bright yellow or not the largest text
-- the bulb cord hanging from "UP", the flaking gold or the cracked eagle is missing
+- "THEY LIED." is not bright yellow or not the largest text
 - the effects make any letter hard to read
 - the text covers a face or crosses onto my side
 - the torn edge is a straight line, or the red rim light on my face is missing
@@ -207,7 +205,7 @@ FAIL IF:
 UPLOAD CHECK
 □ Video file renamed before upload
 □ Title, description and tags pasted
-□ Thumbnail uploaded (file renamed) + Test & Compare variant: "YOU'RE SAFE." / THEY LIED.
+□ Thumbnail uploaded (file renamed) + Test & Compare variant: 300 YEARS / ENDED HERE
 □ Playlists added (full links pasted)
 □ Category: Education · Type: Documentary · Made for kids: No
 □ Language + caption language: English, with English subtitles uploaded
