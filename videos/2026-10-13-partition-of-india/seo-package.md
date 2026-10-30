@@ -176,3 +176,102 @@ UPDATE CHECK
 □ Pinned comment posted
 □ Altered or synthetic content: Yes
 ```
+
+## Thumbnail v4 (Gunpowder formula, 30 Oct 2026)
+
+Replaces the thumbnail text, thumbnail file name and prompt above.
+
+```text
+THUMBNAIL TEXT
+Title says a rushed border split a nation. The text reveals the shocking fact about the man who drew it.
+1. HE'D NEVER
+   SEEN INDIA
+2. ONE PEN.
+   15 MILLION.
+3. 5 WEEKS.
+   2 NATIONS.
+4. ONE LINE.
+   NO WAY BACK.
+FINAL: HE'D NEVER
+       SEEN INDIA
+Test & Compare variant: ONE PEN. / 15 MILLION.
+(True to the video: Cyril Radcliffe had never been to India and drew the border in about five weeks; around 15 million people were displaced.)
+```
+
+```text
+FILE NAMES
+Thumbnail: india-pakistan-partition-1947-radcliffe-never-seen-india-thumbnail.jpg (already-uploaded video: only the thumbnail file name applies)
+```
+
+```text
+NANO BANANA PRO PROMPT
+Model: Nano Banana Pro
+Aspect: 16:9
+Resolution: 4K
+Reference images: 2 of my face + 1 of my outfit + 1 of Sir Cyril Radcliffe
+
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical drama. Photorealistic, cinematic, heartbreaking: above, a calm Englishman draws one red line on a map; directly below, that same line tears a real land and its people apart. The viewer must click to know how. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No boxes, no frames, no grid: the layers melt into each other through dust, heat haze and smoke.
+
+REFERENCE IMAGES:
+- Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
+- Use the Cyril Radcliffe reference for his exact face.
+If my face, my clothes, or Radcliffe's identity changes, the image is a fail.
+
+LAYOUT:
+- Story LEFT ~65%, me RIGHT ~35%.
+- A jagged torn-paper edge with a bright white torn fibre edge and a thin red glow separates the two sides. Organic tear, never a straight line.
+- Bottom-right corner empty (YouTube timestamp).
+
+THE STORY (LEFT): THE MAP ABOVE, THE LAND BELOW
+The story side is split horizontally by the edge of a huge paper map, like a cutaway film poster.
+
+ABOVE (upper part of the story):
+A closed, shuttered government office in Delhi, summer 1947, stifling heat, a ceiling fan turning slowly, a single green-shaded desk lamp. SIR CYRIL RADCLIFFE (face exactly as the reference), a tired British lawyer in a white shirt with rolled sleeves and loose tie, sweat on his forehead, leans over a giant map of Punjab and Bengal on his desk. With a wooden ruler and a fountain pen he draws ONE long red ink line across the map. His face is calm, detached, a little exhausted: a man finishing paperwork. A pile of thick files and a desk calendar showing AUGUST 1947 beside him.
+
+BELOW (lower part of the story, the biggest and most emotional area):
+The red ink line runs off the edge of the map and drops down into the real land beneath it, where it becomes a deep glowing red fissure splitting a wide, dusty Punjab landscape in two at golden dusk. On both sides of the fissure, endless columns of families carrying bundles on their heads, bullock carts, an overcrowded steam train with people on the roof, all moving in opposite directions under a burning orange sky.
+At the edge of the fissure, in the foreground, the hero moment: an old grey-bearded father on one side and his grown son on the other side, both reaching for each other across the widening crack, fingertips almost touching, faces broken with grief, dust in the air between them. No religious symbols or clothing marks on anyone; they could be from either side.
+Looming huge in the dust above the land like a ghost: a giant cracked brass pocket watch, its hands at midnight.
+
+ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
+- Head, shoulders and one raised hand, razor-sharp 85mm portrait look, emerging from pure black.
+- I am holding up an old black fountain pen beside my face, nib pointing down, a single drop of red ink about to fall from the nib. My hand looks natural with exactly five fingers.
+- The green-shaded desk lamp from the story spills its warm light across my face from the left: this is my key light.
+- Expression: controlled outrage and disbelief. Brows pulled together, jaw tight, eyes locked on the camera, head tilted slightly as if asking the viewer: "One man. Five weeks. This pen?"
+- Plus a hot red rim light on the LEFT side of my face from the story side, and a faint warm-dust backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
+
+TEXT DESIGN (a designed movie-poster title, not plain text):
+Line 1: HE'D NEVER
+Line 2: SEEN INDIA
+- POSITION: TOP-LEFT of the image, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- SIZE: huge. Line 1 spans about half the image width. Line 2 "SEEN INDIA" is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
+- FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
+- "HE'D NEVER" in bright white with an old typed-paper texture, like a government file.
+- "SEEN INDIA" in bright yellow (#FFE600) with a cracked, sun-baked dry-earth texture: thin dark cracks through every letter, fine dust falling from the bottom edges.
+- The first letter "I" in "INDIA" is replaced by an upright black fountain pen of the same height.
+- A red ink line runs out from under the last letter "A", across onto the map in the scene and down into the fissure in the land, linking the title to the story.
+- Above line 1, a small red rubber-stamp style tag at a slight angle: "CONFIDENTIAL · AUGUST 1947".
+- Finish: a thin dark bevel and soft deep shadow for weight; dust and paper scraps drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
+- DEPTH: the ceiling fan blade passes slightly in front of the top edge of "HE'D NEVER", like a film poster title. Never covering a face, the pen or the reaching hands.
+- Exact spelling, including the apostrophe in HE'D. Readable on a phone at a glance.
+
+COLOR GRADE:
+Above: muted office greens and sickly lamp yellow. Below: burning orange dusk and dust. Red only in the ink line, the fissure glow, my rim light and the stamp. Volumetric dust and heat haze, crushed blacks, very high contrast, subtle film grain. Like a Netflix drama poster. No logos. No watermark.
+
+SAFETY:
+No blood, no violence, no weapons, no bodies, no burning buildings. No flags, no religious symbols, no religious clothing marks; neither side is shown as good or bad. No children in distress.
+
+FAIL IF:
+- my face or clothes change, or Radcliffe's identity changes
+- the idea is not clear in one second: the calm man drawing the red line above, and the same line splitting the land and the reaching father and son below
+- I am not holding the fountain pen with the red ink drop, or my hand has the wrong number of fingers
+- my expression is not outrage and disbelief
+- the pen replacing the "I", the red line from the text into the scene, or the cracked midnight watch is missing
+- the text is not in the top-left, is a condensed or thin font, or is misspelled
+- "SEEN INDIA" is not bright yellow or not the largest text
+- the effects make any letter hard to read
+- the text covers a face or crosses onto my side
+- the torn edge is a straight line, or the red rim light on my face is missing
+- any flag, religious symbol, weapon or violence appears
+- the image is so crowded that the main moment does not read in one second
+```

@@ -182,3 +182,98 @@ UPDATE CHECK
 □ Pinned comment posted
 □ Altered or synthetic content: Yes
 ```
+
+## Thumbnail v4 (Gunpowder formula, 30 Oct 2026)
+
+Replaces the thumbnail text, thumbnail file name and prompt above.
+
+```text
+THUMBNAIL TEXT
+Title asks why Europe let Constantinople fall. The text gives the emperor's last hope, and the answer.
+1. "HELP IS COMING."
+   IT NEVER CAME.
+2. EUROPE
+   WATCHED
+3. 7,000 MEN.
+   80,000 ENEMIES.
+4. ALONE
+   TO THE END
+FINAL: "HELP IS COMING."
+       IT NEVER CAME.
+Test & Compare variant: 7,000 MEN. / 80,000 ENEMIES.
+(True to the video: the emperor waited for a Western relief fleet that did not arrive in time. Check the defender and attacker numbers against your narration before using the variant.)
+```
+
+```text
+FILE NAMES
+Thumbnail: byzantine-empire-last-roman-emperor-help-never-came-thumbnail.jpg (already-uploaded video: only the thumbnail file name applies)
+```
+
+```text
+NANO BANANA PRO PROMPT
+Model: Nano Banana Pro
+Aspect: 16:9
+Resolution: 4K
+Reference images: 2 of my face + 1 of my outfit + 1 of Emperor Constantine XI + 1 of Sultan Mehmed II
+
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical epic. Photorealistic, cinematic, tragic: the last Roman emperor stares out to sea for the help he was promised, while behind his back an endless army and a giant cannon close in. The viewer must click to know what happened. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No boxes, no frames, no grid: the layers melt into each other through smoke, sea mist and firelight.
+
+REFERENCE IMAGES:
+- Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
+- Use the Constantine XI and Mehmed II references for their exact faces.
+If my face, my clothes, or either historical identity changes, the image is a fail.
+
+LAYOUT:
+- Story LEFT ~65%, me RIGHT ~35%.
+- A jagged torn-paper edge with a bright white torn fibre edge and a thin red glow separates the two sides. Organic tear, never a straight line.
+- Bottom-right corner empty (YouTube timestamp).
+
+THE STORY (LEFT): HOPE IN FRONT, DEATH BEHIND
+Night, May 1453, the great Theodosian walls of Constantinople.
+EMPEROR CONSTANTINE XI (face exactly as the reference), in dented gilded armour and a dark red cloak, stands alone on top of the ancient stone wall, the hero of the poster, seen from a low angle, larger than life. He faces AWAY from the land, toward the dark sea on the left, gripping the stone with one hand and lowering a brass spyglass with the other. His face, turned in three-quarter profile, shows exhausted hope turning into despair: red eyes, sweat and soot on his cheek, lips pressed together. Far out on the black sea, the horizon is completely empty: no ships, only moonlight on the water.
+BEHIND HIS BACK, filling the lower part of the image and stretching to the horizon: the Ottoman siege camp, tens of thousands of torches like a sea of fire, rows of tents, siege towers, and in front of them a colossal bronze cannon, the great bombard, its mouth glowing, smoke rising. He does not see any of it.
+Looming huge in the smoke above the army like a ghost: the giant face of SULTAN MEHMED II (face exactly as the reference), young, calm and patient, eyes fixed on the emperor's back.
+A great iron chain stretches across the harbour waters below the walls.
+
+ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
+- Head, shoulders and one raised hand, razor-sharp 85mm portrait look, emerging from pure black.
+- I am holding up an old brass hourglass beside my face, the last few grains of sand falling through. My hand looks natural with exactly five fingers.
+- Orange firelight from the burning siege camp is my key light, glowing through the hourglass glass onto my face from the left.
+- Expression: quiet, heavy anger. Eyes locked on the camera, brows low, jaw tight, mouth closed, as if I am telling the viewer: "They knew. And they let the clock run out."
+- Plus a hot red rim light on the LEFT side of my face from the story side, and a faint cold moonlight backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
+
+TEXT DESIGN (a designed movie-poster title, not plain text):
+Line 1: "HELP IS COMING."
+Line 2: IT NEVER CAME.
+- POSITION: TOP-LEFT of the image over the night sky above the sea, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- SIZE: huge. Line 1 spans about half the image width. Line 2 "IT NEVER CAME." is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
+- FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
+- Line 1 in bright white with a weathered sea-salt and parchment texture, the quotation marks in deep red, like words in a desperate letter.
+- Line 2 "IT NEVER CAME." in bright yellow (#FFE600) with an ancient cracked city-stone texture, like the Theodosian walls: chipped edges, thin glowing cracks, small stone fragments falling from the bottom edges.
+- The "O"-shaped full stop after "CAME" is a small round iron chain link, and a heavy iron chain hangs from it down into the harbour below, becoming the great chain across the water, linking the title to the story.
+- Above line 1, a small red wax-seal style stamp at a slight angle: "CONSTANTINOPLE · 29 MAY 1453".
+- Finish: a thin dark bevel and soft deep shadow for weight; embers and ash drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
+- DEPTH: the top of a wall tower rises slightly in front of the bottom edge of "IT NEVER CAME.", like a film poster title. Never covering a face or the hourglass.
+- Exact spelling. Readable on a phone at a glance.
+
+COLOR GRADE:
+Cold moonlit blue on the sea and the emperor; blazing orange-red from the siege camp behind him. Gold on his armour and Mehmed's ghost. Red only in his cloak, my rim light, the quotation marks and the stamp. Volumetric smoke and sea mist, crushed blacks, very high contrast, subtle film grain. Like a Netflix epic poster. No logos. No watermark.
+
+SAFETY:
+No blood, no bodies, no battle violence, no weapons aimed at anyone. No crosses, crescents or other religious symbols, no flags.
+
+FAIL IF:
+- my face or clothes change, or Constantine XI's or Mehmed II's identity changes
+- the idea is not clear in one second: the emperor looking out at the empty sea, the vast army and giant cannon behind his back
+- the sea horizon has ships on it
+- I am not holding the hourglass with the last grains falling, or my hand has the wrong number of fingers
+- my expression is not quiet anger
+- the chain from the text down into the harbour is missing
+- the text is not in the top-left, is a condensed or thin font, or is misspelled
+- "IT NEVER CAME." is not bright yellow or not the largest text
+- the effects make any letter hard to read
+- the text covers a face or crosses onto my side
+- the torn edge is a straight line, or the red rim light on my face is missing
+- any religious symbol, flag, blood or violence appears
+- the image is so crowded that the main moment does not read in one second
+```

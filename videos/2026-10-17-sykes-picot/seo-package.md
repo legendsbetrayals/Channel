@@ -174,3 +174,100 @@ UPDATE CHECK
 □ Pinned comment posted
 □ Altered or synthetic content: Yes
 ```
+
+## Thumbnail v4 (Gunpowder formula, 30 Oct 2026)
+
+Replaces the thumbnail text, thumbnail file name and prompt above.
+
+```text
+THUMBNAIL TEXT
+Title says a secret deal drew the borders. The text shows who was betrayed: the people who were fighting for a promise.
+1. PROMISED FREEDOM.
+   CARVED UP.
+2. THE MAP
+   OF LIES
+3. THEY FOUGHT.
+   THEY WERE SOLD.
+4. ONE RULER.
+   100 YEARS OF WAR?
+FINAL: PROMISED FREEDOM.
+       CARVED UP.
+Test & Compare variant: THE MAP / OF LIES
+(True to the video: Britain promised Arab independence for the revolt against the Ottomans, while secretly agreeing with France to divide the region.)
+```
+
+```text
+FILE NAMES
+Thumbnail: sykes-picot-agreement-promised-freedom-carved-up-thumbnail.jpg (already-uploaded video: only the thumbnail file name applies)
+```
+
+```text
+NANO BANANA PRO PROMPT
+Model: Nano Banana Pro
+Aspect: 16:9
+Resolution: 4K
+Reference images: 2 of my face + 1 of my outfit + 1 of Sir Mark Sykes + 1 of François Georges-Picot
+
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical epic. Photorealistic, cinematic, bitter: above, an army charges across the desert for a promised freedom; directly beneath the sand, two diplomats are secretly dividing that same land with a ruler. The viewer must click to know how. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No boxes, no frames, no grid: the layers melt into each other through sand, dust and cigar smoke.
+
+REFERENCE IMAGES:
+- Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
+- Use the Mark Sykes and François Georges-Picot references for their exact faces.
+If my face, my clothes, or either diplomat's identity changes, the image is a fail.
+
+LAYOUT:
+- Story LEFT ~65%, me RIGHT ~35%.
+- A jagged torn-paper edge with a bright white torn fibre edge and a thin red glow separates the two sides. Organic tear, never a straight line.
+- Bottom-right corner empty (YouTube timestamp).
+
+THE STORY (LEFT): A CROSS-SECTION OF THE DESERT, ABOVE AND BELOW
+The story side is cut horizontally by the desert floor itself, like a cutaway film poster: a thick band of golden sand and rock, with sand trickling down through cracks.
+
+ABOVE (upper part of the story):
+Dawn over the Arabian desert, 1916, a huge orange sun. Arab Revolt cavalry on horses and camels charges toward the viewer in a wide line, robes and headcloths whipping in the wind, swords and lances raised to the sky, dust exploding behind them. The rider in front, the hero of the poster, seen from a low angle, shouts with hope and fury: he is fighting for the freedom he was promised. No flags or banners with writing or symbols.
+
+BELOW (lower part of the story, the biggest and most dramatic area):
+Directly beneath the charging horses, hidden under the sand: a dim, wood-panelled London office lit by one brass desk lamp, thick with cigar smoke. SIR MARK SYKES (face exactly as the reference), a British diplomat with a moustache in a dark three-piece suit, and FRANÇOIS GEORGES-PICOT (face exactly as the reference), a French diplomat in a dark suit, lean over a large map of the Middle East. With a long wooden ruler and a red grease pencil, Sykes draws one straight line across the map while Picot holds the ruler steady. They are calm and smug, a small satisfied smile, a cigar burning in an ashtray, two glasses of brandy beside the map. They never look up.
+The red line they draw runs off the edge of the map, straight up through the sand above them, and becomes a glowing red crack slicing across the desert in front of the charging riders.
+
+ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
+- Head, shoulders and one raised hand, razor-sharp 85mm portrait look, emerging from pure black.
+- I am holding up an old folded letter with a broken red wax seal beside my face, its bottom corner burning with a small flame. My hand looks natural with exactly five fingers.
+- The burning corner of the letter is my key light: warm orange firelight on my face from below and from the left, reflected in my eyes.
+- Expression: a bitter, knowing half-smile with cold eyes locked on the camera, one eyebrow slightly raised, as if saying to the viewer: "They believed this letter."
+- Plus a hot red rim light on the LEFT side of my face from the story side, and a faint golden desert-dust backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
+
+TEXT DESIGN (a designed movie-poster title, not plain text):
+Line 1: PROMISED FREEDOM.
+Line 2: CARVED UP.
+- POSITION: TOP-LEFT of the image over the dawn sky, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- SIZE: huge. Line 1 spans about half the image width. Line 2 "CARVED UP." is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
+- FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
+- "PROMISED FREEDOM." in bright white with a parchment-letter texture, faint handwriting visible inside the letters.
+- "CARVED UP." in bright yellow (#FFE600) with a sun-baked desert-stone texture, each letter cleanly sliced through by one straight thin red line, as if cut by a ruler, with sand pouring from the cuts.
+- That same straight red line continues out of the text, across the sky and down into the desert crack and the map below, linking the title to the story.
+- Above line 1, a small red rubber-stamp style tag at a slight angle: "SECRET · LONDON · MAY 1916".
+- Finish: a thin dark bevel and soft deep shadow for weight; sand and dust drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
+- DEPTH: the raised lance of the lead rider passes slightly in front of the bottom of "CARVED UP.", like a film poster title. Never covering a face or the burning letter.
+- Exact spelling. Readable on a phone at a glance.
+
+COLOR GRADE:
+Above: blazing desert orange and gold. Below: dim brown-green lamplight and blue cigar smoke. Red only in the ruler line, the wax seal, my rim light and the stamp. Volumetric dust and smoke, crushed blacks, very high contrast, subtle film grain. Like a Netflix epic poster. No logos. No watermark.
+
+SAFETY:
+No blood, no bodies, no one being struck; weapons are raised to the sky, never aimed at anyone. No flags, no religious symbols or writing, no modern country borders or names on the map.
+
+FAIL IF:
+- my face or clothes change, or Sykes's or Picot's identity changes
+- the cross-section is not clear in one second: the charging riders above, the two diplomats with the ruler and map directly below
+- the red ruler line from the map up into the desert, or through the text, is missing
+- I am not holding the burning sealed letter, or my hand has the wrong number of fingers
+- my expression is not the bitter half-smile
+- the text is not in the top-left, is a condensed or thin font, or is misspelled
+- "CARVED UP." is not bright yellow or not the largest text
+- the effects make any letter hard to read
+- the text covers a face or crosses onto my side
+- the torn edge is a straight line, or the red rim light on my face is missing
+- any flag, religious symbol or modern border appears
+- the image is so crowded that the main moment does not read in one second
+```
