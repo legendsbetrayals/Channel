@@ -342,3 +342,86 @@ FAIL IF:
 - any flag, religious symbol or modern border appears
 - the image is so crowded that the main moment does not read in one second
 ```
+
+## Thumbnail v6: "Divide & Rule" angle (2 Nov 2026)
+
+```text
+THUMBNAIL TEXT
+FINAL: "DIVIDE & RULE
+       THE ARABS."
+Test & Compare variant: PROMISED FREEDOM. / CARVED UP.
+```
+
+```text
+FILE NAMES
+Thumbnail: sykes-picot-agreement-divide-and-rule-the-arabs-thumbnail.jpg
+```
+
+```text
+NANO BANANA PRO PROMPT
+Model: Nano Banana Pro
+Aspect: 16:9
+Resolution: 4K
+Reference images: 2 of my face + 1 of my outfit + 1 of Sir Mark Sykes + 1 of François Georges-Picot
+
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical epic. Photorealistic, cinematic, bitter, ONE continuous scene with big, close characters: two smug diplomats cut the Arab world into pieces on a map, while behind them the Arab riders charging for their freedom are split apart by that same line. The viewer must click to know how. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No split sections, no panels, no boxes, no frames, no grid: one single image that melts through sand, dust and cigar smoke.
+
+REFERENCE IMAGES:
+- Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
+- Use the Mark Sykes and François Georges-Picot references for their exact faces.
+If my face, my clothes, or either diplomat's identity changes, the image is a fail.
+
+LAYOUT:
+- Story LEFT ~65%, me RIGHT ~35%.
+- A jagged torn-paper edge with a bright white torn fibre edge and a thin red glow separates the two sides. Organic tear, never a straight line.
+- Bottom-right corner empty (YouTube timestamp).
+
+THE STORY (LEFT): ONE SCENE, CLOSE AND HUGE
+1916. SIR MARK SYKES (face exactly as the reference) fills the foreground of the story side: a close shot, his head, shoulders and hands taking up more than half the height of the image. British diplomat with a moustache, dark three-piece suit, lit by one brass desk lamp in cigar smoke. He leans over a large map of the Middle East, a long wooden ruler laid across it, and slices the map in two along a red grease-pencil line with a silver letter opener, with a small smug smile, eyes down on the map. Just behind his shoulder, close and clear: FRANÇOIS GEORGES-PICOT (face exactly as the reference), French diplomat in a dark suit, already pulling his half of the map toward himself, smiling with satisfaction. Small cut-out pieces of the map lie scattered on the desk. A cigar burns in an ashtray, two glasses of brandy beside the map.
+Behind the two men, the wall of the office has become a tall window onto the desert at dawn, filling the background: Arab Revolt riders charge toward the viewer side by side, robes whipping in the wind, swords raised to the sky, shouting with hope and fury. The red line from the map runs off the desk and splits the desert floor in two as a glowing red crack that opens right through the middle of the charge: the lead rider, large and sharp, pulls his horse up at the edge of the crack and looks back in shock at his brothers-in-arms now cut off on the other side. No flags or banners with writing or symbols.
+
+ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
+- Head, shoulders and one raised hand, razor-sharp 85mm portrait look, emerging from pure black.
+- I am holding a pair of old brass tailor's scissors up beside my face, blades half open, a thin cut strip of an old map hanging from the blades. My hand looks natural with exactly five fingers.
+- The desk lamp from the story is my key light: warm light from the left on my face, catching a bright glint on the scissor blades.
+- Expression: a cold, calculating half-smile, eyes narrowed and locked on the camera, as if I am telling the viewer the secret plan: "Divide them. Then rule them."
+- Plus a hot red rim light on the LEFT side of my face from the story side, and a faint golden desert-dust backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
+
+TEXT DESIGN (a designed movie-poster title, not plain text):
+Line 1: "DIVIDE & RULE
+Line 2: THE ARABS."
+- POSITION: TOP-LEFT of the image, in the cigar smoke at the top of the office, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- SIZE: huge. Line 1 spans about half the image width. Line 2 "THE ARABS." is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
+- FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
+- The whole phrase is in quotation marks (deep red), because it is the diplomats' secret plan, not a statement by me.
+- "DIVIDE & RULE" in bright white with an old typed-diplomatic-document texture; the "&" is a small red wax seal.
+- "THE ARABS." in bright yellow (#FFE600) with a sun-baked desert-stone texture, every letter sliced horizontally through the middle by one straight thin red ruler line, the top halves shifted slightly apart from the bottom halves so the words look divided, with sand pouring from the cuts. The letters must still read clearly.
+- That same straight red line continues out of the text, onto the map under the letter opener and across the window into the desert crack, linking the title to the story.
+- Above line 1, a small red rubber-stamp style tag at a slight angle: "SECRET · LONDON · MAY 1916".
+- Finish: a thin dark bevel and soft deep shadow for weight; sand and dust drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
+- DEPTH: the raised sword of the rider passes slightly in front of the bottom of "CARVED UP.", like a film poster title. Never covering a face or the scissors.
+- Exact spelling. Readable on a phone at a glance.
+
+COLOR GRADE:
+Dim brown-green lamplight and blue cigar smoke on the diplomats in the foreground; blazing desert orange and gold through the window behind them. Red only in the ruler line, the wax-seal ampersand, the quotation marks, my rim light and the stamp. Volumetric dust and smoke, crushed blacks, very high contrast, subtle film grain. Like a Netflix epic poster. No logos. No watermark.
+
+SAFETY:
+No blood, no bodies, no one being struck; weapons are raised to the sky, never aimed at anyone. No flags, no religious symbols or writing, no modern country borders or names on the map.
+
+FAIL IF:
+- the story side is split into upper and lower sections or panels instead of one scene
+- Sykes is small: his head and shoulders must fill more than half the height of the story side
+- the map being cut in two in the foreground and the riders split apart by the crack behind are not clear
+- my face or clothes change, or Sykes's or Picot's identity changes
+- the red ruler line from the map up into the desert, or through the text, is missing
+- I am not holding the scissors with the strip of map, or my hand has the wrong number of fingers
+- my expression is not the cold, calculating half-smile
+- the quotation marks are missing, or the divided letters of "THE ARABS." are hard to read
+- the text is not in the top-left, is a condensed or thin font, or is misspelled
+- "THE ARABS." is not bright yellow or not the largest text
+- the effects make any letter hard to read
+- the text covers a face or crosses onto my side
+- the torn edge is a straight line, or the red rim light on my face is missing
+- any flag, religious symbol or modern border appears
+- the image is so crowded that the main moment does not read in one second
+```
