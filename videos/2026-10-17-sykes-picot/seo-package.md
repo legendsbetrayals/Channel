@@ -309,7 +309,7 @@ ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
 TEXT DESIGN (a designed movie-poster title, not plain text):
 Line 1: PROMISED FREEDOM.
 Line 2: CARVED UP.
-- POSITION: TOP-LEFT of the image over the dawn sky, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- POSITION: TOP-LEFT of the image, in the cigar smoke at the top of the office, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
 - SIZE: huge. Line 1 spans about half the image width. Line 2 "CARVED UP." is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
 - FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
 - "PROMISED FREEDOM." in bright white with a parchment-letter texture, faint handwriting visible inside the letters.
