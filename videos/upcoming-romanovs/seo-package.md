@@ -224,3 +224,79 @@ UPLOAD CHECK
 ```
 
 Suggestion: if the video can still be edited, add 1–2 lines about King George V withdrawing Britain's offer of asylum. It's a strong UK hook and is currently only in the pinned comment.
+
+## Thumbnail prompt v5 (one scene, 2 Nov 2026)
+
+Replaces every earlier prompt above. Thumbnail text and file name unchanged from the latest version above.
+
+```text
+NANO BANANA PRO PROMPT
+Model: Nano Banana Pro
+Aspect: 16:9
+Resolution: 4K
+Reference images: 2 of my face + 1 of my outfit + 1 of Tsar Nicholas II + 1 of Tsarina Alexandra
+
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical thriller. Photorealistic, cinematic, unbearable tension, ONE continuous scene with big, close characters: the last Tsar stops on the basement stairs, his arm out to shield his family, as he realises what is waiting below. The viewer must click to know what happened. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No split sections, no panels, no boxes, no frames, no grid: one single image that melts into the darkness through haze.
+
+REFERENCE IMAGES:
+- Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
+- Use the Nicholas II and Alexandra references for their exact faces.
+If my face, my clothes, or either historical identity changes, the image is a fail.
+
+LAYOUT:
+- Story LEFT ~65%, me RIGHT ~35%.
+- A jagged torn-paper edge with a bright white torn fibre edge and a thin red glow separates the two sides. Organic tear, never a straight line.
+- Bottom-right corner empty (YouTube timestamp).
+
+THE STORY (LEFT): ONE SCENE, CLOSE AND HUGE
+Night, 17 July 1918, the narrow wooden staircase leading down into the basement of the Ipatiev House.
+TSAR NICHOLAS II (face exactly as the reference) fills most of the story side: a close, low-angle shot from below on the stairs, his head, shoulders and outstretched arm taking up more than half the height of the image. Plain khaki military tunic. He has stopped halfway down the stairs and thrown one arm out sideways to hold his family back. His face, lit from below by the bulb in the basement, shows the exact second of understanding: eyes wide and wet, brows lifted, lips parted, the colour draining from his face. A father who has just realised no one is coming to save them.
+Right behind his shoulder, close and large: TSARINA ALEXANDRA (face exactly as the reference), in a pale dress, clutching his sleeve with both hands, her frightened eyes looking past him down the stairs. Behind her, softer and slightly out of focus, a grown daughter in her twenties in a long white dress, a single tear on her cheek.
+At the bottom of the stairs, in the background between them and the viewer's side, the basement: a bare whitewashed wall, ONE bare light bulb swinging on its cord, two empty wooden chairs set out under it, and the long black shadows of rifles held upright cast across the white wall. The men themselves are out of sight.
+Looming in the haze above the stairs like a ghost: a giant golden jewelled Fabergé imperial egg, cracking down the middle, black smoke pouring from the crack.
+A snapped string of pearls bounces down the steps in the bulb light.
+
+ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
+- Head, shoulders and one raised hand, razor-sharp 85mm portrait look, emerging from pure black.
+- I am holding up an old brass oil lantern beside my face by its handle, as if I am the guard leading the way down. My hand looks natural with exactly five fingers.
+- The lantern flame is my key light: warm amber light on my face from the side and slightly below, the flame reflected in both eyes.
+- Expression: a calm, polite, reassuring half-smile that does not reach my eyes. My eyes are cold and locked on the camera, head tilted slightly, as if I am saying to the viewer, "This way. You'll be safe." Kind mouth, dangerous eyes.
+- Plus a hot red rim light on the LEFT side of my face from the story side, and a faint cold blue backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
+
+TEXT DESIGN (a designed movie-poster title, not plain text):
+Line 1: "YOU'LL BE SAFE."
+Line 2: THEY LIED.
+- POSITION: TOP-LEFT of the image, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- SIZE: huge. Line 1 spans about half the image width. Line 2 "THEY LIED." is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
+- FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
+- Line 1 in bright white, warm like a calm promise, with the quotation marks in deep red.
+- Line 2 "THEY LIED." in bright yellow (#FFE600) made of cracked imperial enamel and gold leaf, like a broken Fabergé egg: thin dark fractures through every letter, small gold flakes falling from the bottom edges. The full stop after "LIED" is a single white pearl, falling.
+- The cord of the basement light bulb hangs from the bottom of the letter "Y" in "THEY", hangs down into the scene and ends in the bare bulb swinging above the two chairs in the basement, connecting the title to the basement.
+- Above line 1, a small red rubber-stamp style tag at a slight angle: "IPATIEV HOUSE · 17.07.1918".
+- Finish: a thin dark bevel and soft deep shadow for weight; dust and gold flakes drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
+- DEPTH: the edge of the Fabergé egg's smoke drifts slightly in front of the bottom of "THEY LIED.". Never covering a face, the bulb or the chairs.
+- Exact spelling, including the apostrophe in YOU'LL. Readable on a phone at a glance.
+
+COLOR GRADE:
+Sickly yellow bulb light on the faces, cold blue-white and black in the basement. Imperial gold on the egg and text, white dresses glowing, the lantern a hot amber point, red only in my rim light, the quotation marks and the stamp. Volumetric haze, crushed blacks, very high contrast, subtle film grain. Like a Netflix thriller poster. No logos. No watermark.
+
+SAFETY:
+No shooting, no muzzle flashes, no weapon aimed at anyone, no blood, no wounds, no bodies, no bullet holes. Only shadows of rifles, held upright. No children: only Nicholas, Alexandra and one clearly adult daughter appear. No flags, no religious icons.
+
+FAIL IF:
+- the story side is split into upper and lower sections or panels instead of one scene
+- Nicholas II is small: his head and shoulders must fill more than half the height of the story side
+- Nicholas's protective arm and the moment of realisation are not obvious
+- the basement bulb, two chairs and rifle shadows are not visible behind him
+- my face or clothes change, or Nicholas II's or Alexandra's identity changes
+- I am not holding a lit lantern lighting my face, or my hand has the wrong number of fingers
+- my expression is not the polite smile with cold eyes
+- the bulb cord from "THEY" down to the basement, the cracked Fabergé egg or the pearl full stop is missing
+- the text is not in the top-left, is a condensed or thin font, or is misspelled
+- "THEY LIED." is not bright yellow or not the largest text
+- the effects make any letter hard to read
+- the text covers a face or crosses onto my side
+- the torn edge is a straight line, or the red rim light on my face is missing
+- any weapon is fired or aimed, any blood appears, or any child appears
+- the image is so crowded that the main moment does not read in one second
+```

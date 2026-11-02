@@ -181,3 +181,78 @@ FAIL IF:
 - 25 Oct 2026 (2 days): 13 views, 0 likes, 0 comments. vidIQ outlier score 2.6× channel average. Live thumbnail scored 84 ("no clear visual guidance").
 - Pattern: 6 views in the first 3.5 hours, then about 1 view every 4–5 hours, so YouTube was not yet recommending it (browse/suggested).
 - To check on 27–28 Oct: impressions, click-through rate, average view duration, traffic sources.
+
+## Thumbnail prompt v5 (one scene, 2 Nov 2026)
+
+Replaces every earlier prompt above. Thumbnail text and file name unchanged from the latest version above.
+
+```text
+NANO BANANA PRO PROMPT
+Model: Nano Banana Pro
+Aspect: 16:9
+Resolution: 4K
+Reference images: 2 of my face + 1 of my outfit + 1 of Sultan Mehmed III (the same image used in my video)
+
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical thriller. Photorealistic, cinematic, heartbreaking and chilling, ONE continuous scene with big, close characters: a new sultan in gold points at his young brothers, who huddle in terror behind him. The viewer must click to know what happened. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No split sections, no panels, no boxes, no frames, no grid: one single image that melts into the darkness through incense smoke and candle haze.
+
+REFERENCE IMAGES:
+- Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
+- Use the Sultan reference for Mehmed III's exact face, beard, turban and clothing.
+If my face, my clothes, or the Sultan's identity changes, the image is a fail.
+
+LAYOUT:
+- Story LEFT ~65%, me RIGHT ~35%.
+- A jagged torn-paper edge with a bright white torn fibre edge and a thin red glow separates the two sides. Organic tear, never a straight line.
+- Bottom-right corner empty (YouTube timestamp).
+
+THE STORY (LEFT): ONE SCENE, CLOSE AND HUGE
+Night, January 1595, a candlelit corridor of Topkapi Palace with blue Iznik tiles and gold lamps.
+SULTAN MEHMED III (face exactly as the reference) fills most of the story side in the foreground: a close, low-angle shot, his head, shoulders and arm taking up more than half the height of the image. Red and gold kaftan, white turban. He has turned half toward the viewer and his right arm is fully extended back behind him, finger POINTING at his brothers: a merciless command. His face is pure cold evil: harsh candlelight from below carves deep shadows under his eyes, eyes narrowed, chin raised, a thin cruel smile at one corner of his mouth.
+Behind him, a few steps back but still large and clear: three of his young brothers, Ottoman princes in fine silk robes and small turbans, aged about eight to sixteen, huddled against the tiled wall. They look straight at him with terror and disbelief: wide wet eyes, tears on the cheek of the youngest, the eldest boy pulling the smallest behind him and spreading his arm to protect him. They are standing and completely unharmed. Warm candlelight on their faces.
+Further back in the darkness of the corridor: two tall faceless executioner silhouettes, completely black shapes, a long RED SILK CORD hanging loose from each of their hands. The cords touch no one. The executioners are far from the boys.
+
+ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
+- Head, shoulders and one raised hand, razor-sharp 85mm portrait look, emerging from pure black.
+- I am holding up a long red silk cord, draped loosely over my open fingers so both ends hang down, presenting it to the camera like evidence. My hand looks natural with exactly five fingers. The cord touches no one.
+- A single candle flame just below the frame is my key light: warm gold light from below on my face and on the red silk, the flame reflected in both eyes.
+- Expression: ice-cold and emotionless, chin slightly raised, eyes locked on the camera without blinking, mouth closed in a flat line, as if I am the man who carried out the order and feel nothing.
+- Plus a hot red rim light on the LEFT side of my face from the story side, and a faint gold backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
+
+TEXT DESIGN (a designed movie-poster title, not plain text):
+Line 1: KILL THEM
+Line 2: ALL
+- POSITION: TOP-LEFT of the image, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- SIZE: huge. Line 1 spans about half the image width. Line 2 "ALL" is about 1.5x taller than line 1, as wide as line 1, and the dominant text on the whole thumbnail.
+- FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
+- "KILL THEM" in bright white with a cracked Iznik-tile texture: fine dark cracks through glazed white tile.
+- "ALL" in bright yellow (#FFE600) with a beaten-gold, Ottoman royal-seal texture and faint engraved patterns inside the letters, catching the throne-room light.
+- A red silk cord is wrapped once around the bottom of the second "L" in "ALL", and its loose end trails down through the incense smoke to the floor of the corridor behind the Sultan, toward the brothers, linking the title to the scene.
+- Above line 1, a small red wax-seal style stamp at a slight angle: "TOPKAPI · 1595".
+- Finish: a thin dark bevel and soft deep shadow for weight; incense smoke and gold dust drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
+- DEPTH: the top of the Sultan's turban slightly overlaps the bottom of "ALL", like a film poster title. Never covering a face, the pointing hand, the cord in my hand or the brothers.
+- Exact spelling. Readable on a phone at a glance.
+
+COLOR GRADE:
+Blazing gold and deep red on the Sultan in the foreground; black and cold teal in the corridor behind, with warm candlelight on the brothers' faces. Red only in the silk cords, the Sultan's kaftan, my rim light and the stamp. Volumetric incense haze, crushed blacks, very high contrast, subtle film grain. Like a Netflix thriller poster. Do not tint my clothes red. No logos. No watermark.
+
+SAFETY:
+No blood, no violence shown, no one being touched or harmed, no bodies. The princes are frightened but standing and unharmed; nobody touches them; the executioners stay far behind them and the red cords touch no one. No religious text or symbols. No flags.
+
+FAIL IF:
+- the story side is split into upper and lower sections or panels instead of one scene
+- the Sultan is small: his head and shoulders must fill more than half the height of the story side
+- the Sultan is not clearly POINTING at his brothers, or his face does not look evil
+- the brothers' fear and tears are not visible, or anyone touches or harms them
+- my face or clothes change, or the Sultan's identity changes
+- the Sultan is not clearly POINTING down at them, or his face does not look evil
+- the brothers' fear and tears are not visible, or anyone touches or harms them
+- I am not holding the red silk cord in the candlelight, or my hand has the wrong number of fingers
+- my expression is not ice-cold and emotionless
+- the cord from "ALL" down into the corridor is missing
+- the text is not in the top-left, is a condensed or thin font, or is misspelled
+- "ALL" is not bright yellow or not the largest text
+- the effects make any letter hard to read
+- the text covers a face or crosses onto my side
+- the torn edge is a straight line, or the red rim light on my face is missing
+- the image is so crowded that the main moment does not read in one second
+```
