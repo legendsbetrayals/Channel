@@ -142,7 +142,7 @@ Aspect: 16:9
 Resolution: 4K
 Reference images: 2 of my face + 1 of my outfit + 1 of Guy Fawkes (period portrait) + 1 of King James I
 
-Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical thriller. Photorealistic, cinematic, breathtaking scale, unbearable tension: above ground a king walks in glory, below his feet death is waiting, and the viewer must click to know what happened. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No boxes, no frames, no grid: the layers melt into each other through smoke, ember glow and darkness.
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical thriller. Photorealistic, cinematic, unbearable tension, ONE continuous scene with big, close characters: a man kneels beside a mountain of gunpowder with a glowing match, staring up at the King he is about to kill. The viewer must click to know what happened. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No split sections, no panels, no boxes, no frames, no grid: one single image that melts into the darkness through smoke and ember glow.
 
 REFERENCE IMAGES:
 - Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
@@ -154,17 +154,14 @@ LAYOUT:
 - A jagged torn-paper edge with a bright white torn fibre edge and a thin red glow separates the two sides. Organic tear, never a straight line.
 - Bottom-right corner empty (YouTube timestamp).
 
-THE STORY (LEFT): A CROSS-SECTION POSTER, ABOVE AND BELOW
-The story side is cut horizontally by the ground itself, like a cutaway film poster: a thick band of dark earth and old stone foundations runs across the middle, with one jagged crack glowing faint orange from below.
-
-ABOVE GROUND (upper part of the story):
-Night, November 1605. The medieval Palace of Westminster and the House of Lords (no clock tower, no Big Ben, it did not exist yet), its tall gothic windows blazing with golden light. Through the great open doors, KING JAMES I (face exactly as the reference) walks forward in rich royal robes and a gold crown, lords bowing on both sides, torches and banners of gold. He is calm and proud, completely unaware. A faint cold mist around the palace.
-
-BELOW GROUND (lower part of the story, the biggest and most dramatic area):
-Directly under the King's feet, a vast stone cellar packed with a towering wall of 36 wooden gunpowder barrels, stacked high into the darkness, black powder spilling across the floor in a long trail.
-GUY FAWKES (face exactly as the reference), in a dark cloak and wide-brimmed black hat, kneels on one knee at the foot of the barrels, the hero figure of the poster: low angle, larger than life. In his raised hand he holds a slow-match cord with a glowing orange tip just above the black powder trail. His head is tilted back and he is staring UP at the ceiling, toward the King above him, with a cold, patient, terrifying look: jaw clenched, eyes reflecting the ember, sweat on his brow, a man counting the seconds.
-The only light down here is the glowing match: hot orange light on his face and the barrels, deep black everywhere else, sparks drifting upward toward the cracked ceiling.
-In the far left darkness of the cellar, barely visible: a sliver of white torchlight under a door, as if someone is about to come in.
+THE STORY (LEFT): ONE SCENE, CLOSE AND HUGE
+Night, 4–5 November 1605, the stone cellar beneath the House of Lords.
+GUY FAWKES (face exactly as the reference) fills most of the story side: a close, low-angle shot, his head, shoulders and raised hand taking up more than half the height of the image. Dark cloak, wide-brimmed black hat. He kneels in front of a towering wall of wooden gunpowder barrels that rises behind him into the darkness, black powder spilling from a cracked barrel into a trail on the floor.
+In his raised hand, close to the camera, he holds a slow-match cord whose glowing orange tip hovers just above the trail of black powder. This ember is the only light on him: hot orange light carving his face from below.
+His head is tilted back and he stares UP at the low wooden ceiling with a cold, patient, terrifying look: jaw clenched, eyes reflecting the ember, a bead of sweat running down his temple, the face of a man counting the seconds.
+Above him, through the gaps in the old ceiling boards, thin blades of warm golden light shine down into the smoke, and in those gaps the shadows of feet and the hem of a royal robe pass by: the King is directly above him and does not know.
+Looming huge in the smoke above the barrels like a ghost, behind Fawkes: the giant face of KING JAMES I (face exactly as the reference), proud and unaware, crowned, glowing faint gold, half dissolving into the dark.
+In the far left darkness: a thin sliver of white torchlight under a door, as if someone is about to come in.
 
 ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
 - Head, shoulders and one raised hand, razor-sharp 85mm portrait look, emerging from pure black.
@@ -176,25 +173,27 @@ ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
 TEXT DESIGN (a designed movie-poster title, not plain text):
 Line 1: ONE SPARK.
 Line 2: NO KING.
-- POSITION: TOP-LEFT of the image over the night sky above the palace, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- POSITION: TOP-LEFT of the image, in the dark smoke above Fawkes' hat, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
 - SIZE: huge. Line 1 spans about half the image width. Line 2 "NO KING." is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
 - FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
-- "ONE SPARK." in bright white with a scorched, smoke-stained texture. A lit fuse runs along the bottom edge of these words like an underline; its burning tip throws bright orange sparks off the letter "K", and the burnt fuse trail continues DOWN the image, through the crack in the ground, into the black powder in the cellar, connecting the title to the barrels.
+- "ONE SPARK." in bright white with a scorched, smoke-stained texture. A lit fuse runs along the bottom edge of these words like an underline; its burning tip throws bright orange sparks off the letter "K", and the burnt fuse trail drops down from the text into the black powder trail at Fawkes' feet, connecting the title to the barrels.
 - "NO KING." in bright yellow (#FFE600) with a cracked, gunpowder-blasted surface and thin glowing orange-hot cracks, as if about to explode. The "O" in "NO" is a small golden royal crown seen from above, cracked in two, the same height as the letters.
 - Above line 1, a small red rubber-stamp style tag at a slight angle: "5 NOV 1605", like an evidence stamp.
 - Finish: a thin dark bevel and soft deep shadow for weight; embers and ash drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
-- DEPTH: the palace towers rise slightly in front of the bottom edge of "NO KING.", like a film poster title. Never covering a face, the King or the glowing match.
+- DEPTH: the brim of Guy Fawkes' hat slightly overlaps the bottom edge of "NO KING.", like a film poster title. Never covering a face, the King's ghost face or the glowing match.
 - Exact spelling. Readable on a phone at a glance.
 
 COLOR GRADE:
-Above ground: royal gold and warm window light against a cold blue night. Below ground: black and molten orange from the match. Red only in my rim light and the date stamp. Volumetric smoke and dust, crushed blacks, very high contrast, subtle film grain. Like a Netflix thriller poster. No logos. No watermark.
+Black and molten orange from the ember, thin blades of royal gold from the ceiling, faint gold on the King's ghost face. Red only in my rim light and the date stamp. Volumetric smoke and dust, crushed blacks, very high contrast, subtle film grain. Like a Netflix thriller poster. No logos. No watermark.
 
 SAFETY:
 No explosion, no fire on any person, no blood, no wounds, no bodies, no weapon touching anyone. No burning effigies. No religious symbols. No flags. No masks.
 
 FAIL IF:
+- the story side is split into upper and lower sections or panels instead of one scene
+- Guy Fawkes is small: his head and shoulders must fill more than half the height of the story side
 - my face or clothes change, or Guy Fawkes' or King James I's identity changes
-- the cross-section is not clear in one second: the King walking above, Fawkes with the glowing match and barrels directly below
+- the glowing match above the gunpowder, Fawkes staring up, and the light through the ceiling are not clear in one second
 - I am not holding a lit match with its flame lighting my face, or my hand has the wrong number of fingers
 - my expression is not the knowing half-smile
 - the fuse from "ONE SPARK." down to the gunpowder, or the cracked crown "O", is missing

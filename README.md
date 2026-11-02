@@ -38,7 +38,7 @@ The model for every thumbnail is the Gunpowder Plot poster: King James walking i
 
 Every thumbnail needs 4 things, with a fresh idea for each story:
 
-1. **One high-concept image built on dramatic irony.** The viewer sees what the victim can't: glory above and doom below (a cutaway), or safety in front and the threat behind.
+1. **One high-concept image built on dramatic irony, in ONE continuous scene** (no upper/lower split, since it makes characters too small). The main character is big and close, with the threat behind him, in the shadows, or leaking through a crack or door.
 2. **The creator in the story, holding its key prop** (match, lantern, silk cord, letter), lit by it, with an in-character expression.
 3. **The title physically linked to the scene** (a fuse, a bulb cord, a silk cord).
 4. **A catchphrase a stranger understands instantly.**
