@@ -399,7 +399,7 @@ Line 2: THE ARABS."
 - That same straight red line continues out of the text, onto the map under the letter opener and across the window into the desert crack, linking the title to the story.
 - Above line 1, a small red rubber-stamp style tag at a slight angle: "SECRET · LONDON · MAY 1916".
 - Finish: a thin dark bevel and soft deep shadow for weight; sand and dust drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
-- DEPTH: the raised sword of the rider passes slightly in front of the bottom of "CARVED UP.", like a film poster title. Never covering a face or the scissors.
+- DEPTH: the raised sword of the rider passes slightly in front of the bottom of "THE ARABS.", like a film poster title. Never covering a face or the scissors.
 - Exact spelling. Readable on a phone at a glance.
 
 COLOR GRADE:
