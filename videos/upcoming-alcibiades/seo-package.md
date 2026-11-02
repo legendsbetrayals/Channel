@@ -18,13 +18,15 @@ Score: 93 (best of 10 tested; the script title "Alcibiades: The Man Who Betrayed
 ```text
 FILE NAMES
 Video: sparta-vs-athens-most-dangerous-traitor-ancient-history.mp4
-Thumbnail: sparta-vs-athens-alcibiades-whose-side-is-he-on-thumbnail.jpg
+Thumbnail: sparta-vs-athens-alcibiades-all-fooled-thumbnail.jpg
 ```
 
 ```text
 THUMBNAIL TEXT
 Title says he was the most dangerous traitor. The text makes the viewer ask the question the whole video answers.
-1. WHOSE SIDE
+1. ATHENS. SPARTA. PERSIA.
+   ALL FOOLED.
+2b. WHOSE SIDE
    IS HE ON?
 2. HE SWITCHED
    SIDES. TWICE.
@@ -34,9 +36,9 @@ Title says he was the most dangerous traitor. The text makes the viewer ask the 
    HERO AGAIN?
 5. LOYAL TO
    NO ONE
-FINAL: WHOSE SIDE
-       IS HE ON?
-Test & Compare variant: HE SWITCHED / SIDES. TWICE.
+FINAL: ATHENS. SPARTA. PERSIA.
+       ALL FOOLED.
+Test & Compare variant: WHOSE SIDE / IS HE ON?
 ```
 
 ```text
@@ -139,11 +141,12 @@ Aspect: 16:9
 Resolution: 4K
 Reference images: 2 of my face + 1 of my outfit + 1 of the ancient marble bust of Alcibiades
 
-Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical epic. Photorealistic, cinematic, dangerous, ONE continuous scene with big, close characters: a charming Athenian general smiles at the viewer while whispering secrets to the Spartans, as his own city's fleet burns behind him. The viewer must click to know whose side he is really on. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No split sections, no panels, no boxes, no frames, no grid: one single image that melts through smoke, sea mist and firelight.
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical epic. Photorealistic, cinematic, sensational, ONE continuous scene with big, close characters: a charming traitor slips out of the grasp of the three great powers he betrayed, Athens, Sparta and Persia, smiling at the viewer as all three reach for him. The viewer must click to know how he fooled them all. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No split sections, no panels, no boxes, no frames, no grid: one single image that melts through smoke, sea mist and firelight.
 
 REFERENCE IMAGES:
 - Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
 - Use the Alcibiades bust reference for his face: bring the marble to life as a real, handsome man in his thirties with the same features, curly hair and short beard.
+- The three men behind him are invented historical figures; no reference needed.
 If my face, my clothes, or Alcibiades' identity changes, the image is a fail.
 
 LAYOUT:
@@ -152,54 +155,59 @@ LAYOUT:
 - Bottom-right corner empty (YouTube timestamp).
 
 THE STORY (LEFT): ONE SCENE, CLOSE AND HUGE
-Night, 413 BC, a rocky clifftop above the sea.
-ALCIBIADES (face as the reference, alive and handsome) fills most of the story side in the foreground: a close, low-angle shot, his head and shoulders taking up more than half the height of the image. He wears a bronze Athenian cuirass, but a crimson Spartan cloak hangs over his shoulder and billows in the wind. He leans to the side to whisper into the ear of a Spartan commander beside him, while his eyes look straight at the viewer with a charming, arrogant, dangerous smile, one eyebrow raised: a man enjoying his own betrayal.
-The SPARTAN COMMANDER, large and close just behind his shoulder, wears a bronze Corinthian helmet with a red crest that hides his face completely; he listens, holding a rolled map of Athenian territory.
-Behind them, far below across the dark water: the Athenian fleet burning in a harbour, dozens of trireme warships glowing orange, sails on fire, black smoke rising into the night. No people are visible on the ships. The firelight from the burning fleet lights the back of Alcibiades' hair and the edge of his face in orange.
-Looming faint in the smoke above the fleet like a ghost: a giant owl, the symbol of Athens, its eyes fixed on him.
+Night, the late 5th century BC, a dark marble hall filled with smoke and firelight.
+ALCIBIADES (face as the reference, alive and handsome) fills the centre-front of the story side: a close, low-angle shot, his head and shoulders taking up more than half the height of the image. Bronze Athenian cuirass, a crimson Spartan cloak over one shoulder and a gold Persian armband on his wrist: he wears a piece of every side. He is stepping forward and twisting slightly, slipping free, and he looks straight at the viewer with a charming, arrogant grin and one eyebrow raised: a man who has fooled everyone and is enjoying it.
+Behind him, close and large, three powerful men lunge toward him from three directions out of the smoke, each reaching out with one hand to grab him, their fingertips missing his cloak by an inch:
+- LEFT: an ATHENIAN GENERAL in a bronze helmet pushed up on his head and a blue-white cloak, face furious and betrayed, his round shield painted with an owl. Lit cold blue.
+- BEHIND RIGHT: a SPARTAN KING in a bronze Corinthian helmet with a tall red crest that hides most of his face, only his burning eyes visible, his shield marked with the Greek letter "Λ". Lit blood red.
+- RIGHT: a PERSIAN SATRAP with a curled black beard, a tall soft hat, gold earrings and an embroidered purple robe, eyes narrowed with cold suspicion. Lit gold.
+Each of the three holds a dagger LOWERED at his side in his other hand, glinting, never raised and never pointed at anyone.
+Their three different lights (blue, red and gold) fall on Alcibiades from three sides, so his face is lit by every side at once.
+Falling through the smoke around him: a few gold Persian coins and silver Athenian owl coins, as if he has taken money from everyone.
 
 ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
 - Head, shoulders and one raised hand, razor-sharp 85mm portrait look, emerging from pure black.
 - I am holding an ancient Greek theatre mask up beside my face, split down the middle: one half polished gold and smiling, the other half cracked black stone and frowning. My hand looks natural with exactly five fingers.
-- Firelight from the burning fleet is my key light, warm orange on my face and the gold half of the mask from the left.
+- Warm firelight is my key light, orange on my face and the gold half of the mask from the left.
 - Expression: a sly, knowing smirk, one eyebrow raised, eyes locked on the camera, as if I am asking the viewer: "Guess which face is real."
 - Plus a hot red rim light on the LEFT side of my face from the story side, and a faint cold sea-blue backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
 
 TEXT DESIGN (a designed movie-poster title, not plain text):
-Line 1: WHOSE SIDE
-Line 2: IS HE ON?
-- POSITION: TOP-LEFT of the image, in the night smoke above Alcibiades, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
-- SIZE: huge. Line 1 spans about half the image width. Line 2 "IS HE ON?" is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
+Line 1: ATHENS. SPARTA. PERSIA.
+Line 2: ALL FOOLED.
+- POSITION: TOP-LEFT of the image, in the smoke above Alcibiades, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- SIZE: huge. Line 1 spans about half the image width. Line 2 "ALL FOOLED." is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
 - FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
-- "WHOSE SIDE" in bright white with a cracked white-marble texture, like an ancient Greek statue.
-- "IS HE ON?" in bright yellow (#FFE600) with a polished bronze-armour texture and hot orange reflections from the burning fleet.
-- The "O" in "ON" is an ancient bronze coin of the same height, split in half: the left half shows the Athenian owl, the right half shows the Spartan "Λ" shield symbol.
-- The crimson Spartan cloak from Alcibiades' shoulder billows up in the wind and its edge wraps once around the bottom of "IS HE ON?", linking the title to the scene.
-- Above line 1, a small red rubber-stamp style tag at a slight angle: "SYRACUSE · 413 BC".
+- "ATHENS. SPARTA. PERSIA." in bright white with a cracked white-marble texture, like an ancient Greek inscription; each full stop is a tiny drop of red wax.
+- "ALL FOOLED." in bright yellow (#FFE600) with a polished bronze-armour texture and hot orange reflections.
+- The two "O"s in "FOOLED" are two ancient coins of the same height: the first a silver Athenian coin with an owl, the second a gold Persian coin with an archer.
+- The crimson Spartan cloak from Alcibiades' shoulder billows up in the wind and its edge wraps once around the bottom of "ALL FOOLED.", linking the title to the scene.
+- Above line 1, a small red rubber-stamp style tag at a slight angle: "ATHENS · 415 BC".
 - Finish: a thin dark bevel and soft deep shadow for weight; embers and ash drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
-- DEPTH: the top of Alcibiades' curly hair slightly overlaps the bottom edge of "IS HE ON?", like a film poster title. Never covering a face or the mask.
-- Exact spelling, with the question mark. Readable on a phone at a glance.
+- DEPTH: the top of Alcibiades' curly hair slightly overlaps the bottom edge of "ALL FOOLED.", like a film poster title. Never covering a face or the mask.
+- Exact spelling. Readable on a phone at a glance.
 
 COLOR GRADE:
-Cold night blue and black, molten orange from the burning fleet, bronze and gold highlights, crimson only in the Spartan cloak and crest, my rim light and the stamp. Volumetric smoke and sea mist, crushed blacks, very high contrast, subtle film grain. Like a Netflix epic poster. No logos. No watermark.
+Three coloured lights from three sides: cold Athenian blue, Spartan blood red and Persian gold, meeting on Alcibiades' face. Bronze and gold highlights, black smoke, crimson in the Spartan cloak and crest, my rim light and the stamp. Volumetric smoke and sea mist, crushed blacks, very high contrast, subtle film grain. Like a Netflix epic poster. No logos. No watermark.
 
 SAFETY:
-No blood, no bodies, no one burning, no people on the burning ships, no weapons aimed at anyone. No religious symbols or statues of gods, no flags.
+No blood, no bodies, no one touched or struck. The daggers stay lowered at the men's sides, never raised or pointed. No religious symbols or statues of gods, no flags.
 
 FAIL IF:
 - the story side is split into upper and lower sections or panels instead of one scene
 - Alcibiades is small: his head and shoulders must fill more than half the height of the story side
-- his smile at the viewer while whispering to the Spartan, and the burning fleet behind him, are not clear in one second
+- Alcibiades slipping free, grinning at the viewer, while the Athenian, Spartan and Persian reach for him is not clear in one second
+- any of the three men touches him, or any dagger is raised or pointed
 - my face or clothes change, or Alcibiades' face does not match the bust
 - I am not holding the split gold-and-black mask, or my hand has the wrong number of fingers
 - my expression is not the sly smirk
-- the split owl-and-Spartan coin "O" or the cloak wrapping the text is missing
+- the two coin "O"s in FOOLED or the cloak wrapping the text is missing
 - the text is not in the top-left, is a condensed or thin font, or is misspelled
-- "IS HE ON?" is not bright yellow or not the largest text
+- "ALL FOOLED." is not bright yellow or not the largest text
 - the effects make any letter hard to read
 - the text covers a face or crosses onto my side
 - the torn edge is a straight line, or the red rim light on my face is missing
-- any blood, bodies or people on the burning ships appear
+- any blood or bodies appear
 - the image is so crowded that the main moment does not read in one second
 ```
 
@@ -207,7 +215,7 @@ FAIL IF:
 UPLOAD CHECK
 □ Video file renamed before upload
 □ Title, description and tags pasted
-□ Thumbnail uploaded (file renamed) + Test & Compare variant: HE SWITCHED / SIDES. TWICE.
+□ Thumbnail uploaded (file renamed) + Test & Compare variant: WHOSE SIDE / IS HE ON?
 □ Playlists added (full links pasted)
 □ Category: Education · Type: Documentary · Made for kids: No
 □ Language + caption language: English, with English subtitles uploaded
