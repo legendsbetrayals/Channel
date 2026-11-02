@@ -244,8 +244,6 @@ FAIL IF:
 - the Sultan is not clearly POINTING at his brothers, or his face does not look evil
 - the brothers' fear and tears are not visible, or anyone touches or harms them
 - my face or clothes change, or the Sultan's identity changes
-- the Sultan is not clearly POINTING down at them, or his face does not look evil
-- the brothers' fear and tears are not visible, or anyone touches or harms them
 - I am not holding the red silk cord in the candlelight, or my hand has the wrong number of fingers
 - my expression is not ice-cold and emotionless
 - the cord from "ALL" down into the corridor is missing

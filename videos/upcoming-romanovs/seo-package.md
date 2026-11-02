@@ -252,7 +252,7 @@ THE STORY (LEFT): ONE SCENE, CLOSE AND HUGE
 Night, 17 July 1918, the narrow wooden staircase leading down into the basement of the Ipatiev House.
 TSAR NICHOLAS II (face exactly as the reference) fills most of the story side: a close, low-angle shot from below on the stairs, his head, shoulders and outstretched arm taking up more than half the height of the image. Plain khaki military tunic. He has stopped halfway down the stairs and thrown one arm out sideways to hold his family back. His face, lit from below by the bulb in the basement, shows the exact second of understanding: eyes wide and wet, brows lifted, lips parted, the colour draining from his face. A father who has just realised no one is coming to save them.
 Right behind his shoulder, close and large: TSARINA ALEXANDRA (face exactly as the reference), in a pale dress, clutching his sleeve with both hands, her frightened eyes looking past him down the stairs. Behind her, softer and slightly out of focus, a grown daughter in her twenties in a long white dress, a single tear on her cheek.
-At the bottom of the stairs, in the background between them and the viewer's side, the basement: a bare whitewashed wall, ONE bare light bulb swinging on its cord, two empty wooden chairs set out under it, and the long black shadows of rifles held upright cast across the white wall. The men themselves are out of sight.
+At the bottom of the stairs, behind and below him in the background, the basement: a bare whitewashed wall, ONE bare light bulb swinging on its cord, two empty wooden chairs set out under it, and the long black shadows of rifles held upright cast across the white wall. The men themselves are out of sight.
 Looming in the haze above the stairs like a ghost: a giant golden jewelled Fabergé imperial egg, cracking down the middle, black smoke pouring from the crack.
 A snapped string of pearls bounces down the steps in the bulb light.
 
@@ -271,7 +271,7 @@ Line 2: THEY LIED.
 - FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
 - Line 1 in bright white, warm like a calm promise, with the quotation marks in deep red.
 - Line 2 "THEY LIED." in bright yellow (#FFE600) made of cracked imperial enamel and gold leaf, like a broken Fabergé egg: thin dark fractures through every letter, small gold flakes falling from the bottom edges. The full stop after "LIED" is a single white pearl, falling.
-- The cord of the basement light bulb hangs from the bottom of the letter "Y" in "THEY", hangs down into the scene and ends in the bare bulb swinging above the two chairs in the basement, connecting the title to the basement.
+- The cord of the basement light bulb hangs from the bottom of the letter "Y" in "THEY" down into the scene and ends in the bare bulb swinging above the two chairs in the basement, connecting the title to the basement.
 - Above line 1, a small red rubber-stamp style tag at a slight angle: "IPATIEV HOUSE · 17.07.1918".
 - Finish: a thin dark bevel and soft deep shadow for weight; dust and gold flakes drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
 - DEPTH: the edge of the Fabergé egg's smoke drifts slightly in front of the bottom of "THEY LIED.". Never covering a face, the bulb or the chairs.
