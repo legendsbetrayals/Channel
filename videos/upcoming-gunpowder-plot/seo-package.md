@@ -79,7 +79,7 @@ Subscribe to Legends & Betrayals for cinematic deep dives into the plots, betray
 Credits:
 Music & Sound Effects: Epidemic Sound
 Archival & Stock Footage: Storyblocks
-Visuals: Powered by AI ([tools you used])
+Visuals: Powered by AI (GPT Image 2.0, Seedream 5.0, Seedance 2.0, Wan 3.0 & Grok AI)
 Stories: Powered by Historical Records
 
 👇 SUBSCRIBE TO SEE THE TRUTH
