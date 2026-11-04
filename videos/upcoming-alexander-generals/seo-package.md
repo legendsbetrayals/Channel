@@ -96,8 +96,8 @@ This video is for educational and entertainment purposes only. While based on hi
 ```
 
 ```text
-TAGS (18 tags, 378 of 500 characters)
-alexander the great,alexander the great death,alexander the great documentary,how did alexander the great die,alexander the great empire,the lost tomb of alexander the great,diadochi,wars of the successors,ptolemy,perdiccas,cassander,roxana,macedonian empire,ancient greece history,ancient history,history documentary,dark history,legends and betrayals
+TAGS (final, chosen by creator: 26 tags, 492 of 500 characters)
+Legends & Betrayals,History,Dark History,alexander the great,alexander the great death,alexander the great documentary,how did alexander the great die,alexander the great empire,the lost tomb of alexander the great,diadochi,wars of the successors,ptolemy,perdiccas,cassander,roxana,macedonian empire,ancient greece history,ancient history,history documentary,alexander,greek history,babylonian,history of alexander the great,antipater,ancient babylon,macedonia
 ```
 
 ```text
