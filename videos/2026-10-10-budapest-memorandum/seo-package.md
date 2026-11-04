@@ -175,3 +175,98 @@ UPDATE CHECK
 □ Check views after 7 days; revert the title if they drop
 □ Altered or synthetic content: Yes
 ```
+
+## Thumbnail v5 (one scene, 4 Nov 2026)
+
+Replaces the earlier thumbnail text, file name and prompt.
+
+```text
+THUMBNAIL TEXT
+Title says it was a broken promise. The text shows what Ukraine gave up for it, and makes viewers ask why.
+1. 1,900 NUKES.
+   FOR PAPER.
+2. BIGGEST
+   MISTAKE?
+3. THEY GAVE
+   IT ALL UP
+4. NO NUKES.
+   NO SHIELD.
+FINAL: 1,900 NUKES.
+       FOR PAPER.
+Test & Compare variant: BIGGEST / MISTAKE?
+```
+
+```text
+FILE NAMES
+Thumbnail: budapest-memorandum-ukraine-1900-nukes-for-paper-thumbnail.jpg (already-uploaded video: only the thumbnail file name applies)
+```
+
+```text
+NANO BANANA PRO PROMPT
+Model: Nano Banana Pro
+Aspect: 16:9
+Resolution: 4K
+Reference images: 2 of my face + 1 of my outfit
+
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige Cold War drama. Photorealistic, cinematic, haunting, ONE continuous scene with big, close characters: a young officer watches his country's nuclear warheads being taken away, holding nothing but a signed piece of paper, while far behind him the storm is already gathering. The viewer must click to know what that paper was worth. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No split sections, no panels, no boxes, no frames, no grid: one single image that melts through cold mist, dust and hard light.
+
+REFERENCE IMAGES:
+- Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
+- The officer in the scene is an invented, anonymous character; no real politician or real person's face appears anywhere.
+If my face or clothes change, the image is a fail.
+
+LAYOUT:
+- Story LEFT ~65%, me RIGHT ~35%.
+- A jagged torn-paper edge with a bright white torn fibre edge and a thin red glow separates the two sides. Organic tear, never a straight line.
+- Bottom-right corner empty (YouTube timestamp).
+
+THE STORY (LEFT): ONE SCENE, CLOSE AND HUGE
+Winter, mid-1990s, the bottom of a huge concrete missile silo in Ukraine.
+A YOUNG UKRAINIAN OFFICER (invented, early thirties) fills most of the story side in the foreground: a close, low-angle shot, his head and shoulders taking up more than half the height of the image. Plain 1990s olive military uniform and cap with no insignia or flags. In one hand he holds a single signed document on official paper with a red wax seal at the bottom; the paper trembles slightly. He looks up past the camera with quiet heartbreak and doubt: wet eyes, jaw tight, breath visible in the cold air, the face of a man who has just been told to trust a promise.
+Behind him, rising up the silo, close and clear: a white-and-grey nuclear warhead cone being lifted away on heavy chains by a crane, swinging slightly, lit by a hard white work light, with more empty warhead cradles below it.
+High above, through the open silo hatch: a dark, stormy sky, and on the far horizon the faint silhouettes of a long line of tanks against a red sunset, small and distant, not moving, not firing.
+Dust and snow drift down through the shaft of light.
+
+ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
+- Head, shoulders and one raised hand, razor-sharp 85mm portrait look, emerging from pure black.
+- I am holding up an old brass launch key on a short chain beside my face, the key turning slowly, catching the light. My hand looks natural with exactly five fingers.
+- The hard white work light from the silo is my key light, cold on my face and glinting on the key.
+- Expression: bitter disbelief, brows drawn together, mouth tight, eyes locked on the camera, as if saying to the viewer: "They traded this for a signature."
+- Plus a hot red rim light on the LEFT side of my face from the story side, and a faint cold blue backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
+
+TEXT DESIGN (a designed movie-poster title, not plain text):
+Line 1: 1,900 NUKES.
+Line 2: FOR PAPER.
+- POSITION: TOP-LEFT of the image, in the dark concrete wall above the officer, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- SIZE: huge. Line 1 spans about half the image width. Line 2 "FOR PAPER." is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
+- FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
+- Line 1 "1,900 NUKES." in bright white with a stencilled military-steel texture, like markings painted on a missile.
+- Line 2 "FOR PAPER." in bright yellow (#FFE600) with a thin, crumpled-paper texture, its edges slightly torn; the "O" in "FOR" is a round red wax seal of the same height.
+- A torn strip of the signed document drifts down from the bottom of "FOR PAPER." toward the paper in the officer's hand, linking the title to the story.
+- Above line 1, a small red rubber-stamp style tag at a slight angle: "BUDAPEST · 5 DEC 1994".
+- Finish: a thin dark bevel and soft deep shadow for weight; dust and snow drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
+- DEPTH: the brim of the officer's cap slightly overlaps the bottom edge of "FOR PAPER.", like a film poster title. Never covering a face, the document or the key.
+- Exact spelling, including the comma in 1,900. Readable on a phone at a glance.
+
+COLOR GRADE:
+Cold steel blue and grey concrete, hard white work light, a red sunset glow on the far horizon, red only in the wax seal, my rim light and the stamp. Volumetric dust, snow and mist, crushed blacks, very high contrast, subtle film grain. Like a Netflix drama poster. No logos. No watermark.
+
+SAFETY:
+No blood, no explosions, no weapons fired or aimed, the tanks are tiny, still and distant. No flags, no national symbols or insignia, no real politicians or real people other than me.
+
+FAIL IF:
+- the story side is split into upper and lower sections or panels instead of one scene
+- the officer is small: his head and shoulders must fill more than half the height of the story side
+- the officer holding the sealed paper while a warhead is lifted away behind him is not clear in one second
+- my face or clothes change, or any real politician's face appears
+- I am not holding the launch key, or my hand has the wrong number of fingers
+- my expression is not bitter disbelief
+- the wax-seal "O" or the torn strip linking the text to the paper is missing
+- the text is not in the top-left, is a condensed or thin font, or is misspelled
+- "FOR PAPER." is not bright yellow or not the largest text
+- the effects make any letter hard to read
+- the text covers a face or crosses onto my side
+- the torn edge is a straight line, or the red rim light on my face is missing
+- any flag, explosion or violence appears
+- the image is so crowded that the main moment does not read in one second
+```
