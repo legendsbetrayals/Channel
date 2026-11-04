@@ -56,14 +56,15 @@ This Alexander the Great documentary tells the story of the Diadochi, the Wars o
 
 --------------------------------------------------
 TIMESTAMPS:
-00:00 - The Empire Torn Apart
-00:18 - From Macedonia to the Edge of the World
-02:10 - The Empire With No Heir
-03:40 - The Trusted Man: Perdiccas
-05:10 - They Stole Alexander's Body
-06:40 - The Wars of the Successors
-08:00 - What Was Left
-08:50 - The Enemy Who Had His Trust
+00:00 - Alexander the Great
+00:39 - Alexander's Father: Philip II
+01:20 - The Rise of Alexander the Great
+01:51 - The Death of Alexander the Great
+02:50 - The Trusted Man: Perdiccas
+03:57 - They Stole Alexander's Body
+04:47 - The Wars of the Successors (The Diadochi)
+05:18 - The Murder of Alexander's Mother and Son
+06:24 - Alexander Betrayed by His Own
 --------------------------------------------------
 WATCH NEXT:
 The Ottoman sultan who killed his 19 brothers for the throne:
@@ -124,15 +125,16 @@ Altered or synthetic content: Yes
 
 ```text
 CHAPTERS
-00:00 - The Empire Torn Apart
-00:18 - From Macedonia to the Edge of the World
-02:10 - The Empire With No Heir
-03:40 - The Trusted Man: Perdiccas
-05:10 - They Stole Alexander's Body
-06:40 - The Wars of the Successors
-08:00 - What Was Left
-08:50 - The Enemy Who Had His Trust
-Note: from the script (9:25). Match these to the final edit.
+00:00 - Alexander the Great
+00:39 - Alexander's Father: Philip II
+01:20 - The Rise of Alexander the Great
+01:51 - The Death of Alexander the Great
+02:50 - The Trusted Man: Perdiccas
+03:57 - They Stole Alexander's Body
+04:47 - The Wars of the Successors (The Diadochi)
+05:18 - The Murder of Alexander's Mother and Son
+06:24 - Alexander Betrayed by His Own
+Final edit timestamps from the creator (4 Nov 2026).
 ```
 
 ```text
