@@ -50,9 +50,11 @@ Secondary: alexander the great death, alexander the great documentary, how did a
 DESCRIPTION
 Alexander the Great's death in Babylon in 323 BC left the largest empire in the world with no clear heir, and his own generals tore it apart.
 
-He never lost a major battle. In just over a decade he crushed Persia, took Egypt and marched into India. Then, at 32, he died, and the men who had fought beside him turned on each other. Perdiccas held his signet ring. Ptolemy stole his body and carried it to Egypt. Cassander had Alexander's mother, his wife Roxana and his young son killed, ending his bloodline for good.
+The history of Alexander the Great begins in Macedonia, a rough kingdom in northern Greece that his father Philip II turned into a military machine. In just over a decade Alexander crushed the Persian Empire, took Egypt and marched into India, and never lost a major battle. Then, at 32, he died in ancient Babylon, and the men who had fought beside him turned on each other.
 
-This Alexander the Great documentary tells the story of the Diadochi, the Wars of the Successors, and how the greatest empire of the ancient world was destroyed not by an enemy but by the men he trusted most. If you watched Netflix's "Alexander: The Making of a God", this is what happened after the final episode.
+Perdiccas held his signet ring. Antipater kept Macedonia. Ptolemy stole Alexander's body and carried it to Egypt, where his tomb was later lost. And Antipater's son Cassander had Alexander's mother, his wife Roxana and his young son killed, ending his bloodline for good.
+
+This Alexander the Great documentary tells one of the darkest chapters in Greek history: the Diadochi, the Wars of the Successors, and how the greatest empire of the ancient world was destroyed not by an enemy but by the men he trusted most. If you watched Netflix's "Alexander: The Making of a God", this is what happened after the final episode.
 
 --------------------------------------------------
 TIMESTAMPS:
@@ -96,8 +98,8 @@ This video is for educational and entertainment purposes only. While based on hi
 ```
 
 ```text
-TAGS (final, chosen by creator: 26 tags, 492 of 500 characters)
-Legends & Betrayals,History,Dark History,alexander the great,alexander the great death,alexander the great documentary,how did alexander the great die,alexander the great empire,the lost tomb of alexander the great,diadochi,wars of the successors,ptolemy,perdiccas,cassander,roxana,macedonian empire,ancient greece history,ancient history,history documentary,alexander,greek history,babylonian,history of alexander the great,antipater,ancient babylon,macedonia
+TAGS (final: 26 tags, 494 of 500 characters)
+History,Dark History,alexander the great,alexander the great death,alexander the great documentary,how did alexander the great die,alexander the great empire,the lost tomb of alexander the great,diadochi,persian empire,ptolemy,perdiccas,philip ii,roxana,macedonian empire,ancient greece history,ancient history,history documentary,alexander,greek history,babylonian,history of alexander the great,antipater,ancient babylon,macedonia,who was alexander the great
 ```
 
 ```text
