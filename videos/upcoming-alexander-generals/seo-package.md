@@ -71,8 +71,8 @@ The Ottoman sultan who killed his 19 brothers for the throne:
 https://www.youtube.com/watch?v=WrXw5kiS9hg
 
 WATCH MORE ON LEGENDS & BETRAYALS:
-• Empire Betrayals: [paste full playlist link]
-• Royal & Court Betrayals: [paste full playlist link]
+• Empire Betrayals: https://www.youtube.com/playlist?list=PLYH9HlNk65Wc
+• Royal & Court Betrayals: https://www.youtube.com/playlist?list=PLDWuBNf97bCQ
 
 Subscribe to Legends & Betrayals for cinematic deep dives into the plots, betrayals, and dark ambition that shaped human history.
 

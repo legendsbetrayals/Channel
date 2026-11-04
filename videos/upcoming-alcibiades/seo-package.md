@@ -70,8 +70,8 @@ The Trojan Horse: how Odysseus destroyed Troy in one night:
 https://www.youtube.com/watch?v=UsHOHv78uho
 
 WATCH MORE ON LEGENDS & BETRAYALS:
-• Greatest Traitors in History: [paste full playlist link]
-• Empire Betrayals: [paste full playlist link]
+• Greatest Traitors in History: https://www.youtube.com/playlist?list=PLVl9aBiTjyjE
+• Empire Betrayals: https://www.youtube.com/playlist?list=PLYH9HlNk65Wc
 
 Subscribe to Legends & Betrayals for cinematic deep dives into the plots, betrayals, and dark ambition that shaped human history.
 

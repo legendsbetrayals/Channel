@@ -53,9 +53,12 @@ Category: Education · Type: Documentary · Made for kids: No · Language and ca
 
 ## Playlists
 
-Modern & Geopolitical Betrayals · Empire Betrayals · Dark Deceptions & Legendary Tricks · Royal & Court Betrayals · Greatest Traitors in History · Ottoman Empire (to create)
-
-The playlist links in current descriptions look truncated (13-character IDs). Replace them with full links from YouTube Studio.
+- Greatest Traitors in History: https://www.youtube.com/playlist?list=PLVl9aBiTjyjE
+- Dark Deceptions & Legendary Tricks: https://www.youtube.com/playlist?list=PLHkWplx2KUS0
+- Royal & Court Betrayals: https://www.youtube.com/playlist?list=PLDWuBNf97bCQ
+- Empire Betrayals: https://www.youtube.com/playlist?list=PLYH9HlNk65Wc
+- Modern & Geopolitical Betrayals: https://www.youtube.com/playlist?list=PLJb4bXnjfAug
+- Ottoman Empire: not created yet
 
 ## Re-optimizing old videos
 

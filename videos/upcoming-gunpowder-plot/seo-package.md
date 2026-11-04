@@ -71,8 +71,8 @@ Julius Caesar, betrayed and stabbed 23 times by the men he trusted:
 https://www.youtube.com/watch?v=2gpDyfJ0TMQ
 
 WATCH MORE ON LEGENDS & BETRAYALS:
-• Dark Deceptions & Legendary Tricks: [paste full playlist link]
-• Royal & Court Betrayals: [paste full playlist link]
+• Dark Deceptions & Legendary Tricks: https://www.youtube.com/playlist?list=PLHkWplx2KUS0
+• Royal & Court Betrayals: https://www.youtube.com/playlist?list=PLDWuBNf97bCQ
 
 Subscribe to Legends & Betrayals for cinematic deep dives into the plots, betrayals, and dark ambition that shaped human history.
 
