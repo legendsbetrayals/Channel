@@ -58,13 +58,13 @@ This Cleopatra documentary tells the Cleopatra history behind the romance of Sha
 --------------------------------------------------
 TIMESTAMPS:
 00:00 - Cleopatra's Final Betrayal
-00:18 - The Ptolemies: Greek Kings of Egypt
-02:15 - Cleopatra and Julius Caesar
-03:40 - Antony and Cleopatra vs Octavian
-05:10 - The Battle of Actium
-06:40 - The Last Days in Alexandria
-08:00 - The Death of Cleopatra
-08:50 - The Sail That Turned Away
+00:37 - The Ptolemies: Greek Kings of Egypt
+01:29 - Cleopatra and Julius Caesar
+02:15 - Antony and Cleopatra vs Octavian
+03:07 - The Battle of Actium
+04:32 - The Last Days in Alexandria
+05:37 - The Death of Cleopatra
+06:19 - The Sail That Turned Away
 --------------------------------------------------
 WATCH NEXT:
 Alexander the Great's death, and how his general Ptolemy took Egypt:
@@ -126,14 +126,14 @@ Altered or synthetic content: Yes
 ```text
 CHAPTERS
 00:00 - Cleopatra's Final Betrayal
-00:18 - The Ptolemies: Greek Kings of Egypt
-02:15 - Cleopatra and Julius Caesar
-03:40 - Antony and Cleopatra vs Octavian
-05:10 - The Battle of Actium
-06:40 - The Last Days in Alexandria
-08:00 - The Death of Cleopatra
-08:50 - The Sail That Turned Away
-Note: from the script. Send the real timestamps after editing and I'll update the description.
+00:37 - The Ptolemies: Greek Kings of Egypt
+01:29 - Cleopatra and Julius Caesar
+02:15 - Antony and Cleopatra vs Octavian
+03:07 - The Battle of Actium
+04:32 - The Last Days in Alexandria
+05:37 - The Death of Cleopatra
+06:19 - The Sail That Turned Away
+Estimated from the script's word count per section, scaled to the final 7:27 edit. Check each by scrubbing to it in YouTube Studio; adjust by a few seconds if a chapter starts on B-roll.
 ```
 
 ```text
