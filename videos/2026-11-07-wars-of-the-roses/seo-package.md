@@ -18,7 +18,7 @@ Score: 97 (best of 5 tested, tied with two others; chosen because "betrayal" is 
 ```text
 FILE NAMES
 Video: wars-of-the-roses-betrayal-englands-real-game-of-thrones.mp4
-Thumbnail: wars-of-the-roses-henry-vi-the-king-woke-up-thumbnail.jpg
+Thumbnail: wars-of-the-roses-henry-vi-30-years-of-blood-thumbnail.jpg
 ```
 
 ```text
@@ -34,9 +34,9 @@ Title says one betrayal started the war. The text gives the moment it happened a
    OF BLOOD
 5. WHITE ROSE.
    RED BLOOD.
-FINAL: THE KING
-       WOKE UP.
-Test & Compare variant: LOYAL. / THEN HUNTED.
+FINAL: 30 YEARS
+       OF BLOOD.
+Test & Compare variant: THE KING / WOKE UP.
 ```
 
 ```text
@@ -143,7 +143,7 @@ Aspect: 16:9
 Resolution: 4K
 Reference images: 2 of my face + 1 of my outfit + 1 of King Henry VI (his portrait) + 1 of Margaret of Anjou + 1 of Richard, Duke of York
 
-Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical thriller. Photorealistic, cinematic, chilling, ONE continuous scene with big, close characters: a king wakes from madness in his candlelit bed while his queen whispers poison in his ear, and in the doorway behind them the loyal duke who saved the kingdom arrives to hand back the crown, unaware. The viewer must click to know what the king did next. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No split sections, no panels, no boxes, no frames, no grid: one single image that melts into darkness through candle haze.
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical thriller. Photorealistic, cinematic, chilling, ONE continuous scene with big, close characters: a king wakes from madness in his candlelit bed while his queen whispers poison in his ear, and in the doorway behind them the loyal duke who saved the kingdom arrives to hand back the crown, unaware. The viewer must click to know how this one moment led to thirty years of war. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No split sections, no panels, no boxes, no frames, no grid: one single image that melts into darkness through candle haze.
 
 REFERENCE IMAGES:
 - Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
@@ -160,6 +160,7 @@ Christmas 1454, a dark royal bedchamber, heavy velvet curtains, a single tall ca
 KING HENRY VI (face as the reference, a thin, pale, gentle-looking man in his thirties) fills most of the story side in the foreground: a close, low-angle shot, his head and shoulders taking up more than half the height of the image. He is sitting up suddenly in a canopied bed in a white nightshirt, his eyes snapped wide open, glassy and confused, brows lifted, lips parted: a man waking from a long darkness. Candlelight from below carves his gaunt face.
 Right behind his shoulder, leaning in close and large: QUEEN MARGARET OF ANJOU (face as the reference), a striking young queen in a dark crimson gown and jewelled headdress, her lips at his ear, whispering, her eyes cold, narrowed and fixed on the doorway. One hand rests possessively on his shoulder.
 In the open doorway in the background, softer but clear: RICHARD, DUKE OF YORK (face as the reference), in plate armour and a heavy fur cloak, stepping in and holding out the king's golden crown on both hands with a respectful, loyal expression. He does not see the queen's look.
+Through a tall leaded window behind York, small and far away in a rainy dawn: two armies facing each other across a muddy field, the dark silhouettes of knights and spearmen, a white rose banner on one side and a red rose banner on the other. They stand still; no fighting is shown.
 Looming faint in the candle haze above the bed: a giant white rose and a giant red rose, their stems crossed like two swords, petals falling.
 
 ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
@@ -170,35 +171,36 @@ ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
 - Plus a hot red rim light on the LEFT side of my face from the story side, and a faint cold blue backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
 
 TEXT DESIGN (a designed movie-poster title, not plain text):
-Line 1: THE KING
-Line 2: WOKE UP.
+Line 1: 30 YEARS
+Line 2: OF BLOOD.
 - POSITION: TOP-LEFT of the image, in the dark curtains above the bed, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
-- SIZE: huge. Line 1 spans about half the image width. Line 2 "WOKE UP." is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
+- SIZE: huge. Line 1 spans about half the image width. Line 2 "OF BLOOD." is about 1.5x taller than line 1 and the dominant text on the whole thumbnail.
 - FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
-- "THE KING" in bright white with an aged parchment-and-gold-leaf texture, like a royal charter.
-- "WOKE UP." in bright yellow (#FFE600) with a cracked, candle-scorched texture; the "O" in "WOKE" is a single red rose bloom seen from above, the same height as the letters.
-- A thorny rose stem grows out of the bottom of "WOKE UP." and winds down the bedpost into the scene, linking the title to the bed.
+- "30 YEARS" in bright white with an aged parchment-and-gold-leaf texture, like a royal charter; the "0" is a thin golden crown ring seen from above, cracked, the same height as the digits.
+- "OF BLOOD." in bright yellow (#FFE600) with a cracked, candle-scorched texture; the "O" in "OF" is a single red rose bloom seen from above, the same height as the letters, and a few dark-red rose petals fall from the bottom edges of "BLOOD." like drops.
+- A thorny rose stem grows out of the bottom of "OF BLOOD." and winds down the bedpost into the scene, linking the title to the bed.
 - Above line 1, a small red wax-seal style stamp at a slight angle: "CHRISTMAS 1454".
 - Finish: a thin dark bevel and soft deep shadow for weight; candle smoke and a few falling rose petals drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
-- DEPTH: the top of the bed canopy slightly overlaps the bottom edge of "WOKE UP.", like a film poster title. Never covering a face, the crown or the rose.
+- DEPTH: the top of the bed canopy slightly overlaps the bottom edge of "OF BLOOD.", like a film poster title. Never covering a face, the crown or the rose.
 - Exact spelling. Readable on a phone at a glance.
 
 COLOR GRADE:
 Deep black and warm candle gold, white linen glowing, crimson in the queen's gown, the roses, my rim light and the stamp, cold blue moonlight from a window behind York. Volumetric candle haze, crushed blacks, very high contrast, subtle film grain. Like a Netflix thriller poster. No logos. No watermark.
 
 SAFETY:
-No blood, no violence, no weapons drawn or aimed. No religious symbols, crosses or icons in the room. No flags.
+No real blood anywhere (only falling rose petals), no violence, no weapons drawn or aimed. No religious symbols, crosses or icons in the room. No flags.
 
 FAIL IF:
 - the story side is split into upper and lower sections or panels instead of one scene
 - Henry VI is small: his head and shoulders must fill more than half the height of the story side
 - the king waking wide-eyed, the queen whispering at his ear and York in the doorway holding the crown are not clear in one second
+- the two distant armies are missing, or any fighting, wounds or blood are shown
 - my face or clothes change, or any historical identity changes
 - I am not holding the white rose turning red, or my hand has the wrong number of fingers
 - my expression is not grim and knowing
-- the rose "O" or the thorny stem linking the text to the bed is missing
+- the crown "0", the rose "O" or the thorny stem linking the text to the bed is missing
 - the text is not in the top-left, is a condensed or thin font, or is misspelled
-- "WOKE UP." is not bright yellow or not the largest text
+- "OF BLOOD." is not bright yellow or not the largest text
 - the effects make any letter hard to read
 - the text covers a face or crosses onto my side
 - the torn edge is a straight line, or the red rim light on my face is missing
@@ -231,7 +233,7 @@ wars of the roses, game of thrones history, house of lancaster, henry vi, englis
 UPLOAD CHECK
 □ Video file renamed before upload
 □ Title, description and tags pasted
-□ Thumbnail uploaded (file renamed) + Test & Compare variant: LOYAL. / THEN HUNTED.
+□ Thumbnail uploaded (file renamed) + Test & Compare variant: THE KING / WOKE UP.
 □ Playlists added
 □ Category: Education · Type: Documentary · Made for kids: No
 □ Language + caption language: English, with English subtitles uploaded
