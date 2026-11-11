@@ -188,7 +188,7 @@ COLOR GRADE:
 Deep black and warm candle gold, white linen glowing, crimson in the queen's gown, the roses, my rim light and the stamp, cold blue moonlight from a window behind York. Volumetric candle haze, crushed blacks, very high contrast, subtle film grain. Like a Netflix thriller poster. No logos. No watermark.
 
 SAFETY:
-No real blood anywhere (only falling rose petals), no violence, no weapons drawn or aimed. No religious symbols, crosses or icons in the room. No flags.
+No real blood anywhere (only falling rose petals), no violence, no weapons drawn or aimed. No religious symbols, crosses or icons in the room. No national flags; the only banners are the distant white-rose and red-rose banners.
 
 FAIL IF:
 - the story side is split into upper and lower sections or panels instead of one scene
