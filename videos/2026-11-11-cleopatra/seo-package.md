@@ -250,3 +250,81 @@ UPLOAD CHECK
 - Facts check out: the Ptolemies ruled about 300 years; Rome declared war on Cleopatra, not Antony (32 BC); Actium in 31 BC; Octavian reached Egypt in 30 BC; Antony was told she was dead, wounded himself and died with her (Plutarch).
 - Strongest missing beat: Octavian later had Caesarion, Cleopatra's son by Julius Caesar, killed. It is in the pinned comment.
 - The B-roll for "Antony falling on his sword" should stay off-screen or in silhouette to avoid age restriction.
+
+## Test & Compare variant thumbnail: LOVE / OR TREASON?
+
+```text
+FILE NAMES
+Thumbnail (Test & Compare variant): cleopatra-battle-of-actium-love-or-treason-thumbnail.jpg
+```
+
+```text
+NANO BANANA PRO PROMPT (TEST & COMPARE VARIANT: LOVE / OR TREASON?)
+Model: Nano Banana Pro
+Aspect: 16:9
+Resolution: 4K
+Reference images: 2 of my face + 1 of my outfit + 1 of Cleopatra (her Berlin marble bust or coin portrait) + 1 of Mark Antony (marble bust) + 1 of Octavian / Augustus (Prima Porta statue or bust)
+
+Create a jaw-dropping 16:9 YouTube thumbnail that looks like the official Netflix key art for a prestige historical romance-thriller. Photorealistic, cinematic, seductive and dangerous, ONE continuous scene with big, close characters: a queen embraces the Roman general who trusts her completely, while behind his back her hand passes a sealed letter into the shadows, to his enemy. The viewer must click to know whether it was love or treason. Real-looking people only: no cartoon, no plastic skin, no extra fingers. No split sections, no panels, no boxes, no frames, no grid: one single image that melts into darkness through incense smoke and torchlight.
+
+REFERENCE IMAGES:
+- Use the TWO images of MY face for exact identity and the outfit photo for MY exact clothes. Do not invent a new man for me. Do not put me in period costume.
+- Use the Cleopatra, Mark Antony and Octavian references for their faces (bring them to life as real people).
+If my face, my clothes, or any historical identity changes, the image is a fail.
+
+LAYOUT:
+- Story LEFT ~65%, me RIGHT ~35%.
+- A jagged torn-paper edge with a bright white torn fibre edge and a thin red glow separates the two sides. Organic tear, never a straight line.
+- Bottom-right corner empty (YouTube timestamp).
+
+THE STORY (LEFT): ONE SCENE, CLOSE AND HUGE
+Night, 30 BC, the royal palace in Alexandria: carved columns, gold lamps, sheer purple curtains moving in the sea wind, the dark harbour visible far behind.
+CLEOPATRA (face as the reference, regal, dark eyes lined with kohl, a gold diadem and a deep purple gown, fully and elegantly clothed) fills most of the story side in the foreground: a close shot, her head and shoulders taking up more than half the height of the image. She holds MARK ANTONY (face as the reference, a tired Roman general in his fifties in a dark red tunic) in a close embrace, her cheek resting against his. Antony's eyes are closed; his face is peaceful and completely trusting, a man who believes she is all he has left.
+But Cleopatra's eyes are wide open and looking straight at the viewer: cool, calculating, unreadable, the faintest smile at one corner of her lips.
+Behind Antony's back, her other hand reaches into the shadows and passes a rolled papyrus letter, sealed with a red wax seal, to the dark gloved hand of a hidden messenger whose face cannot be seen.
+Looming faint in the smoke and darkness above the curtains like a ghost: the young, cold face of OCTAVIAN (face as the reference), watching, waiting.
+Warm torchlight lights the lovers; the messenger's hand and the letter sit at the edge of the light, in cold shadow.
+
+ME (RIGHT ~35%, front layer), THE MOST STRIKING ELEMENT:
+- Head, shoulders and one raised hand, razor-sharp 85mm portrait look, emerging from pure black.
+- I am holding up one ancient gold coin between thumb and first finger, turned toward the camera, with a man's profile (Antony) on the side facing the viewer, as if about to flip it. My hand looks natural with exactly five fingers.
+- Warm torchlight from the story is my key light, gold on my face and glinting on the coin.
+- Expression: a sly, dangerous half-smile, one eyebrow raised, eyes locked on the camera, as if asking the viewer: "Heads, love. Tails, treason. Which side landed?"
+- Plus a hot red rim light on the LEFT side of my face from the story side, and a faint cold sea-blue backlight on my hair edge. Deep shadows, bright catchlights, natural skin texture with real pores.
+
+TEXT DESIGN (a designed movie-poster title, not plain text):
+Line 1: LOVE
+Line 2: OR TREASON?
+- POSITION: TOP-LEFT of the image, in the dark space above the lovers, small margin from the top and left edges, inside the story side only, never crossing the torn edge.
+- SIZE: huge. Line 1 "LOVE" is about one third of the image width. Line 2 "OR TREASON?" is about 1.5x taller than line 1, spans about half the image width, and is the dominant text on the whole thumbnail.
+- FONT: ultra-heavy WIDE sans-serif (Montserrat Black, Gotham Ultra or Druk Wide Super style). Thick, wide, level letters. Not condensed, not serif, not script.
+- "LOVE" in bright white with a soft silk-and-pearl texture, warm torchlight on its edges.
+- "OR TREASON?" in bright yellow (#FFE600) with a beaten Egyptian-gold texture and fine dark cracks; the "O" in "TREASON" is a broken red wax seal of the same height, cracked in two, like the seal on the letter.
+- A thin purple silk ribbon hangs from the bottom of "OR TREASON?" down into the scene and ties around the sealed letter in Cleopatra's hand, linking the title to the betrayal.
+- Above line 1, a small red rubber-stamp style tag at a slight angle: "ALEXANDRIA · 30 BC".
+- Finish: a thin dark bevel and soft deep shadow for weight; incense smoke and gold dust drift in front of and behind the letters. The letters stay readable: effects live on the surface and edges, never breaking the letter shapes.
+- DEPTH: the top of Cleopatra's gold diadem slightly overlaps the bottom edge of "OR TREASON?", like a film poster title. Never covering a face, the letter or the coin.
+- Exact spelling, with the question mark. Readable on a phone at a glance.
+
+COLOR GRADE:
+Warm torch gold and deep shadow, royal purple in the gown and curtains, Egyptian gold in the diadem and text, cold blue in the messenger's shadow and the harbour, red only in the wax seal, my rim light and the stamp. Volumetric incense smoke, crushed blacks, very high contrast, subtle film grain. Like a Netflix thriller poster. No logos. No watermark.
+
+SAFETY:
+Both lovers fully clothed; the embrace is romantic, not sexual. No blood, no weapons, no snakes. No flags, no religious symbols or statues of gods.
+
+FAIL IF:
+- the story side is split into upper and lower sections or panels instead of one scene
+- Cleopatra is small: her head and shoulders must fill more than half the height of the story side
+- the embrace, Antony's closed trusting eyes, Cleopatra's open eyes on the viewer and the letter passing to the hidden hand behind his back are not clear in one second
+- my face or clothes change, or any historical identity changes
+- I am not holding the gold coin, or my hand has the wrong number of fingers
+- my expression is not the sly half-smile
+- the broken-seal "O" or the purple ribbon linking the text to the letter is missing
+- the text is not in the top-left, is a condensed or thin font, or is misspelled
+- "OR TREASON?" is not bright yellow or not the largest text
+- the effects make any letter hard to read
+- the text covers a face or crosses onto my side
+- the torn edge is a straight line, or the red rim light on my face is missing
+- anything sexual or revealing appears
+- the image is so crowded that the main moment does not read in one second
+```
