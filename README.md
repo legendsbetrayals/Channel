@@ -64,3 +64,10 @@ Category: Education · Type: Documentary · Made for kids: No · Language and ca
 ## Re-optimizing old videos
 
 Edit in place, never re-upload the same file. Change title and thumbnail together, then compare views and click-through rate after 7 days, and log it in `changelog.md`.
+
+## Script rules (from 13 Nov 2026)
+- Scripts: ultra hook → montage → chapter montages → final teaser of the next video in VIDEO-ORDER.md. Narration only, no B-roll or prompts.
+- Research based: name sources inside the narration where it adds authority ("According to the FBI's own Inspector General report…", "In his book … historian X writes…"). Quote real lines (letters, court records) word for word.
+- Contested claims are flagged in the narration ("according to tradition", "never confirmed", "some historians believe it was exaggerated").
+- Only call back to videos with a lower number in VIDEO-ORDER.md.
+- Each video folder has sources.md; its SOURCES & FURTHER READING block goes into the description, after WATCH MORE and before Credits.
