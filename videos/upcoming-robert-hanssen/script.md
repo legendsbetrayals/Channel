@@ -2,264 +2,292 @@ ROBERT HANSSEN: THE FBI AGENT WHO SPIED FOR MOSCOW FOR 22 YEARS
 
 [HOOK]
 
-February 18, 2001. A quiet park in Vienna, Virginia.
+February 18, 2001. Foxstone Park, Virginia. After dark.
 
-A man in a dark trench coat walks to a small wooden footbridge.
+A man in a dark coat walks down a wooded path to a small footbridge.
 
-He looks like your neighbour. Fifty-six years old. Father of six. Goes to church every single morning.
+He is fifty-six. A father of six. He goes to Mass almost every morning.
 
-He bends down, slides a plastic bag under the bridge… and walks back to his car.
+He kneels, tucks a plastic bag under the bridge… and walks back to his car.
 
 He never reaches it.
 
-Eight FBI agents come out of the trees. Guns drawn.
+FBI agents come out of the dark, guns drawn.
 
-And this man… a senior FBI counterintelligence agent with twenty-five years of service… looks at them, and says five words:
+And the man they are arresting is one of their own. A senior FBI counterintelligence agent. Twenty-five years in the Bureau.
+
+According to the FBI, he looked at them and asked one question:
 
 "What took you so long?"
 
-For twenty-two years, he had been selling America's deepest secrets to Moscow.
+For twenty-two years, he had been selling America's secrets to Moscow.
 
-And the FBI had spent years hunting the traitor… without realising the traitor was helping lead the hunt.
+And the most shocking part?
+
+For much of that time… he had been working inside the very team that was hunting him.
 
 [MONTAGE]
 
-Three men who trusted America, betrayed in a single letter.
+At fourteen, he read a book about a traitor… and decided to become one.
 
-A tunnel under the Soviet embassy, worth hundreds of millions of dollars… given away for cash.
+At thirty-five, he walked into a Soviet office in New York and offered his country for sale.
 
-Diamonds hidden in a park.
+His wife caught him. A priest told him to stop.
 
-A wife who caught him… and a priest who told him to give the money to charity.
+He stopped… for five years.
 
-The wrong man, hunted for two years.
+Then one letter, dropped into a KGB officer's mailbox, sent three men to their deaths.
 
-A seven-million-dollar trash bag from Moscow.
+He never gave the Russians his name. He never met them face to face. They paid him in cash and diamonds, hidden under bridges.
 
-And one strange line from a war movie… that finally gave him away.
+The FBI spent years chasing the wrong man.
 
-This is the story of Robert Hanssen.
+So how did they finally catch the right one?
 
-The most damaging spy in the history of the FBI.
+A trash bag bought in Moscow for seven million dollars.
 
-[CHAPTER 1: THE BOY WHO READ ABOUT A TRAITOR]
+A voice on an old tape.
 
-Some betrayals start with money.
+And one strange line… from a war movie.
 
-This one started with a book.
+This is Robert Hanssen.
 
-Robert Philip Hanssen was born in Chicago in 1944. His father was a Chicago police officer… a hard, cold man who, by many accounts, belittled his son for years. Nothing the boy did was ever good enough.
+The most damaging spy in FBI history.
 
-So young Robert learned to hide. To be quiet. To be the smartest person in the room… without anyone noticing.
+[CHAPTER 1: THE BOY WHO WANTED TO BE PHILBY]
 
-At fourteen, he read a book that would change his life. "My Silent War," the memoir of Kim Philby… the British intelligence officer who spied for the Soviet Union for almost thirty years.
+Robert Philip Hanssen was born in Chicago in 1944.
 
-Most readers saw a traitor.
+His father was a Chicago police officer. In his biography of Hanssen, "Spy," the journalist David Wise describes a father who humiliated his son for years. Nothing the boy did was good enough.
 
-Hanssen saw a hero.
+So Robert learned to be quiet. To watch. To hide what he really thought.
 
-Years later, he would tell investigators that he decided on his path at fourteen.
+Then, at fourteen, he read a book.
 
-He studied chemistry. Then dentistry. Then accounting. He became a police officer in Chicago, working in a secret unit that investigated other cops.
+"My Silent War." The memoir of Kim Philby, the British intelligence officer who secretly worked for Moscow for decades.
 
-And in January 1976, he got the job that would make him one of the most dangerous men in America.
+If you watched our Cambridge Five video, you know exactly who Philby was.
 
-Special Agent of the Federal Bureau of Investigation.
+Most readers saw a traitor. Hanssen saw a model.
 
-[CHAPTER 2: THE FIRST BETRAYAL]
+We know this because, years later, he told the Russians himself. In a letter later quoted in the FBI's official affidavit, he wrote:
 
-Three years later, the FBI sent him to New York, to work counterintelligence against the Soviet Union.
+"I decided on this course when I was 14 years old. I'd read Philby's book."
+
+He studied chemistry. Then dentistry. Then business. He became a Chicago police officer, in a unit that investigated corrupt cops.
+
+And in January 1976, he became a Special Agent of the FBI.
+
+The boy who wanted to be Philby… was now inside America's spy-hunters.
+
+[CHAPTER 2: THE FIRST SALE]
+
+In 1979, the FBI sent him to New York to work against Soviet intelligence.
 
 His job was to catch Russian spies.
 
-Instead, in 1979, he walked into the offices of a Soviet trading company in Manhattan, a known cover for the GRU, Soviet military intelligence… and offered to sell them secrets.
+Within months, he did the opposite.
 
-No one forced him. No one recruited him.
+He walked into the office of a Soviet trading company in Manhattan. It was a front for the GRU, Soviet military intelligence. And he offered to sell them secrets.
 
-He went to them.
+Nobody recruited him. He went to them.
 
-One of the first names he gave away was Dmitri Polyakov. A Soviet general who had secretly worked for the United States for nearly twenty years. Polyakov would later be arrested… and executed.
+According to the FBI's affidavit, among the secrets he gave away was the identity of Dmitri Polyakov. A Soviet general who had spied for America for almost twenty years.
 
-Then, one day in 1980, his wife Bonnie walked in on him writing a letter.
+Polyakov was later arrested in Moscow… and executed.
 
-He was caught.
+Then, in 1980, his wife Bonnie walked into the basement and found him writing something he quickly tried to hide.
 
-Hanssen admitted part of the truth. He said he had only given the Russians useless information, and taken their money.
+He told her part of the truth. That he had sold the Russians information. Only useless information, he said.
 
 Bonnie was a devout Catholic. She took him to a priest.
 
-And the priest's advice was simple.
+The priest told him to stop… and to give the money away to charity.
 
-Stop. And give the money away to charity.
+He did both.
 
-Hanssen did both.
+For five years, Robert Hanssen was clean.
 
-For five years, he stopped.
+But he had learned something dangerous.
 
-But the door he had opened… never really closed.
+He could do it… and nobody at the FBI noticed.
 
 [CHAPTER 3: THE LETTER THAT KILLED]
 
 October 1985.
 
-A KGB officer living in Virginia, Viktor Degtyar, received an envelope at his home.
+A KGB officer living in Virginia, Viktor Degtyar, finds an envelope at his home.
 
-Inside was a letter from someone who called himself only "B."
+Inside is a letter for his boss, Victor Cherkashin. The man who was, at that very moment, also running Aldrich Ames.
 
-"Soon, I will send a box of documents," it said. "They are from certain of the most sensitive and highly compartmented projects of the U.S. intelligence community."
+The letter is unsigned. It is quoted in the FBI's affidavit:
 
-And then, as a gift to prove he was real… "B" gave them three names.
+"Soon, I will send a box of documents to Mr. Degtyar. They are from certain of the most sensitive and highly compartmented projects of the U.S. intelligence community."
+
+And to prove he was real, the writer gave away three names.
 
 Boris Yuzhin. Sergei Motorin. Valery Martynov.
 
-Three KGB officers who were secretly working for the FBI.
+Three KGB officers secretly working for the FBI.
 
-Here is the part that should make your blood run cold.
+If you watched our Aldrich Ames video, those names will sound familiar. Months earlier, Ames had already betrayed some of the same men from inside the CIA.
 
-If you watched our Aldrich Ames video, you have heard some of these names before. Months earlier, Ames had already betrayed them from inside the CIA.
+Now Moscow had confirmation… from a second traitor, inside the FBI.
 
-Now the KGB had the same names from a second, completely separate traitor… inside the FBI.
+Martynov and Motorin were executed. Yuzhin was sent to a labour camp.
 
-Motorin and Martynov were taken back to Moscow. Both were executed.
+America had two moles at the same time.
 
-Yuzhin was sent to a prison camp.
+Neither one knew the other existed.
 
-America had two moles at the same time. And neither knew the other existed.
+And only one of them would be caught in the next ten years.
 
 [CHAPTER 4: THE PERFECT SPY]
 
-What made Hanssen so dangerous… was how careful he was.
+What made Hanssen so dangerous was discipline.
 
-He never told the Russians his real name. Not once in twenty-two years.
+He never told the Russians his name. To them, he was only "B." Later, "Ramon Garcia."
 
-He never met a single Soviet handler face to face.
+He never met a handler. He chose the drop sites. He set the rules.
 
-He chose the places. He set the rules. He called himself "B," and later, "Ramon Garcia."
+He hid packages under footbridges in Virginia parks. A strip of white tape on a signpost meant: a package is waiting.
 
-Everything happened through dead drops. Packages hidden under footbridges, in the dark corners of parks in northern Virginia. A strip of white tape on a signpost meant: a package is waiting.
+According to the FBI, over the years he received more than one point four million dollars in cash and diamonds.
 
-In return, he was paid in cash and diamonds. Over the years, more than one point four million dollars, with more promised in a bank account in Moscow.
+And in return, the FBI says he handed over more than six thousand pages of classified material.
 
-And what did the Russians get?
+The names of human sources. American plans for surviving a nuclear war. And one of the most expensive secrets of the Cold War: a tunnel the FBI and NSA had dug under the new Soviet embassy in Washington, to listen in.
 
-More than six thousand pages of classified documents.
+Hundreds of millions of dollars of work.
 
-The names of Americans' secret sources.
+Hanssen gave it away.
 
-Details of American nuclear war plans, and how the government would survive an attack.
+And the next morning… he was back at Mass.
 
-And one of the most expensive secrets in the Cold War… a secret tunnel the FBI and NSA had dug under the new Soviet embassy in Washington, to listen in.
-
-A project worth hundreds of millions of dollars.
-
-Hanssen sold it to them.
-
-And every morning… he still went to Mass.
+But the people closest to him were starting to notice things.
 
 [CHAPTER 5: THE WARNINGS NOBODY HEARD]
 
-The signs were there.
+The Justice Department later investigated how the FBI missed him for so long. Its Inspector General published a long report in 2003.
 
-In 1990, Hanssen's own brother-in-law, Mark Wauck, who was also an FBI agent, told his superiors he had seen a large pile of cash in Hanssen's house. He suggested Hanssen might be spying.
+What it describes is painful.
 
-Nothing happened.
+In 1990, Hanssen's own brother-in-law, Mark Wauck, also an FBI agent, told a supervisor he had seen a large pile of unexplained cash in Hanssen's house. He suggested Hanssen might be spying.
 
-In 1993, Hanssen walked up to a Russian officer in a parking garage, openly offering to sell secrets. The Russians, suspicious, protested to the U.S. government. The FBI investigated… and never connected it to him.
+Nothing was done.
 
-He even hacked into a colleague's computer. When he was caught, he said he was just showing how weak the security was.
+In 1993, Hanssen approached a Russian officer in a parking garage and offered to sell secrets. The Russians complained officially to Washington. The FBI looked into it… and never connected it to him.
 
-And he regularly searched the FBI's own database… for his own name. To see if anyone was getting close.
+He hacked into a colleague's computer. When caught, he said he was only proving the security was weak.
+
+And again and again, he searched the FBI's own database… for his own name.
+
+Checking if anyone was close.
 
 Nobody was.
 
-Because the FBI was looking somewhere else.
+Because the FBI was sure the mole was somebody else.
 
 [CHAPTER 6: HUNTING THE WRONG MAN]
 
-By the late 1990s, the FBI knew there was still a mole. Ames was in prison, but secrets were still leaking.
+By the late 1990s, the FBI knew another mole existed. Ames was in prison. Secrets were still leaking.
 
-So who was it?
+The investigators built a profile. It pointed to a CIA officer named Brian Kelley.
 
-The investigators built a profile. And it pointed to a CIA officer named Brian Kelley.
-
-For about two years, the FBI hunted him. They followed him. They searched his home. They questioned his family. They told him to his face that they knew he was a spy.
+According to the Inspector General's report, the FBI spent years on him. They followed him. Searched his home. Questioned his family. Agents even told him to his face that they knew he was a spy.
 
 Brian Kelley was innocent.
 
-The real mole was working inside the FBI the whole time… watching the hunt from the inside.
+The man they wanted was sitting in FBI offices the whole time.
+
+Close enough to watch the hunt.
+
+So the FBI tried something different. If they could not find the mole in America…
+
+they would buy him in Moscow.
 
 [CHAPTER 7: THE SEVEN-MILLION-DOLLAR TRASH BAG]
 
-The case was finally broken not in America… but in Moscow.
+The FBI found a former Russian intelligence officer with access to the KGB's file on "B."
 
-The FBI found a former Russian intelligence officer willing to sell the mole's file.
+The price, according to later reporting, was around seven million dollars.
 
-The price? About seven million dollars.
+Inside the file was a plastic trash bag "B" had once used to wrap documents. It still had fingerprints on it.
 
-Inside was the original package from "B." A plastic trash bag he had once used to wrap documents… still carrying his fingerprints.
+And a recording of a 1986 phone call between "B" and the KGB.
 
-And a recording. A 1986 phone call with the KGB. The voice of the mole himself.
+FBI agents listened to the voice, expecting Brian Kelley.
 
-When FBI agents played the tape, they did not hear Brian Kelley.
+It was not Brian Kelley.
 
-They heard Robert Hanssen.
+One of them recognised it at once. It was Robert Hanssen.
 
-There was one more clue. In his letters, the mole had quoted a strange line from the film "Patton," about "purple-pissing Japanese." An FBI agent remembered a colleague who used to repeat that exact line.
+Then came the detail that sealed it. In one recording, the mole used an odd line from the film "Patton," about "the purple-pissing Japanese."
 
-It was Hanssen.
+An agent remembered a colleague who used to say exactly that.
+
+Robert Hanssen.
+
+The fingerprints matched.
+
+Now they had to catch him in the act.
 
 [CHAPTER 8: THE YOUNG AGENT AND THE PALM PILOT]
 
-Now the FBI had to catch him in the act.
+The FBI gave Hanssen a new job at headquarters, where he could be watched.
 
-They promoted him into a new office at headquarters, so they could watch him. And they gave him a young assistant, a young surveillance specialist named Eric O'Neill.
+And they gave him an assistant. A young surveillance specialist named Eric O'Neill.
 
-O'Neill's real job was to watch his boss.
+O'Neill later told the full story in his book "Gray Day." His real job was to watch his boss, every hour of every day.
 
-One day, while Hanssen was out of the office, O'Neill took Hanssen's Palm Pilot from his bag, passed it to agents to copy, and slipped it back… with seconds to spare.
+One afternoon, while Hanssen was out, O'Neill took the Palm Pilot from Hanssen's bag, handed it to agents to copy, and put it back.
 
-Inside were the details of his next drop.
+Moments before Hanssen returned.
 
-This story later became the Hollywood film "Breach."
+On it were the details of his next dead drop.
 
-On February 18, 2001, Hanssen drove to Foxstone Park, left one last package under the footbridge… and walked into the arms of the FBI.
+Hollywood later turned this into the film "Breach."
+
+On February 18, 2001, Hanssen went to Foxstone Park, left one final package under the footbridge…
 
 "What took you so long?"
 
 [CHAPTER 9: THE PRICE OF BETRAYAL]
 
-To avoid the death penalty, Hanssen pleaded guilty to fifteen counts of espionage and conspiracy.
+To avoid the death penalty, Hanssen pleaded guilty to fifteen counts of espionage and conspiracy, and agreed to tell investigators everything.
 
-In return, he agreed to tell the government everything he had given away.
+He was sentenced to life without parole, and sent to the supermax prison in Florence, Colorado. Twenty-three hours a day alone in a concrete cell.
 
-He was sentenced to life in prison without parole, and sent to the supermax prison in Florence, Colorado. Twenty-three hours a day in a concrete cell.
+He died there in June 2023, aged seventy-nine.
 
-He died there, in June 2023, at seventy-nine.
+The Justice Department's Inspector General called his spying "possibly the worst intelligence disaster in U.S. history."
 
-A U.S. government review later called his betrayal possibly the worst intelligence disaster in American history.
+And why did he do it?
 
-And when they asked him why…
+He never gave one clear answer. Money. Ego. Anger at a Bureau he felt never respected him.
 
-he never gave one clear answer.
+Or maybe the answer was written in his own letter.
 
-Money. Ego. Revenge on a system that never respected him. A fourteen-year-old boy who wanted to be Kim Philby.
+A fourteen-year-old boy, reading about Kim Philby… and deciding who he wanted to be.
 
 [FINAL]
 
-Robert Hanssen spent twenty-two years hunting spies.
+For twenty-two years, Robert Hanssen hunted spies.
 
-And for every one of those years… he was the spy.
+And for twenty-two years, he was the spy.
 
-He prayed every morning. He sold his country every night.
+He prayed in the morning. He sold his country at night.
 
-And men who had trusted America paid for it with their lives.
+And men who had trusted America paid with their lives.
 
-But betrayal is not only a story of spies and the Cold War.
+Hanssen betrayed his country from inside its own walls.
 
-Two hundred years earlier, in India, a ruler known as the Tiger of Mysore fought the British empire to the very last day…
+But two hundred years earlier, in South India, a ruler who had beaten the British on the battlefield for thirty years…
 
-and was destroyed not by his enemies, but by his own ministers.
+would find out what happens when the traitors are inside your walls.
 
-That's next. Tipu Sultan.
+Tipu Sultan. The Tiger of Mysore.
+
+That's next.
 
 Subscribe to Legends & Betrayals, so you don't miss it.

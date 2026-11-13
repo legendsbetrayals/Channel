@@ -71,3 +71,5 @@ Edit in place, never re-upload the same file. Change title and thumbnail togethe
 - Contested claims are flagged in the narration ("according to tradition", "never confirmed", "some historians believe it was exaggerated").
 - Only call back to videos with a lower number in VIDEO-ORDER.md.
 - Each video folder has sources.md; its SOURCES & FURTHER READING block goes into the description, after WATCH MORE and before Credits.
+- Montage formula: 20-30 s; every line has a verb and an action; lines get shorter as they build; 2-3 open questions the video answers; one real quote as a jolt; ends on a title-card line. Never a list of "A [noun]..." fragments.
+- Spoken sources name the person or institution ("the Justice Department's Inspector General", "historian William Dalrymple"), not long book titles. Each chapter ends on a turn, not a summary.

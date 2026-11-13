@@ -20,29 +20,31 @@ And he was a spy for Israel.
 
 [MONTAGE]
 
-A boy from Alexandria who wanted to be a rabbi.
+He was rejected by the Mossad.
 
-A fake life, built from nothing, in Buenos Aires.
+So they came back for him… and built him a new name, a new past, a new country.
 
-A radio transmitter hidden in an apartment… a few streets from Syrian intelligence.
+In Buenos Aires, he became a Syrian millionaire.
 
-Secret tours of the Golan Heights, as a guest of the Syrian army.
+In Damascus, he became everyone's best friend.
 
-A Soviet machine that listened to the air.
+Generals drank at his table. Ministers asked his advice. The army walked him through its most secret bunkers.
 
-A wife who begged an embassy for mercy… and was sent away.
+And every night, he went home, closed the curtains… and tapped their secrets to Israel.
 
-A wristwatch that came home after fifty-three years.
+Did he really trick Syria into planting the trees that would guide Israel's guns?
 
-And, in 2025, two and a half thousand secret files… taken back from Syria.
+Why did the Mossad bring home a dead man's watch, fifty-three years later?
 
-This is the story of Eli Cohen.
+And what was in the secret Syrian files Israel took back in 2025?
 
-Israel calls him its greatest spy.
+Three years. One radio. One signal too many.
 
-Syria called him a traitor's nightmare.
+"I am begging you, my dear Nadia…"
 
-The truth… is somewhere in between.
+This is Eli Cohen.
+
+The spy who almost ran Syria's army.
 
 [CHAPTER 1: THE BOY FROM ALEXANDRIA]
 
@@ -53,8 +55,6 @@ Remember that. Syria was in his blood before it was ever his mission.
 As a boy, he studied to become a rabbi. Later, he studied at university in Cairo.
 
 He grew up speaking Arabic like a native. Then French. Hebrew. English. And Spanish.
-
-He had a memory that people found almost unnatural.
 
 In the early 1950s, he was involved in the secret work of helping Egyptian Jews leave for Israel. The Egyptian authorities arrested and questioned him… but could not prove anything.
 
@@ -78,7 +78,7 @@ His life as a spy seemed over before it started.
 
 Until the head of the Mossad, Meir Amit, was looking through the files of rejected candidates… and found his name again.
 
-According to the historians Ian Black and Benny Morris, in their book "Israel's Secret Wars," Israel badly needed eyes inside Syria. Syrian guns on the Golan Heights were firing down on Israeli farms in the valley below.
+As the historians Ian Black and Benny Morris explain in their history of Israeli intelligence, "Israel's Secret Wars," Israel badly needed eyes inside Syria. Syrian guns on the Golan Heights were firing down on Israeli farms in the valley below.
 
 They needed someone who could pass as a Syrian Arab.
 
@@ -116,7 +116,7 @@ In 1963, the Ba'ath Party seized power in Syria. And many of the men who had dru
 
 Twice a day, sometimes more, he sent coded radio messages to Israel. Troop positions. Weapons. Plans. Political fights inside the government.
 
-According to the book "Historical Dictionary of Israeli Intelligence," by Ephraim Kahana, he rose so high that he was reportedly considered for the post of Deputy Minister of Defence.
+The Israeli intelligence historian Ephraim Kahana writes that Cohen was reportedly on the short list for Deputy Minister of Defence.
 
 But, to be honest with you… many historians believe this part of the story has been exaggerated over the years.
 
@@ -142,7 +142,9 @@ But it has never been confirmed. And some experts point out that Israel had othe
 
 Still, when Israel took the Golan Heights in just two days in 1967… many Israelis believed one man had helped make it possible.
 
-By then, he had already been dead for two years.
+But by then, Eli Cohen had already been dead for two years.
+
+Because in Damascus, someone had started listening.
 
 [CHAPTER 6: THE MACHINE THAT LISTENED]
 
@@ -182,7 +184,9 @@ She was turned away at the door.
 
 Syria refused everyone.
 
-Many of the men Cohen had fooled were powerful. The humiliation was enormous. Someone had to pay.
+Many of the men Cohen had fooled were powerful. The humiliation was enormous.
+
+Someone had to pay. And the whole country would watch.
 
 [CHAPTER 8: THE LAST LETTER]
 
