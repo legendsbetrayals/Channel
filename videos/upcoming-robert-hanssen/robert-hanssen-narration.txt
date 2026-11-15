@@ -26,6 +26,10 @@ And the most shocking part?
 
 For much of that time… he had been working inside the very team that was hunting him.
 
+And while they hunted, an innocent man's life was being torn apart in his place.
+
+If you've ever trusted a colleague completely… this story will stay with you.
+
 [MONTAGE]
 
 At fourteen, he read a book about a traitor… and decided to become one.
@@ -162,6 +166,10 @@ Hundreds of millions of dollars of work.
 
 Hanssen gave it away.
 
+Stop for a second and think about that number.
+
+Six thousand pages. If you stacked them, they would stand taller than a man. Each page could cost a life.
+
 And the next morning… he was back at Mass.
 
 But the people closest to him were starting to notice things.
@@ -186,6 +194,12 @@ Checking if anyone was close.
 
 Nobody was.
 
+So let me ask you, before we go on.
+
+His own brother-in-law warned the FBI in 1990. Eleven years before the arrest.
+
+Should they have caught him then? Or would you have believed it about your own colleague? Tell me in the comments. I read them.
+
 Because the FBI was sure the mole was somebody else.
 
 [CHAPTER 6: HUNTING THE WRONG MAN]
@@ -195,6 +209,12 @@ By the late 1990s, the FBI knew another mole existed. Ames was in prison. Secret
 The investigators built a profile. It pointed to a CIA officer named Brian Kelley.
 
 According to the Inspector General's report, the FBI spent years on him. They followed him. Searched his home. Questioned his family. Agents even told him to his face that they knew he was a spy.
+
+Kelley was a decorated officer. A father. A man who had spent his career hunting spies himself.
+
+Now his own colleagues were treating him as one. His family was questioned. His career stopped. He lived for years under suspicion, with no idea why.
+
+And he had done nothing.
 
 Brian Kelley was innocent.
 
@@ -230,6 +250,10 @@ Robert Hanssen.
 
 The fingerprints matched.
 
+Now, think about what that moment was like.
+
+Years hunting one man… and the voice on the tape belongs to someone who sat in your meetings. Ate in your cafeteria. Maybe helped plan the search.
+
 Now they had to catch him in the act.
 
 [CHAPTER 8: THE YOUNG AGENT AND THE PALM PILOT]
@@ -260,6 +284,10 @@ He was sentenced to life without parole, and sent to the supermax prison in Flor
 
 He died there in June 2023, aged seventy-nine.
 
+And Brian Kelley? He was cleared, and the FBI apologised to him. He went back to work at the CIA, training officers to catch spies.
+
+He died in 2011. He spent the rest of his life knowing how close he came to being remembered as a traitor.
+
 The Justice Department's Inspector General called his spying "possibly the worst intelligence disaster in U.S. history."
 
 And why did he do it?
@@ -269,6 +297,8 @@ He never gave one clear answer. Money. Ego. Anger at a Bureau he felt never resp
 Or maybe the answer was written in his own letter.
 
 A fourteen-year-old boy, reading about Kim Philby… and deciding who he wanted to be.
+
+So what do you think really drove him? Money, ego, or that book? Tell me in the comments.
 
 [FINAL]
 

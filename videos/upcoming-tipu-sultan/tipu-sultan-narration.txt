@@ -26,6 +26,10 @@ The British had not beaten him alone.
 
 Someone had opened the door.
 
+If you grew up in Pakistan or India, you have heard his name all your life. If you live in Britain, his treasures may be sitting in a museum near you.
+
+But very few people know how his last day really went.
+
 [MONTAGE]
 
 His father couldn't read or write… and still took a kingdom.
@@ -142,7 +146,11 @@ The boys were about eight and five years old.
 
 British artists painted the scene. Two small princes in fine robes, led by the hand to Lord Cornwallis.
 
+Imagine being that father. Watching your little boys walk away, into the enemy camp, not knowing if you will see them again.
+
 Tipu paid. The boys came home.
+
+Remember those two boys. Their story is not over.
 
 But he knew the British would come again.
 
@@ -186,7 +194,9 @@ Other historians believe the betrayal story grew bigger with time. It was easier
 
 Both may be true.
 
-But what happened on the last day… is very hard to explain without them.
+So here is my question for you. Was Tipu Sultan truly betrayed? Or was he simply outnumbered, and the traitors were blamed later? Tell me what you think in the comments.
+
+Because the evidence on the last day is hard to ignore.
 
 [CHAPTER 7: THE SIEGE]
 
@@ -204,7 +214,9 @@ For weeks, British siege guns hammered the walls.
 
 On May 3, 1799, a section of the wall collapsed.
 
-And the British chose their commander for the assault.
+Now pause here, because this is the twist history loves.
+
+The British chose their commander for the assault.
 
 General David Baird.
 
@@ -260,6 +272,12 @@ And, according to a story told for more than two hundred years, a British genera
 
 "Gentlemen, I drink to the corpse of India."
 
+And the two little boys who had once been handed to Lord Cornwallis as hostages?
+
+They were grown men now. And they lost everything a second time. Tipu's sons were sent away from Mysore as prisoners of the British, to the fort at Vellore.
+
+They had been hostages as children. Now they were captives for life.
+
 With Tipu gone, no ruler in the south could stop the Company.
 
 [FINAL]
@@ -275,6 +293,8 @@ But on one thing, almost everyone agrees.
 For thirty years, the British could not finish him on the battlefield.
 
 In the end, the walls were opened from inside.
+
+So was he a freedom fighter, a harsh ruler, or both? I want to know where you stand. Tell me in the comments, and keep it respectful.
 
 That is the pattern we see again and again on this channel. Empires are rarely destroyed from outside.
 

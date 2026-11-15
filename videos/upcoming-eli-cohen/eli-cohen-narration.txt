@@ -18,6 +18,8 @@ His real name was Eli Cohen.
 
 And he was a spy for Israel.
 
+If you watched Netflix's "The Spy," you've seen the legend. Today, we look at the record. And the record is stranger.
+
 [MONTAGE]
 
 He was rejected by the Mossad.
@@ -84,6 +86,10 @@ They needed someone who could pass as a Syrian Arab.
 
 Eli Cohen was perfect.
 
+But for Nadia, it meant something else. Her husband told her he was going abroad on work for the defence ministry.
+
+She had no idea where he was really going. She would not find out until the whole world did.
+
 [CHAPTER 3: BECOMING KAMEL]
 
 The training lasted about six months. Codes. Radio. How to lie, and keep lying.
@@ -112,6 +118,8 @@ He was hiding right in front of them.
 
 He threw parties. He lent money to officers who needed it. He gave gifts. He listened.
 
+And every so often, he flew "on business" to Europe, then quietly on to Israel, to see Nadia and the children. She saw a tired husband, back from long trips abroad. Nothing more.
+
 In 1963, the Ba'ath Party seized power in Syria. And many of the men who had drunk at his table… were suddenly running the country.
 
 Twice a day, sometimes more, he sent coded radio messages to Israel. Troop positions. Weapons. Plans. Political fights inside the government.
@@ -120,7 +128,9 @@ The Israeli intelligence historian Ephraim Kahana writes that Cohen was reported
 
 But, to be honest with you… many historians believe this part of the story has been exaggerated over the years.
 
-What is not in doubt… is what he saw next.
+So pause and think about it. A rejected recruit, three years undercover, nearly inside the defence ministry. Is that the greatest spy story ever… or a legend that grew with each retelling? Tell me in the comments.
+
+Because what is not in doubt… is what he saw next.
 
 [CHAPTER 5: THE TREES ON THE GOLAN]
 
@@ -159,6 +169,8 @@ Soviet experts brought direction-finding equipment. Machines that could track a 
 They waited for a quiet moment. They shut off other transmissions in the city.
 
 And they listened.
+
+Now, here's a detail historians still argue about. Cohen was transmitting very often. Sometimes twice a day. Pressure from Israel? Or a spy who had grown too confident?
 
 On January 24, 1965, Syrian security officers, led by Colonel Ahmed Suidani, broke down the door of an apartment in Abu Rummaneh.
 
@@ -228,6 +240,10 @@ They were handed to his widow, Nadia.
 
 Sixty years later, she was finally holding what her husband had left behind.
 
+The young wife who was turned away at an embassy door in 1965… had spent her whole life asking for him back.
+
+She never got his body. But she got his words.
+
 [FINAL]
 
 Was Eli Cohen really about to become Syria's Deputy Defence Minister?
@@ -245,6 +261,8 @@ In our Aldrich Ames and Robert Hanssen videos, we saw what a traitor inside can 
 Eli Cohen is the other side of that coin.
 
 A stranger who made a whole government believe he was one of their own.
+
+So, hero, or a legend that grew too big? Tell me in the comments.
 
 But in the next story, the danger was not a spy from outside.
 
