@@ -6,270 +6,188 @@ May 18, 1965. Marjeh Square, Damascus. Just after three in the morning.
 
 A man in a white sheet is led to a wooden gallows.
 
-Around him, a crowd. Soldiers. And cameras. Syria has decided the whole country should see this.
+Around him stand soldiers, a crowd, and cameras. Syria wants the whole country to see this.
 
-For three years, this man had been one of the most popular figures in Damascus.
+For three years, this man had been one of the most popular figures in Damascus. Generals drank at his table. Ministers asked his advice. Some sources say he was on the short list to become Syria's Deputy Minister of Defence.
 
-He threw the best parties in the city. Generals drank at his table. Senior officials asked for his advice. Some sources even say his name was on the short list… to become Syria's Deputy Minister of Defence.
+Syria knew him as Kamel Amin Thaabet, a wealthy businessman home from Argentina.
 
-His name, as far as Syria knew, was Kamel Amin Thaabet. A rich Syrian businessman, back home from Argentina.
+His real name was Eli Cohen. And he was a spy for Israel.
 
-His real name was Eli Cohen.
+Netflix made a series about him. But the real record is stranger.
 
-And he was a spy for Israel.
+How did a man the Mossad once rejected reach the heart of Syria's government?
 
-If you watched Netflix's "The Spy," you've seen the legend. Today, we look at the record. And the record is stranger.
+And what finally gave him away?
 
 [MONTAGE]
 
-He was rejected by the Mossad.
-
-So they came back for him… and built him a new name, a new past, a new country.
+He was turned down by the Mossad. Then they came back for him, and built him a new name, a new past and a new country.
 
 In Buenos Aires, he became a Syrian millionaire.
 
-In Damascus, he became everyone's best friend.
+In Damascus, he became everyone's friend. Generals filled his parties. The army walked him through its most secret bunkers on the Golan Heights.
 
-Generals drank at his table. Ministers asked his advice. The army walked him through its most secret bunkers.
+And every night, behind closed curtains, he tapped their secrets to Israel.
 
-And every night, he went home, closed the curtains… and tapped their secrets to Israel.
+His wife thought he was on business trips.
 
-Did he really trick Syria into planting the trees that would guide Israel's guns?
+Soviet experts brought a machine that could hear him.
 
-Why did the Mossad bring home a dead man's watch, fifty-three years later?
-
-And what was in the secret Syrian files Israel took back in 2025?
-
-Three years. One radio. One signal too many.
+And sixty years after his death, Israel's spies went back into Syria… for his files.
 
 "I am begging you, my dear Nadia…"
 
 This is Eli Cohen.
 
-The spy who almost ran Syria's army.
-
 [CHAPTER 1: THE BOY FROM ALEXANDRIA]
 
-Eliyahu Ben-Shaul Cohen was born in Alexandria, Egypt, in December 1924, to a Jewish family whose roots were in Aleppo, Syria.
+Eliyahu Ben-Shaul Cohen was born in Alexandria, Egypt, in December 1924, to a Jewish family whose roots lay in Aleppo, Syria.
 
-Remember that. Syria was in his blood before it was ever his mission.
+Syria was in his family's story long before it became his mission.
 
-As a boy, he studied to become a rabbi. Later, he studied at university in Cairo.
+As a boy, he studied to become a rabbi. Later he went to university in Cairo. He grew up speaking Arabic like a native, along with French, Hebrew, English and Spanish.
 
-He grew up speaking Arabic like a native. Then French. Hebrew. English. And Spanish.
+In the early 1950s, he was drawn into secret work helping Egyptian Jews leave for Israel. Egyptian authorities arrested and questioned him, but could prove nothing.
 
-In the early 1950s, he was involved in the secret work of helping Egyptian Jews leave for Israel. The Egyptian authorities arrested and questioned him… but could not prove anything.
+Then came the Suez Crisis of 1956, and thousands of Jews were forced out of Egypt.
 
-Then came the Suez Crisis of 1956. Thousands of Jews were pushed out of Egypt.
-
-Eli Cohen was one of them.
-
-He arrived in Israel with nothing.
+Eli Cohen was one of them. He arrived in Israel with almost nothing, and with one skill few Israelis had: he could pass as an Arab from Damascus.
 
 [CHAPTER 2: THE MAN THEY REJECTED]
 
-In Israel, Cohen worked for military intelligence, as a translator and analyst.
+In Israel, he worked for military intelligence as a translator and analyst. He wanted more, and applied to the Mossad.
 
-He wanted more. He applied to the Mossad.
+The Mossad turned him down.
 
-The Mossad said no.
+So he left, took an office job, and in 1959 married Nadia, a young woman born in Iraq. They would have three children. His life as a spy seemed over before it began.
 
-So he quit, took an office job, and in 1959 married Nadia, a young woman born in Iraq. They would have three children.
+Then the head of the Mossad, Meir Amit, went looking through the files of rejected candidates, and found Cohen's name again.
 
-His life as a spy seemed over before it started.
+As historians Ian Black and Benny Morris explain in "Israel's Secret Wars," Israel badly needed eyes inside Syria. Syrian guns on the Golan Heights were firing down on Israeli farms in the valley below.
 
-Until the head of the Mossad, Meir Amit, was looking through the files of rejected candidates… and found his name again.
+They needed a man who could become a Syrian.
 
-As the historians Ian Black and Benny Morris explain in their history of Israeli intelligence, "Israel's Secret Wars," Israel badly needed eyes inside Syria. Syrian guns on the Golan Heights were firing down on Israeli farms in the valley below.
+Cohen said yes. He told Nadia he would be travelling abroad for work.
 
-They needed someone who could pass as a Syrian Arab.
-
-Eli Cohen was perfect.
-
-But for Nadia, it meant something else. Her husband told her he was going abroad on work for the defence ministry.
-
-She had no idea where he was really going. She would not find out until the whole world did.
+She had no idea where he was really going. She would learn it the same day the whole world did.
 
 [CHAPTER 3: BECOMING KAMEL]
 
-The training lasted about six months. Codes. Radio. How to lie, and keep lying.
+The training lasted about six months: codes, radio, and how to live inside a lie.
 
-And then, a new man was born.
+Then Eli Cohen disappeared, and Kamel Amin Thaabet was born. A Syrian whose family had moved to Argentina. A successful businessman who longed for his homeland.
 
-Kamel Amin Thaabet. A Syrian whose family had moved to Argentina. A successful businessman who loved his homeland.
+In 1961, he flew to Buenos Aires, home to a large Syrian community. He joined their clubs and gatherings. He was generous, charming, and full of praise for the Ba'ath Party, the movement about to take power in Damascus.
 
-In 1961, Cohen flew to Buenos Aires, where there was a large Syrian community.
+His new friends were impressed. They wrote him letters of introduction.
 
-He went to their clubs. Their parties. Their mosques. He became known as a patriot, generous, rich, and full of praise for the Ba'ath Party, the movement that would soon take power in Damascus.
-
-The people he met wrote letters of introduction for him.
-
-To Syria.
+Letters addressed to Damascus.
 
 [CHAPTER 4: THE BEST PARTIES IN DAMASCUS]
 
-In early 1962, Kamel Amin Thaabet arrived in Damascus.
+In early 1962, Kamel Amin Thaabet moved to Damascus and rented an apartment in the Abu Rummaneh district, close to the headquarters of Syrian military intelligence.
 
-He rented an apartment in the Abu Rummaneh district.
+He was hiding in plain sight.
 
-And here is the detail that sounds like fiction. His apartment was close to the headquarters of Syrian military intelligence.
+He threw parties. He lent money to officers. He gave gifts, and above all, he listened.
 
-He was hiding right in front of them.
+Every so often he flew "on business" to Europe, then quietly on to Israel to see Nadia and the children. She saw a tired husband back from long trips. Nothing more.
 
-He threw parties. He lent money to officers who needed it. He gave gifts. He listened.
+In 1963, the Ba'ath Party seized power in Syria, and many of the men who had drunk at Kamel's table were suddenly running the country.
 
-And every so often, he flew "on business" to Europe, then quietly on to Israel, to see Nadia and the children. She saw a tired husband, back from long trips abroad. Nothing more.
+Now his radio messages carried troop movements, weapons, and the political fights inside the government.
 
-In 1963, the Ba'ath Party seized power in Syria. And many of the men who had drunk at his table… were suddenly running the country.
+The Israeli intelligence historian Ephraim Kahana writes that Cohen was reportedly on the short list for Deputy Minister of Defence. Many historians believe that claim grew with time.
 
-Twice a day, sometimes more, he sent coded radio messages to Israel. Troop positions. Weapons. Plans. Political fights inside the government.
-
-The Israeli intelligence historian Ephraim Kahana writes that Cohen was reportedly on the short list for Deputy Minister of Defence.
-
-But, to be honest with you… many historians believe this part of the story has been exaggerated over the years.
-
-So pause and think about it. A rejected recruit, three years undercover, nearly inside the defence ministry. Is that the greatest spy story ever… or a legend that grew with each retelling? Tell me in the comments.
-
-Because what is not in doubt… is what he saw next.
+But there is no doubt about where his friends took him next.
 
 [CHAPTER 5: THE TREES ON THE GOLAN]
 
-His friends in the army took him on tours of the Golan Heights.
+Officers he had befriended took him on tours of the Golan Heights, the most sensitive military zone in Syria.
 
-The most secret military zone in Syria.
+He saw the bunkers, the gun positions, and plans for three lines of defence.
 
-He saw the bunkers. The gun positions. The plans for three lines of defence.
+From those visits comes the most famous story about him. Cohen is said to have suggested planting eucalyptus trees beside every position, to give the soldiers shade. In 1967, the story goes, Israeli forces used those trees as markers.
 
-And there is a famous story.
+It has never been confirmed, and some experts note that Israel had other ways of watching the Golan, from the air and on the ground.
 
-Cohen is said to have told the Syrian officers that their soldiers needed shade. He suggested they plant eucalyptus trees next to every position.
+Still, when Israel captured the Golan Heights in two days during the Six-Day War, many Israelis believed one man had helped make it possible.
 
-Years later, in the Six-Day War of 1967, Israeli pilots and gunners supposedly used those trees to find their targets.
+By then, Eli Cohen had been dead for two years.
 
-It is one of the most famous spy stories ever told.
-
-But it has never been confirmed. And some experts point out that Israel had other ways to see the Golan, from the air and from the ground.
-
-Still, when Israel took the Golan Heights in just two days in 1967… many Israelis believed one man had helped make it possible.
-
-But by then, Eli Cohen had already been dead for two years.
-
-Because in Damascus, someone had started listening.
+Because while he was watching Syria, Syria had started listening.
 
 [CHAPTER 6: THE MACHINE THAT LISTENED]
 
-By late 1964, Syrian intelligence had a problem.
+By late 1964, Syrian intelligence noticed interference on their radio communications. Someone in Damascus was transmitting.
 
-Their radio communications kept getting interference. Someone in Damascus was transmitting.
+They turned to the Soviet Union. Soviet experts arrived with direction-finding equipment that could trace a signal to the building it came from.
 
-So they turned to the Soviet Union.
+Cohen was transmitting often, sometimes more than once a day. Historians still debate whether that was pressure from Israel or a spy who had grown too confident. Either way, it gave the Syrians what they needed.
 
-Soviet experts brought direction-finding equipment. Machines that could track a radio signal to the building it came from.
+They silenced other transmissions across the city, and waited.
 
-They waited for a quiet moment. They shut off other transmissions in the city.
+On January 24, 1965, security officers led by Colonel Ahmed Suidani broke down the door of an apartment in Abu Rummaneh. They said they caught the rich businessman in the middle of a message to Israel.
 
-And they listened.
-
-Now, here's a detail historians still argue about. Cohen was transmitting very often. Sometimes twice a day. Pressure from Israel? Or a spy who had grown too confident?
-
-On January 24, 1965, Syrian security officers, led by Colonel Ahmed Suidani, broke down the door of an apartment in Abu Rummaneh.
-
-Inside, they said, they found the rich businessman in the middle of sending a message to Israel.
-
-After three years… Kamel Amin Thaabet was gone.
-
-Only Eli Cohen was left.
+After three years, Kamel Amin Thaabet was gone. Only Eli Cohen was left.
 
 [CHAPTER 7: THE WORLD BEGS FOR MERCY]
 
-He was tortured. Interrogated again and again. And tried before a military court.
+He was interrogated and tortured, then tried before a military court. The sentence was death.
 
-The sentence was death.
+Israel launched a desperate campaign to save him. According to Israeli and international reports, it offered money, medicine, even the release of prisoners. The Pope appealed for mercy, and so did governments across Europe.
 
-Israel launched a desperate campaign to save him. According to Israeli and international reports, Israel offered money, medicine, even the release of prisoners.
-
-The Pope asked Syria for mercy. So did governments across Europe.
-
-His wife Nadia flew to Paris and went to the Syrian embassy to beg for her husband's life.
+Nadia flew to Paris and went to the Syrian embassy to plead for her husband's life.
 
 She was turned away at the door.
 
-Syria refused everyone.
+The men Cohen had fooled were among the most powerful in Syria, and the humiliation was enormous. Syria refused every appeal.
 
-Many of the men Cohen had fooled were powerful. The humiliation was enormous.
-
-Someone had to pay. And the whole country would watch.
+There would be no exchange. Only a last letter.
 
 [CHAPTER 8: THE LAST LETTER]
 
-Three days before his execution, Eli Cohen was allowed to write one last letter to his family.
-
-He wrote in Arabic, under the eyes of his guards.
-
-And in that letter, he wrote these words to his wife:
+Three days before his execution, Cohen was allowed to write to his family. He wrote in Arabic, under the eyes of his guards. To his wife, he wrote:
 
 "I am begging you, my dear Nadia, not to spend your time in weeping about something already passed."
 
-He asked her to look after their children. To take care of herself. And to remarry, if she wished.
+He asked her to care for their children, to look after herself, and to remarry if she wished.
 
-On May 18, 1965, he was hanged in Marjeh Square, in the centre of Damascus. The Chief Rabbi of Syria, Nissim Indibo, was with him at the end, as he had asked.
+On May 18, 1965, he was hanged in Marjeh Square. The Chief Rabbi of Syria, Nissim Indibo, stayed with him at the end, as he had asked. His body was left on public display for hours.
 
-His body was left hanging in public for hours, with a sign on his chest.
+Syria never returned it. To this day, no one outside Syria knows for certain where he is buried.
 
-Syria never returned his body.
-
-To this day, nobody outside Syria knows for certain where he is buried.
+For Nadia, that was not the end of the story. It was the start of a search that would last the rest of her life.
 
 [CHAPTER 9: THE SPY WHO NEVER CAME HOME]
 
-But the story did not end in 1965.
+In 2018, the Mossad announced it had recovered Eli Cohen's wristwatch, the one he wore in Damascus, after it surfaced for sale. It now sits at Mossad headquarters.
 
-In 2018, the Mossad announced it had brought home Eli Cohen's wristwatch. The watch he had worn in Damascus. It had appeared for sale, and the Mossad got it back.
+In 2019, Netflix told his story in the series "The Spy," with Sacha Baron Cohen in the lead.
 
-It now sits at Mossad headquarters.
+Then, in May 2025, sixty years after his execution, the Israeli Prime Minister's Office announced that a covert Mossad operation had brought back around two thousand five hundred documents and personal items from Syria: the official Syrian file on Eli Cohen.
 
-In 2019, Netflix turned his life into a series, "The Spy," with Sacha Baron Cohen playing him.
-
-And then, in May 2025… exactly sixty years after his execution… the Israeli Prime Minister's Office announced something extraordinary.
-
-In a secret operation, the Mossad had retrieved around two thousand five hundred documents and personal items from Syria. The official Syrian file on Eli Cohen.
-
-His letters. Photographs. The keys to his apartment in Damascus. And his will.
+His letters. Photographs. The keys to his apartment in Damascus. His will.
 
 They were handed to his widow, Nadia.
 
-Sixty years later, she was finally holding what her husband had left behind.
-
-The young wife who was turned away at an embassy door in 1965… had spent her whole life asking for him back.
-
-She never got his body. But she got his words.
+The young wife turned away at an embassy door in 1965 had spent sixty years asking for him back. She never got his body. But she finally held his words.
 
 [FINAL]
 
-Was Eli Cohen really about to become Syria's Deputy Defence Minister?
+Was he truly about to become Syria's Deputy Defence Minister? Did his trees really guide the guns in 1967? Some of the legend may never be proven.
 
-Maybe. Maybe not.
+But the record is clear on the rest. For three years, a man the Mossad once rejected moved through the heart of Damascus, smiling at the men who would have killed him, and they never saw it.
 
-Did his trees really guide the guns in 1967?
+In our Aldrich Ames and Robert Hanssen stories, we saw what a traitor inside can do to his own country. Eli Cohen is the other side of the coin: an outsider who made a government believe he was one of its own.
 
-We may never know.
+So, was he Israel's greatest spy, or a legend that grew too big? Tell me in the comments.
 
-But this much is on the record. For three years, a man who was rejected by the Mossad walked through the heart of Damascus, smiling at the men who would have killed him… and they never saw it.
+In our next story, the danger does not come from outside at all.
 
-In our Aldrich Ames and Robert Hanssen videos, we saw what a traitor inside can do to his own country.
-
-Eli Cohen is the other side of that coin.
-
-A stranger who made a whole government believe he was one of their own.
-
-So, hero, or a legend that grew too big? Tell me in the comments.
-
-But in the next story, the danger was not a spy from outside.
-
-The man who saved the Muslim world from the Crusaders… would have to survive assassins sent by the very people who should have stood beside him.
+The sultan who defeated the Crusaders and won back Jerusalem had to survive assassins and plots from people who should have stood beside him.
 
 Salahuddin Ayyubi.
 
-That's next.
-
-Subscribe to Legends & Betrayals, so you don't miss it.
+That's next. Subscribe to Legends & Betrayals so you don't miss it.

@@ -6,306 +6,208 @@ May 4, 1799. Srirangapatna, South India. One o'clock in the afternoon.
 
 The hottest hour of the day.
 
-Behind the walls of his island fortress waits the Tiger of Mysore. For thirty years, his family has fought the British East India Company… and many times, they have won.
+Inside his island fortress waits Tipu Sultan, the Tiger of Mysore. For more than thirty years, he and his father have fought the British East India Company, and many times, they have won.
 
-In front of the walls, thousands of British soldiers lie in their trenches, waiting for a signal.
+Outside, British soldiers lie in the trenches, waiting for a signal.
 
-And on the wall, there is a fresh breach. Wide enough for an army.
+In the wall between them is a fresh breach, wide enough for an army. It should be the best-guarded spot in the fortress.
 
-It should be the most heavily defended place in the fortress.
-
-But just before the attack… according to Mysore tradition, the soldiers guarding it are called away.
+But according to Mysore tradition, just before the attack, its defenders are called away.
 
 To collect their pay.
 
-On the orders of the Sultan's own chief minister.
+On the order of the Sultan's own chief minister.
 
-By sunset, the Tiger of Mysore lay dead in a heap of bodies, at a gate of his own city.
+By sunset, Tipu Sultan lay dead in a heap of bodies at a gate of his own city.
 
-The British had not beaten him alone.
+The British did not beat him alone.
 
-Someone had opened the door.
-
-If you grew up in Pakistan or India, you have heard his name all your life. If you live in Britain, his treasures may be sitting in a museum near you.
-
-But very few people know how his last day really went.
+Someone opened the door.
 
 [MONTAGE]
 
-His father couldn't read or write… and still took a kingdom.
+His father couldn't read or write, and still took a kingdom.
 
-His rockets set the sky on fire, and destroyed a British army in a single morning.
+His rockets set the sky on fire and wiped out a British army in a single morning.
 
-The British were so shaken, they shipped those rockets home… and copied them.
+The British carried those rockets home… and copied them.
 
-He handed two of his little sons to the enemy as hostages… and swore he would never forget.
+He handed two small sons to his enemies as hostages, and swore he would never forget.
 
-He wrote to Napoleon. The British read the reply first.
+He reached out to Napoleon. The British read the reply first.
 
-He built a wooden tiger that eats a British soldier. It still roars, in a London museum.
+He built a wooden tiger that devours a British soldier. It still growls in a London museum.
 
-And the whole time, the men he trusted most were talking to his enemies.
+And all the while, the men he trusted most were talking to the other side.
 
-So who really betrayed the Tiger?
-
-And what did they get for it?
-
-This is Tipu Sultan.
-
-The ruler the British feared most in India.
+This is the story of Tipu Sultan, the ruler the British feared most in India… and the men who sold him out.
 
 [CHAPTER 1: THE SOLDIER'S SON]
 
-Tipu was born in November 1750, in Devanahalli, near today's Bangalore.
+Tipu was born in November 1750, at Devanahalli, near today's Bangalore.
 
-His father, Hyder Ali, began as an ordinary soldier in the army of the Hindu kingdom of Mysore. He could not read or write.
+His father, Hyder Ali, started out as an ordinary soldier in the army of the Hindu kingdom of Mysore. He never learned to read or write. Yet within twenty years, he was the real power in the kingdom.
 
-But within twenty years, he was the real power in Mysore.
+He gave his son the education he never had: languages, mathematics, religion, science.
 
-He gave his son what he never had. Tipu studied languages, mathematics, religion and science.
+And he gave him war. As a teenager, Tipu was already leading cavalry at his father's side.
 
-And he gave him something else.
+Hyder Ali understood something most rulers of his time missed. As the historian William Dalrymple shows in "The Anarchy," a private company of London traders was swallowing India one kingdom at a time, with its own army.
 
-War.
+Hyder Ali refused to be next.
 
-As a teenager, Tipu was already commanding cavalry beside his father.
-
-Because Hyder Ali saw something most Indian rulers of that time did not. In his book "The Anarchy," the historian William Dalrymple shows how a private company of traders from London was quietly swallowing India, one kingdom at a time.
-
-Hyder Ali was not going to be next.
-
-And in 1780, he and his son proved it.
+In 1780, father and son showed the Company exactly what that meant.
 
 [CHAPTER 2: THE SKY ON FIRE]
 
 September 1780. A village called Pollilur.
 
-A British column under Colonel William Baillie is marching to join the main army.
+A British column under Colonel William Baillie was marching to join the main army. Hyder and Tipu were waiting for it.
 
-Hyder and Tipu are waiting.
+And Mysore had a weapon no European army possessed: iron rockets. Tubes of hammered iron packed with gunpowder, strapped to long bamboo shafts, screaming across the field in waves.
 
-And Mysore has a weapon no European army has.
+In the chaos, the British ammunition carts exploded. Baillie's force collapsed. Dalrymple calls Pollilur one of the worst defeats the Company ever suffered in India.
 
-Iron rockets. Tubes of hammered iron packed with gunpowder, strapped to long bamboo poles. They scream across the battlefield, and they keep coming.
+The survivors were marched in chains to Srirangapatna. Among them was a young Scottish officer, David Baird, who would spend nearly four years in Mysore's prisons.
 
-During the fighting, the British ammunition carts explode.
+He would not forget that city. And twenty years later, he would return to it.
 
-Baillie's army collapses. Dalrymple describes Pollilur as one of the worst defeats the Company ever suffered in India.
+The rockets left their own mark. After the wars, the British shipped captured ones home, and the inventor William Congreve used them to develop the Congreve rocket, the same rockets fired at America in 1814. "The rockets' red glare," in the American national anthem, has roots in Mysore.
 
-The survivors are marched in chains to Srirangapatna.
-
-Among them is a young Scottish officer named David Baird. He will spend almost four years in Mysore's prisons.
-
-Keep that name in mind.
-
-Because twenty years later, he will come back.
-
-The rockets made such an impression that, after the wars, the British shipped captured ones to England. The inventor William Congreve studied them, and created the Congreve rocket.
-
-The same kind of rockets Britain fired at America in 1814. "The rockets' red glare," in the American national anthem.
-
-A weapon with roots in Mysore.
+Two years after Pollilur, Hyder Ali was dead. The war, and the kingdom, passed to his son.
 
 [CHAPTER 3: THE TIGER ON THE THRONE]
 
-In December 1782, Hyder Ali died in camp, in the middle of a war.
+Tipu became Sultan in December 1782, in the middle of a war.
 
-Tipu became Sultan.
+He set out to build a modern state. A new calendar. New coins. New weights and measures. Embassies to the Ottoman Sultan and to the King of France. Silk farms, and plans for a navy.
 
-He wanted a modern state. He introduced a new calendar, new coins, new weights and measures. He sent embassies to the Ottoman Sultan, and to the King of France. He built up silk farming, and planned a navy.
+And he surrounded himself with one symbol: the tiger. Tiger stripes on his soldiers' uniforms. Tigers on his cannons. A golden tiger's head on his throne.
 
-And everywhere, there was a tiger. On his soldiers' uniforms. On his cannons. On the golden throne.
+His strangest possession was a machine: a life-size wooden tiger mauling a European soldier. Turn the handle, and the tiger roars while the soldier cries out. Today, "Tipu's Tiger" stands in the Victoria and Albert Museum in London, and according to the museum, the organ inside still works.
 
-The strangest of all was a machine.
+Tipu left no doubt about who his enemy was.
 
-A life-size wooden tiger, mauling a European soldier. Turn a handle, and the tiger roars… and the soldier screams.
-
-Today, "Tipu's Tiger" is in the Victoria and Albert Museum in London. According to the museum, it still contains the original organ that makes those sounds.
-
-Tipu made it clear who his enemy was.
-
-But he never quite saw the enemies standing beside him.
+The British, for their part, had learned a lesson from Pollilur. They would not face Mysore alone again.
 
 [CHAPTER 4: THE HOSTAGE PRINCES]
 
-By 1790, the British understood they could not beat Mysore alone.
+The man who built the alliance was Lord Cornwallis, the same general who had surrendered to George Washington at Yorktown. Now Governor-General of India, he joined the Company with the Marathas and the Nizam of Hyderabad.
 
-So they found partners.
+Three armies, one target.
 
-Lord Cornwallis, the same general who had surrendered to George Washington at Yorktown, now ran British India. He built an alliance: the Company, the Marathas and the Nizam of Hyderabad.
+In 1792, they reached Srirangapatna. To save his capital, Tipu signed a crushing treaty. He gave up about half his kingdom and agreed to pay more than three crore rupees.
 
-Three armies. One target.
+Until the money was paid, two of his sons would be held as hostages. The boys were about eight and five.
 
-In 1792, they reached the walls of Srirangapatna.
+British artists painted the moment: two small princes in fine robes, led by the hand to Lord Cornwallis, while their father remained behind the walls.
 
-To save his capital, Tipu signed a crushing treaty. He gave up about half his kingdom. He agreed to pay more than three crore rupees.
+Tipu paid every rupee, and his sons came home.
 
-And until it was paid, he had to give the British two of his sons as hostages.
-
-The boys were about eight and five years old.
-
-British artists painted the scene. Two small princes in fine robes, led by the hand to Lord Cornwallis.
-
-Imagine being that father. Watching your little boys walk away, into the enemy camp, not knowing if you will see them again.
-
-Tipu paid. The boys came home.
-
-Remember those two boys. Their story is not over.
-
-But he knew the British would come again.
-
-And this time, he needed a friend powerful enough to stop them.
+But he knew the British would be back. To survive, he needed an ally even they feared.
 
 [CHAPTER 5: THE LETTER FROM NAPOLEON]
 
-He looked to France.
+He turned to France.
 
-French officers in Srirangapatna formed a revolutionary club. Tipu was hailed as "Citizen Tipu."
+French officers in Srirangapatna formed a revolutionary club and hailed him as "Citizen Tipu."
 
-And in 1798, a young general named Napoleon Bonaparte invaded Egypt, dreaming of reaching India.
+In 1798, a young French general, Napoleon Bonaparte, landed in Egypt with dreams of reaching India. He wrote to Tipu, promising to come with an army and free him "from the iron yoke of England."
 
-Napoleon wrote to Tipu. He promised to come with an army, and to free him, in his words, "from the iron yoke of England."
+The letter never had the effect Napoleon intended. British agents intercepted it, and it landed on the desk of the new Governor-General in Calcutta, Richard Wellesley.
 
-But the British intercepted the letter.
+For Wellesley, it was all the proof he needed. Mysore had to fall before the French could arrive.
 
-In Calcutta, the new Governor-General, Richard Wellesley, now had all the proof he needed.
+War was now certain.
 
-Tipu must be destroyed before the French could arrive.
-
-The war was coming.
-
-But inside Tipu's court, some men had already chosen their side.
+And inside Tipu's own court, some of the men closest to him were already deciding which side they would be on when it came.
 
 [CHAPTER 6: THE MEN AROUND THE SULTAN]
 
-Tipu ruled through a small circle of trusted officials.
+Tipu governed through a small inner circle.
 
-His chief minister: Mir Sadiq.
+Mir Sadiq, his chief minister.
 
-His finance minister: Purnaiah, a brilliant administrator who had served Hyder Ali before him.
+Purnaiah, his finance minister, a gifted administrator who had served Hyder Ali before him.
 
-And senior commanders like Mir Qamaruddin.
+And senior commanders such as Mir Qamaruddin.
 
-They knew the treasury. The army. The walls.
+These men knew the treasury, the troops, and the weak points in the walls.
 
-Accounts from Mysore after the war, and later historians such as Mohibbul Hasan in his "History of Tipu Sultan," describe ministers who were in secret contact with the British and their allies before the final attack.
+Mysore accounts written after the war, and historians such as Mohibbul Hasan in his "History of Tipu Sultan," describe officials who were in secret contact with the British and their allies before the final assault.
 
-Other historians believe the betrayal story grew bigger with time. It was easier, perhaps, to blame traitors than to admit the Tiger was simply outnumbered.
+Other historians argue the betrayal story grew with time, that it was easier to blame traitors than to accept that the Tiger was simply outnumbered.
 
-Both may be true.
-
-So here is my question for you. Was Tipu Sultan truly betrayed? Or was he simply outnumbered, and the traitors were blamed later? Tell me what you think in the comments.
-
-Because the evidence on the last day is hard to ignore.
+Both may hold some truth. But the events of the last day are very hard to explain without treachery.
 
 [CHAPTER 7: THE SIEGE]
 
-In early 1799, the British invaded with a huge army under General George Harris, joined by the forces of Hyderabad.
+In early 1799, a huge British army under General George Harris invaded Mysore, joined by the forces of Hyderabad.
 
-In that army was Richard Wellesley's younger brother. Colonel Arthur Wellesley.
+Marching with it was Richard Wellesley's younger brother, Colonel Arthur Wellesley, the future Duke of Wellington, who would defeat Napoleon at Waterloo sixteen years later.
 
-Sixteen years later, he would defeat Napoleon at Waterloo, as the Duke of Wellington.
+At Srirangapatna, his night attack on a grove called Sultanpet went badly wrong. Lost in the dark and under fire, he was forced to pull back, one of the few failures of his career.
 
-But at Srirangapatna, his night attack on a grove called Sultanpet went wrong. Lost in the dark, under fire, he had to pull back. It was one of the few failures of his career.
+It barely slowed the siege. For weeks, British guns pounded the walls, until on May 3, a section finally collapsed.
 
-It didn't change much.
+To lead the assault through that breach, the British chose General David Baird.
 
-For weeks, British siege guns hammered the walls.
-
-On May 3, 1799, a section of the wall collapsed.
-
-Now pause here, because this is the twist history loves.
-
-The British chose their commander for the assault.
-
-General David Baird.
-
-The same man who had once sat chained in Tipu's prisons.
+The same man who had once sat in chains inside this city.
 
 [CHAPTER 8: THE LAST DAY]
 
-May 4. One o'clock.
+May 4, one o'clock. The British attack in the midday heat, expecting the defenders to be resting.
 
-The British attack in the midday heat, when they expect the defenders to be resting.
-
-At the breach, there are far fewer defenders than there should be.
-
-According to Mysore tradition, Mir Sadiq had called the men away to receive their pay… at the exact hour of the attack.
+At the breach, there are far fewer men than there should be. According to Mysore tradition, Mir Sadiq had sent them to collect their pay at that very hour.
 
 The British pour through.
 
-Tipu is at his midday meal when the news reaches him. He leaves it, takes his sword, and goes to the walls.
+Tipu is at his midday meal when the news reaches him. He leaves the meal, takes up his sword and rides for the walls.
 
-His officers urge him to escape, or to surrender.
-
-The words remembered from him that day became famous across India:
+His officers urge him to flee or surrender. The words remembered from him that day became famous across the subcontinent:
 
 "It is better to live one day as a tiger, than a hundred years as a sheep."
 
-He fights along the walls, falling back toward the Water Gate. He is hit. He keeps fighting. He is hit again.
+He fights along the ramparts, falling back toward the Water Gate, wounded once, then again.
 
-And according to the same Mysore accounts, Mir Sadiq, trying to escape that afternoon, was recognised by Tipu's own soldiers… and cut down.
+According to the same Mysore accounts, Mir Sadiq tried to escape that afternoon, was recognised by Tipu's own soldiers, and was cut down. In parts of South India, his name is still used as a word for traitor.
 
-In parts of South India, his name is still used as an insult. It means traitor.
+By evening, the guns had stopped. But no one knew where the Sultan was.
 
 [CHAPTER 9: THE TIGER IS DEAD]
 
-As night fell, the British searched for the Sultan.
+As darkness fell, a palace servant led British officers to the Water Gate.
 
-A palace servant led them to the Water Gate.
+Beneath a pile of dead and wounded men, they found Tipu Sultan. His body still warm. His eyes open. He had been shot several times.
 
-Under a pile of dead and wounded men, they found him. His body still warm. Eyes open. He had been shot several times.
-
-David Baird stood over the man who had once held him prisoner.
-
-Tipu Sultan was forty-eight.
+David Baird looked down at the man who had once held him prisoner. Tipu was forty-eight.
 
 The next day, he was buried beside his father in the Gumbaz, the mausoleum that still stands at Srirangapatna.
 
-And the men around him?
+Purnaiah, the finance minister, became chief minister of a new Mysore under British protection, serving a five-year-old boy from the old royal family.
 
-Purnaiah became chief minister of the new Mysore, under British protection, serving a five-year-old boy from the old royal family.
+The British carried off Tipu's treasure, his weapons, his throne and his tiger. Pieces still appear at London auctions today. And according to a story told for more than two centuries, a British general raised a glass that night: "Gentlemen, I drink to the corpse of India."
 
-The British carried away Tipu's treasure, his weapons, his throne, and his tiger. Pieces of it still appear at London auctions today.
+As for the two boys once handed to Cornwallis, they were grown men now. Tipu's sons were taken from Mysore as prisoners of the British and held at the fort of Vellore.
 
-And, according to a story told for more than two hundred years, a British general raised his glass that night and said:
-
-"Gentlemen, I drink to the corpse of India."
-
-And the two little boys who had once been handed to Lord Cornwallis as hostages?
-
-They were grown men now. And they lost everything a second time. Tipu's sons were sent away from Mysore as prisoners of the British, to the fort at Vellore.
-
-They had been hostages as children. Now they were captives for life.
-
-With Tipu gone, no ruler in the south could stop the Company.
+Hostages as children. Captives as men.
 
 [FINAL]
 
-Tipu Sultan is still argued about.
+Tipu Sultan is still debated. To many, he is a freedom fighter who refused to bow. To others, he was a harsh ruler whose campaigns are remembered with pain in some regions.
 
-To many, he is a freedom fighter who refused to bow.
-
-To others, he was a harsh ruler, and in some regions his campaigns are remembered with pain.
-
-But on one thing, almost everyone agrees.
-
-For thirty years, the British could not finish him on the battlefield.
+But almost everyone agrees on this. For more than thirty years, the British could not finish Mysore on the battlefield.
 
 In the end, the walls were opened from inside.
 
-So was he a freedom fighter, a harsh ruler, or both? I want to know where you stand. Tell me in the comments, and keep it respectful.
+So was Tipu truly betrayed, or simply outnumbered? Tell me what you think in the comments, and keep it respectful.
 
-That is the pattern we see again and again on this channel. Empires are rarely destroyed from outside.
+Sometimes the enemy inside is a trusted minister.
 
-But sometimes, the enemy inside is not a minister.
+Sometimes he is a stranger who becomes the most trusted man in the country.
 
-Sometimes, he is a stranger who becomes the most trusted man in the country.
-
-In the 1960s, an Israeli spy got so close to Syria's leaders… that, some say, he was nearly made Deputy Minister of Defence.
+In the 1960s, an Israeli spy got so close to Syria's leaders that some say he was nearly made Deputy Minister of Defence.
 
 His name was Eli Cohen.
 
-That's next.
-
-Subscribe to Legends & Betrayals, so you don't miss it.
+That's next. Subscribe to Legends & Betrayals so you don't miss it.
