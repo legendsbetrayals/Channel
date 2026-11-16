@@ -78,3 +78,11 @@ Edit in place, never re-upload the same file. Change title and thumbnail togethe
 ## Thumbnail text rule (16 Nov 2026)
 - NEVER replace a letter in the thumbnail text with an object (no seals, wheels, coins, keys, compasses, crowns as letters). Letters stay pure letters.
 - Texture, cracks, bevel, shadow, font styling and drifting particles on the text are fine. The link object (rope, ribbon, line) from text into the scene is still fine.
+
+## Thumbnail v6 "slim" (16 Nov 2026, from Miraflow / vidIQ best practice)
+- ONE focal idea readable in under 2 seconds; one main story face + the creator. No second characters, ghost faces or crowds unless the idea depends on it (then one shadow only).
+- Text 2-4 words. No stamp tag. Minimal particles.
+- 3-colour palette per thumbnail: one dominant, one accent, yellow text as the pop; red only in the creator's rim light.
+- Keep: one scene with dramatic irony, creator + prop + in-character face, torn edge, white/yellow wide heavy text top-left, link object, no object-letters.
+- Test & Compare variant: story scene only, without the creator, to learn if the face helps CTR.
+- Before upload: view at 120px wide; the hook must show the thumbnail moment within the first 15 seconds.
