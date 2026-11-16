@@ -74,3 +74,7 @@ Edit in place, never re-upload the same file. Change title and thumbnail togethe
 - Montage formula: 20-30 s; every line has a verb and an action; lines get shorter as they build; 2-3 open questions the video answers; one real quote as a jolt; ends on a title-card line. Never a list of "A [noun]..." fragments.
 - Spoken sources name the person or institution ("the Justice Department's Inspector General", "historian William Dalrymple"), not long book titles. Each chapter ends on a turn, not a summary.
 - Story-first (15 Nov 2026): ONE central question set in the hook and answered at the end. Chronological spine; the last line of each chapter hands off causally into the next (but/so, never "and then"). Interrupts come from the story itself (twists, callbacks, flash-forwards), not from talking to the viewer. Only ONE comment question, at the end. One identity/Western touch in the hook at most. One emotional arc planted early, paid off near the end.
+
+## Thumbnail text rule (16 Nov 2026)
+- NEVER replace a letter in the thumbnail text with an object (no seals, wheels, coins, keys, compasses, crowns as letters). Letters stay pure letters.
+- Texture, cracks, bevel, shadow, font styling and drifting particles on the text are fine. The link object (rope, ribbon, line) from text into the scene is still fine.
