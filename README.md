@@ -86,3 +86,9 @@ Edit in place, never re-upload the same file. Change title and thumbnail togethe
 - Keep: one scene with dramatic irony, creator + prop + in-character face, torn edge, white/yellow wide heavy text top-left, link object, no object-letters.
 - Test & Compare variant: story scene only, without the creator, to learn if the face helps CTR.
 - Before upload: view at 120px wide; the hook must show the thumbnail moment within the first 15 seconds.
+
+## Thumbnail v7 (16 Nov 2026, creator's direction; replaces v6 "slim" where they conflict)
+- The story side shows the INCIDENT in action: invasion, fire, storming soldiers, the moment of betrayal. Ultimate emotion on the main face (terror, rage, grief). Mild blood allowed (a cut, a stained blade or sleeve), never gore, wounds, bodies or a weapon striking a person.
+- Text is BIG: line 2 spans ~60-65% of the image width. The main character's head, shoulder or hair slightly overlaps the bottom of the text (never covering more than ~15% of any letter).
+- Catchphrase: 2-4 simple words in ONE voice about the event (no character quote mixed with a narrator verdict), creating a strong curiosity gap. Never answers what the image already shows.
+- Kept from v6: one main story face + the creator, torn edge, 3-colour palette + red accents, no stamp tag, no object-letters, 120px check, story-only test variant.
