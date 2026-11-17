@@ -94,3 +94,13 @@ Edit in place, never re-upload the same file. Change title and thumbnail togethe
 - Kept from v6: one main story face + the creator, torn edge, 3-colour palette + red accents, no stamp tag, no object-letters, 120px check, story-only test variant.
 - Text style is FIXED on every thumbnail (16 Nov 2026): line 1 bright white, line 2 bright yellow #FFE600, BOTH with the same fine dark cracked texture, ultra-heavy wide sans, large. No per-story textures (wood, gold, stencil, stone, etc.).
 - Divider (17 Nov 2026): THIN, about 1% of image width — a razor-thin glowing ember crack / hairline tear with a soft red-orange glow and a few sparks, the two sides blending through smoke. Never a thick white torn-paper band.
+
+## Thumbnail v8 additions (17 Nov 2026)
+- Dark zone behind the text (smoke / night sky + soft dark gradient); fire never directly behind the letters.
+- Cracks subtle and fine: letters read as solid colour at 120px.
+- 2-3px near-black outline on every letter + drop shadow.
+- Main character's eyes/body angled toward the text.
+- Creator side 30%, story 70%.
+- Background action soft-focused and darker than the main face.
+- One cool tone (blue night/smoke) against the warm fire: teal-and-orange.
+- Test & Compare changes ONE variable only.
