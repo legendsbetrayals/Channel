@@ -93,3 +93,4 @@ Edit in place, never re-upload the same file. Change title and thumbnail togethe
 - Catchphrase: 2-4 simple words in ONE voice about the event (no character quote mixed with a narrator verdict), creating a strong curiosity gap. Never answers what the image already shows.
 - Kept from v6: one main story face + the creator, torn edge, 3-colour palette + red accents, no stamp tag, no object-letters, 120px check, story-only test variant.
 - Text style is FIXED on every thumbnail (16 Nov 2026): line 1 bright white, line 2 bright yellow #FFE600, BOTH with the same fine dark cracked texture, ultra-heavy wide sans, large. No per-story textures (wood, gold, stencil, stone, etc.).
+- Divider (17 Nov 2026): THIN, about 1% of image width — a razor-thin glowing ember crack / hairline tear with a soft red-orange glow and a few sparks, the two sides blending through smoke. Never a thick white torn-paper band.
