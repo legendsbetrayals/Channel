@@ -104,3 +104,4 @@ Edit in place, never re-upload the same file. Change title and thumbnail togethe
 - Background action soft-focused and darker than the main face.
 - One cool tone (blue night/smoke) against the warm fire: teal-and-orange.
 - Test & Compare changes ONE variable only.
+- 17 Nov 2026: creator preferred the v7 + thin-divider Aztec prompt over v8. Default = v7 + thin divider + fixed white/yellow cracked text. v8 items are optional suggestions only.
